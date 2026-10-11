@@ -1,7 +1,7 @@
 {
   "dataset_name": "Kolkata Live Traffic Advisories",
   "provenance": "Official Kolkata Police Facebook Updates (#kolkatatrafficupdate)",
-  "last_collected_at": "2026-10-11T17:38:54.898155+00:00",
+  "last_collected_at": "2026-10-11T18:03:36.837939+00:00",
   "historical_events_count": 6,
   "latest_state_per_location": {
     "RR Avenue": {
@@ -70,7 +70,7 @@
       "source_page": "KolkataTrafficPolice",
       "posted_at": "2026-10-11T12:44:14.567489+00:00",
       "timestamp_precision": "relative",
-      "collected_at": "2026-10-11T17:38:54.898155+00:00"
+      "collected_at": "2026-10-11T18:03:36.837939+00:00"
     },
     {
       "id": "KP-LIVE-FB-pfbid02piFaxBSrTL7qGZxfrcgJNaFjmJSCD7SPMdrUWtQYy79zTvt41BNA3aXJzqWU8CNAl",
