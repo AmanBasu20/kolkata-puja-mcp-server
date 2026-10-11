@@ -1,8 +1,8 @@
 {
   "dataset_name": "Kolkata Live Traffic Advisories",
   "provenance": "Official Kolkata Police Facebook Updates (#kolkatatrafficupdate)",
-  "last_collected_at": "2026-10-11T16:03:54.618007+00:00",
-  "historical_events_count": 5,
+  "last_collected_at": "2026-10-11T16:40:35.858734+00:00",
+  "historical_events_count": 6,
   "latest_state_per_location": {
     "RR Avenue": {
       "traffic_status": "normal",
@@ -20,21 +20,31 @@
       "directions": {
         "flank": "middle flank"
       },
-      "raw_clause": "Traffic update:- Due to a programme, southern and middle flank of RR Avenue has been closed for vehicular traffic. #Kolkatatrafficupdate Like Comment",
-      "original_message": "Traffic update:- Due to a programme, southern and middle flank of RR Avenue has been closed for vehicular traffic. #Kolkatatrafficupdate Like Comment",
+      "raw_clause": "Traffic update:- Due to a programme, southern and middle flank of RR Avenue has been closed for vehicular traffic. #Kolkatatrafficupdate",
+      "original_message": "Traffic update:- Due to a programme, southern and middle flank of RR Avenue has been closed for vehicular traffic. #Kolkatatrafficupdate",
       "posted_at": "2026-10-11T10:56:15.811650+00:00",
       "timestamp_precision": "relative",
       "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid0EQfR3xwm1c7S92KFJmjjo1cmwLtkFLevmgFapn9yiaibUDV5oKoLCCJfmScrf53Jl"
     },
     "Dorina Crossing": {
-      "traffic_status": "normal",
-      "cause": "unknown",
+      "traffic_status": "unknown",
+      "cause": "procession",
       "directions": {},
-      "raw_clause": "Traffic update:- Dorina crossing is free to traffic. #Kolkatatrafficupdate",
-      "original_message": "Traffic update:- Dorina crossing is free to traffic. #Kolkatatrafficupdate",
-      "posted_at": "2026-10-11T11:24:18.202114+00:00",
+      "raw_clause": "Traffic update:- Due to a procession, traffic is obstructed at Dorina crossing. necessary diversions are on. #Kolkatatrafficupdate",
+      "original_message": "Traffic update:- Due to a procession, traffic is obstructed at Dorina crossing. necessary diversions are on. #Kolkatatrafficupdate",
+      "posted_at": "2026-10-11T11:40:35.858734+00:00",
       "timestamp_precision": "relative",
-      "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid02KmFoiN9jhe88P1fGHK16hkCMx66EV5Cmf3Lj2hYDtvxXSt44xK2pe8WabJcCKjDVl"
+      "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid02piFaxBSrTL7qGZxfrcgJNaFjmJSCD7SPMdrUWtQYy79zTvt41BNA3aXJzqWU8CNAl"
+    },
+    "Dorina crossing": {
+      "traffic_status": "unknown",
+      "cause": "procession",
+      "directions": {},
+      "raw_clause": "Traffic update:- Due to a procession, traffic is obstructed at Dorina crossing. necessary diversions are on. #Kolkatatrafficupdate",
+      "original_message": "Traffic update:- Due to a procession, traffic is obstructed at Dorina crossing. necessary diversions are on. #Kolkatatrafficupdate",
+      "posted_at": "2026-10-11T11:40:35.858734+00:00",
+      "timestamp_precision": "relative",
+      "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid02piFaxBSrTL7qGZxfrcgJNaFjmJSCD7SPMdrUWtQYy79zTvt41BNA3aXJzqWU8CNAl"
     }
   },
   "historical_records": [
@@ -60,7 +70,33 @@
       "source_page": "KolkataTrafficPolice",
       "posted_at": "2026-10-11T12:44:14.567489+00:00",
       "timestamp_precision": "relative",
-      "collected_at": "2026-10-11T16:03:54.618007+00:00"
+      "collected_at": "2026-10-11T16:40:35.858734+00:00"
+    },
+    {
+      "id": "KP-LIVE-FB-pfbid02piFaxBSrTL7qGZxfrcgJNaFjmJSCD7SPMdrUWtQYy79zTvt41BNA3aXJzqWU8CNAl",
+      "post_id": "pfbid02piFaxBSrTL7qGZxfrcgJNaFjmJSCD7SPMdrUWtQYy79zTvt41BNA3aXJzqWU8CNAl",
+      "locations": [
+        "Dorina Crossing",
+        "Dorina crossing"
+      ],
+      "clause_states": [
+        {
+          "locations": [
+            "Dorina Crossing",
+            "Dorina crossing"
+          ],
+          "traffic_status": "unknown",
+          "cause": "procession",
+          "directions": {},
+          "raw_clause": "Traffic update:- Due to a procession, traffic is obstructed at Dorina crossing. necessary diversions are on. #Kolkatatrafficupdate"
+        }
+      ],
+      "message": "Traffic update:- Due to a procession, traffic is obstructed at Dorina crossing. necessary diversions are on. #Kolkatatrafficupdate",
+      "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid02piFaxBSrTL7qGZxfrcgJNaFjmJSCD7SPMdrUWtQYy79zTvt41BNA3aXJzqWU8CNAl",
+      "source_page": "KolkataTrafficPolice",
+      "posted_at": "2026-10-11T11:40:35.858734+00:00",
+      "timestamp_precision": "relative",
+      "collected_at": "2026-10-11T16:40:35.858734+00:00"
     },
     {
       "id": "KP-LIVE-FB-pfbid02KmFoiN9jhe88P1fGHK16hkCMx66EV5Cmf3Lj2hYDtvxXSt44xK2pe8WabJcCKjDVl",
@@ -84,7 +120,7 @@
       "source_page": "KolkataTrafficPolice",
       "posted_at": "2026-10-11T11:24:18.202114+00:00",
       "timestamp_precision": "relative",
-      "collected_at": "2026-10-11T12:42:09.595373+00:00"
+      "collected_at": "2026-10-11T16:40:35.858734+00:00"
     },
     {
       "id": "KP-LIVE-FB-pfbid0EQfR3xwm1c7S92KFJmjjo1cmwLtkFLevmgFapn9yiaibUDV5oKoLCCJfmScrf53Jl",
@@ -104,15 +140,15 @@
           "directions": {
             "flank": "middle flank"
           },
-          "raw_clause": "Traffic update:- Due to a programme, southern and middle flank of RR Avenue has been closed for vehicular traffic. #Kolkatatrafficupdate Like Comment"
+          "raw_clause": "Traffic update:- Due to a programme, southern and middle flank of RR Avenue has been closed for vehicular traffic. #Kolkatatrafficupdate"
         }
       ],
-      "message": "Traffic update:- Due to a programme, southern and middle flank of RR Avenue has been closed for vehicular traffic. #Kolkatatrafficupdate Like Comment",
+      "message": "Traffic update:- Due to a programme, southern and middle flank of RR Avenue has been closed for vehicular traffic. #Kolkatatrafficupdate",
       "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid0EQfR3xwm1c7S92KFJmjjo1cmwLtkFLevmgFapn9yiaibUDV5oKoLCCJfmScrf53Jl",
       "source_page": "KolkataTrafficPolice",
       "posted_at": "2026-10-11T10:56:15.811650+00:00",
       "timestamp_precision": "relative",
-      "collected_at": "2026-10-11T10:56:15.811650+00:00"
+      "collected_at": "2026-10-11T16:40:35.858734+00:00"
     },
     {
       "id": "KP-LIVE-FB-pfbid02Jwrk9AxSwwa8WcrqhTAugC7yc1Ws8ynWUYFBQTGokvGWmoMGaYcwJ13BGSvpnk8Zl",
