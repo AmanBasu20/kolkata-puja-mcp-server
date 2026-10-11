@@ -1,315 +1,223 @@
-# Kolkata Puja Tourist MCP Server
+# Kolkata Puja Tourist MCP
 
-An MCP (Model Context Protocol) server for exploring Kolkata's Durga Puja pandals in 2026. It exposes tools that an MCP-compatible AI assistant can use to search pandals, retrieve details, plan routes, find nearby metro stations and restaurants, inspect recent pandal updates, and query collected Kolkata Police traffic advisories.
+A Model Context Protocol (MCP) server for exploring Kolkata Durga Puja pandals and planning local visits using the project's 2026 datasets. It exposes tools for pandal discovery, walking/driving routes, date-specific Metro route suggestions, nearby restaurants, and selected traffic/condition context.
 
-> **Project status:** The core MCP and traffic-collection workflows have been developed and tested locally. Puja ritual schedules (such as Anjali and Bhog timings), the comparative user survey, the non-technical user manual, and a standalone search website/app remain release tasks unless the repository has since been updated to include them. Do not treat an unverified or missing schedule as a confirmed event time.
-
-## Contents
-
-- [Features](#features)
-- [Project layout](#project-layout)
-- [Requirements](#requirements)
-- [Local setup](#local-setup)
-- [Run and inspect the MCP server](#run-and-inspect-the-mcp-server)
-- [Traffic collector](#traffic-collector)
-- [Available MCP tools](#available-mcp-tools)
-- [Example questions](#example-questions)
-- [Data quality and limitations](#data-quality-and-limitations)
-- [Release checklist](#release-checklist)
-- [Security](#security)
-- [References](#references)
 
 ## Features
 
+- Search pandals by name, area, address, or zone.
+- Look up pandal details and find nearby pandals.
+- Calculate driving and pedestrian routes through Geoapify.
+- Plan multi-stop driving routes, including an optional optimized order.
+- Build a mixed-mode Puja itinerary with walking and a date-specific Metro station route where the planner's access rules allow it.
+- Find nearest Metro stations and inspect Kolkata Metro's recorded special Puja service information.
+- Search the local restaurant dataset and inspect recorded opening-hour information.
+- Retrieve curated Puja routes, ritual schedule data, selected verified pandal social-page links, traffic advisories, and road-traffic-derived area-busyness snapshots.
+
+The server uses locally bundled datasets for many lookups. External route calculation requires a Geoapify API key. Data sources and caveats are recorded in relevant dataset files and tool responses where available.
+
+## Important limitations
+
+
+- **Metro suggestions are not live train tracking.** Published service data can change; check official Metro Railway notices for amendments or disruptions.
+- **Busyness is a proxy.** The busyness snapshots are derived from sampled nearby road-traffic conditions. They are not direct pedestrian counts, queues, passenger density, or crowd forecasts.
+- **Restaurant information is from the local dataset.** It is not live reservation availability, and listed opening hours may change.
+
+## Tools and resources
+
 ### Pandal discovery
 
-- Search pandals by name or query.
-- Retrieve a pandal's saved details, including location and available theme/artist information.
-- Find nearby pandals using coordinates or a pandal name.
-- Retrieve the latest available pandal update from the dynamic update dataset, when a matching record exists.
+- `search_pandals`
+- `get_pandal_details`
+- `find_nearby_pandals`
+- `find_nearby_pandals_by_name`
+- `get_pandal_crowding`
+- `get_latest_pandal_update`
+- `get_nearby_pandal_official_pages`
 
-### Routes and transport
+### Route and itinerary planning
 
-- Find nearby metro stations and the nearest metro station for a named pandal.
-- Calculate routes between pandals and plan multi-stop or walking routes.
-- Retrieve planned Puja routes from the local route dataset.
-- Routing depends on the configured routing services and network availability.
+- `get_route_between_pandals`
+- `plan_puja_route`
+- `plan_walking_puja_route`
+- `recommend_puja_route`
+- `get_planned_puja_routes`
+- `plan_puja_trip`
 
-### Restaurants
+### Metro
 
-- Search saved restaurant data and find restaurants near coordinates or a pandal.
-- Query the project’s restaurant availability tool when relevant data is available.
+- `get_nearest_metro`
+- `get_nearest_metro_by_pandal`
+- `get_metro_station_crowding`
+- `plan_metro_journey`
+- `get_metro_puja_special_services`
+- `get_routing_service_health`
 
-### Traffic advisories
+### Restaurants and conditions
 
-- Collect posts from the official Kolkata Traffic Police Facebook page using the `#kolkatatrafficupdate` hashtag.
-- Extract candidate locations, traffic status, cause and direction from eligible posts.
-- Keep historical post records and deduplicate by a stable post identifier.
-- Build a separate active-state view so stale advisories are not automatically presented as current conditions.
-- Preserve the Facebook post URL and timestamp-precision metadata where available.
+- `search_restaurants`
+- `find_nearby_restaurants`
+- `find_nearby_restaurants_by_pandal`
+- `get_restaurant_availability`
+- `get_live_traffic`
+- `get_puja_schedule`
 
-**Traffic source policy:** The collector described here is intended to use the official Kolkata Traffic Police Facebook page only. It does not intentionally use RSS or X/Twitter sources. Verify the actual collector configuration before deployment.
+### MCP resources
 
-## Project layout
+- `puja://2026/pandals`
+- `puja://transport`
+- `puja://restaurants`
+- `puja://2026/schedule`
+- `metro://2026/puja-special-services`
 
-The data paths used by the server and collector should match the layout in your checked-out repository. The key files are expected to include:
-
-```text
-kolkata-puja-mcp/
-├── collectors/
-│   ├── kolkatakhoj_scraper.py
-│   ├── kp_live_traffic.py
-│   └── theme_builder_ai.py
-├── data/
-│   ├── dynamic/
-│   │   ├── facebook_images_2026/
-│   │   ├── facebook_image_validation_cache_2026.json
-│   │   ├── live_traffic_2026.json
-│   │   ├── pandal_themes_2026.json
-│   │   ├── pandal_updates_2026.json
-│   │   └── pandal_updates_2026.json.bak
-│   └── static/
-│       ├── kolkata_master_2026.json
-│       ├── metro_stations.json
-│       ├── official_pandal_facebook_pages_2026.json
-│       ├── pandals_2026.json
-│       ├── planned_puja_routes_2026.json
-│       ├── popular_pandals_2026.json
-│       └── restaurants.json
-├── scripts/
-│   └── scrape_pandal_facebook_updates_2026.py
-├── src/
-│   ├── client.py
-│   └── server.py
-├── .gitignore
-├── LICENSE
-├── README.md
-├── requirements-dev.txt
-└── requirements.txt
-```
-Some files may be omitted from a clone if they are generated locally or excluded from version control. Confirm which datasets must be committed for the server to start and which should be generated by collectors.
+Tool names and input schemas exposed by the running MCP server are authoritative. Use your MCP client or MCP Inspector to inspect the current schemas.
 
 ## Requirements
 
-- Python compatible with the Python version used by the project’s current virtual environment.
-- The Model Context Protocol Python SDK and its CLI tools.
-- Beautiful Soup for parsing HTML.
-- Playwright and its Chromium browser for the Facebook collector.
-- Network access to the configured routing services if route calculations are required.
-
-The server’s data files are JSON. The traffic collector requires a working browser installation and may be affected by Facebook’s page layout, login prompts, rate limits or access restrictions.
+- Python 3.10 or later (use a Python version supported by the dependencies pinned in this repository).
+- The project dependency file (`requirements.txt`) and the data files referenced by `src/server.py`.
+- A Geoapify API key for driving/walking route calculations.
+- Node.js/npm only if you want to run MCP Inspector via `npx`.
 
 ## Local setup
 
-The following commands are for Windows PowerShell. Run them from the repository root, for example `D:\kolkata-puja-mcp`.
+Run these commands from the project root.
 
-### 1. Create or activate the virtual environment
-
-If the project’s existing `.venv` is already configured, activate it:
+### Windows PowerShell
 
 ```powershell
-.\.venv\Scripts\Activate.ps1
-```
-
-If a virtual environment does not exist yet:
-
-```powershell
-python -m venv .venv
+py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
 ```
 
-### 2. Install the Python dependencies
-
-If the repository has a maintained `requirements.txt` or lock file, use that file as the source of truth. Otherwise, the core dependencies referenced by the server and traffic collector can be installed with:
+Set the API key in the current PowerShell session without putting it in a source file:
 
 ```powershell
-python -m pip install "mcp[cli]" beautifulsoup4 playwright
-python -m playwright install chromium
+$env:GEOAPIFY_API_KEY = Read-Host "Enter Geoapify API key"
+$env:MCP_TRANSPORT = "streamable-http"
+$env:PORT = "8000"
+python src/server.py
 ```
 
-Use the version constraints already tested by the project if they differ from the latest SDK. The official MCP Python SDK documentation explains the available CLI commands and transports; see [References](#references).
+Keep the terminal running while using the server. The key is read by the server from the environment and must never be committed to Git.
 
-### 3. Confirm required data files
+### macOS / Linux
 
-Before starting the server, verify that the required static JSON datasets exist and are valid JSON. The server loads core datasets at startup, so a missing or malformed required file may prevent it from starting.
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+
+export GEOAPIFY_API_KEY='YOUR_GEOAPIFY_API_KEY'
+export MCP_TRANSPORT='streamable-http'
+export PORT='8000'
+python src/server.py
+```
+
+Do not replace the placeholder in a README or commit a real key. Use environment variables or your hosting provider's secret settings.
+
+## Local endpoints
+
+With the HTTP server running:
+
+- MCP endpoint: `http://127.0.0.1:8000/mcp`
+- Liveness endpoint: `http://127.0.0.1:8000/healthz`
+
+Check liveness in another PowerShell window:
 
 ```powershell
-Get-ChildItem data\static
-Get-ChildItem data\dynamic
+Invoke-RestMethod http://127.0.0.1:8000/healthz
 ```
 
-Also confirm that the `BASE_DIR` calculations in `server.py` and `collectors\kp_live_traffic.py` resolve to the repository’s intended root. Their relative paths must point to the same `data` directory shown above.
+Expected response:
 
-## Run and inspect the MCP server
+```json
+{"status":"ok"}
+```
 
-The project uses the Python MCP SDK's `MCPServer` API. From the repository root, you can use the MCP CLI to run the server:
+On macOS/Linux, use `curl http://127.0.0.1:8000/healthz`.
+
+### Test with MCP Inspector
+
+With the server running, open another terminal and run:
+
+```bash
+npx -y @modelcontextprotocol/inspector --server-url http://127.0.0.1:8000/mcp --transport http
+```
+
+Use Inspector to list tools/resources and invoke a local lookup before trying an external route call.
+
+## Run tests
+
+From the project root:
 
 ```powershell
-mcp run server.py
+.\.venv\Scripts\python.exe -m py_compile src\server.py
+.\.venv\Scripts\python.exe -m unittest discover -s tests -v
 ```
 
-To inspect the server interactively during development, use:
+On macOS/Linux, use `python -m py_compile src/server.py` and `python -m unittest discover -s tests -v` from the activated virtual environment.
 
-```powershell
-mcp dev server.py
-```
+Routing integration tests may consume external API credits. Prefer mocked/offline tests for routine regression checks. A passing unit-test suite is not a substitute for load testing.
 
-The Inspector command may require Node.js/npx to be installed. MCP clients such as Claude must be configured to launch the correct environment and server entrypoint. Use the exact executable path from the project virtual environment when configuring a local subprocess connection.
+## Configuration
 
-> **Important:** Confirm the launch command against the current `server.py` and the installed MCP SDK version. If the project’s entrypoint or client configuration is different, use the command that has already been tested with that version rather than assuming every client uses the same setup.
+The following are the main optional environment settings. Values shown are the code defaults; review `src/server.py` for the full list and bounds.
 
-## Traffic collector
+| Variable | Default | Purpose |
+|---|---:|---|
+| `GEOAPIFY_API_KEY` | unset | Required for Geoapify route calculations. Keep secret. |
+| `GEOAPIFY_BASE_URL` | `https://api.geoapify.com/v1` | Geoapify API base URL. |
+| `MCP_TRANSPORT` | `streamable-http` | Use `streamable-http` for remote HTTP access or `stdio` for a local desktop-client process. |
+| `PORT` | `8000` | HTTP listen port; hosting platforms commonly supply this. |
+| `MCP_ALLOWED_HOSTS` | empty | Additional comma-separated HTTP host allowlist entries. |
+| `MCP_ALLOWED_ORIGINS` | empty | Additional comma-separated origin allowlist entries. |
+| `MCP_PER_CLIENT_RATE_LIMIT_PER_MINUTE` | `100` | Per-client, per-process request limit. |
+| `MCP_GLOBAL_RATE_LIMIT_PER_MINUTE` | `1000` | Global, per-process request limit. |
+| `MCP_MAX_CONCURRENT_REQUESTS` | `100` | Maximum active MCP HTTP requests per process. |
+| `MCP_MAX_SESSIONS` | `100` | Maximum MCP sessions per process. |
+| `MCP_SESSION_IDLE_TIMEOUT_SECONDS` | `600` | MCP session idle timeout. |
+| `MCP_MAX_REQUEST_BODY_BYTES` | `1000000` | Maximum HTTP request body size. |
+| `OUTBOUND_HTTP_MAX_CONCURRENCY` | `20` | Maximum concurrent outbound HTTP operations per process. |
+| `GEOAPIFY_DAILY_CREDIT_BUDGET` | `2000` | Local estimated per-process routing budget; not the provider's authoritative quota counter. |
+| `MAX_ROUTE_STOPS` | `25` | Maximum stops accepted by route tools. |
+| `MAX_OPTIMIZED_ROUTE_STOPS` | `12` | Default upper bound for optimized multi-stop routes. |
+| `ROUTE_CACHE_TTL_SECONDS` | `300` | In-process route cache lifetime. |
+| `ROUTE_CACHE_MAX_ENTRIES` | `512` | Maximum in-process route cache entries. |
+| `WEATHER_CACHE_TTL_SECONDS` | `600` | In-process weather cache lifetime. |
 
-Run the collector from the repository root:
+The server is intentionally usable without a shared `MCP_API_TOKEN`. That makes the endpoint public to clients that can reach it; rate limits and host/origin validation do not replace authentication or an edge abuse-protection layer.
 
-```powershell
-python collectors\kp_live_traffic.py
-```
+## Deploy to Render (public demo)
 
-The collector writes to:
+1. Push the tested project to GitHub. Ensure `requirements.txt`, the `src/` code, tests, and all required `data/` files are included.
+2. Create a Render Web Service connected to the repository.
+3. Use a build command such as `pip install -r requirements.txt`.
+4. Use the start command `python src/server.py`.
+5. Add `GEOAPIFY_API_KEY` in Render's private Environment settings. Set `MCP_TRANSPORT=streamable-http`. Let Render provide `PORT`.
+6. After deployment, verify `https://YOUR-SERVICE.onrender.com/healthz` and connect your MCP client to `https://YOUR-SERVICE.onrender.com/mcp`.
+7. If using a custom domain, configure `MCP_ALLOWED_HOSTS` and `MCP_ALLOWED_ORIGINS` appropriately.
 
-```text
-data/dynamic/live_traffic_2026.json
-```
+Do not put secrets into the GitHub repository, README, Docker image, or client-side configuration. Rotate any key that was exposed.
 
-### Freshness behavior
+## Security and scaling status
 
-The collector has a configurable freshness window controlled by `TRAFFIC_FRESHNESS_HOURS` in `collectors/kp_live_traffic.py`. The local configuration discussed during development was changed to **14 hours** so older advisories would not be exposed as current. Confirm that the value in the version being committed and deployed matches the intended policy.
+This implementation includes host/origin validation, DNS-rebinding protection, request-body limits, per-process request/concurrency limits, a bounded outbound-request semaphore, in-process caches, and an estimated in-process Geoapify usage budget.
 
-The JSON separates:
+Those controls are **per process**. They are not shared across multiple workers or instances, and in-memory counters reset on process restart. Dynamic JSON snapshots are also read from the local filesystem; separate instances do not automatically share updates. Public multi-instance production should add a shared cache/rate-limit/usage store, reliable shared storage for data that must persist, trusted proxy/IP handling, monitoring, and load testing.
 
-- `historical_records`: saved historical posts that the collector has retained.
-- `latest_state_per_location`: records that pass the configured active-advisory freshness filter.
-- `last_collected_at`: the time the collector last generated the dataset, stored in UTC.
 
-An empty `latest_state_per_location` means that no records qualified for the active dataset at that collection time. **It does not mean that all roads are clear, traffic is normal, every bridge is open, or that the source published no posts.** It also does not prove that every relevant post was captured.
+## Data and usage notes
 
-### Traffic timestamp interpretation
+- The project focuses on Kolkata Durga Puja 2026 and includes year-specific files. Refresh and verify date-sensitive data before using it for a later festival season.
+- Straight-line distance is explicitly distinguished from walking or driving distance in the tool responses.
+- Metro special-service notices and local opening-hour data can change; verify current official notices before travel.
+- Road-traffic-derived busyness data should not be presented as a pedestrian crowd or queue measurement.
+- Respect attribution and license requirements for the sources identified in the bundled datasets (including OpenStreetMap data where used).
 
-The data may record timestamp precision as:
+## License
 
-- `exact`: a source timestamp was extracted.
-- `relative`: an approximate timestamp was reconstructed from a relative Facebook label.
-- `unknown`: the timestamp precision could not be established.
-
-Do not present approximate timestamps as exact. Do not confuse an advisory’s posting time with `last_collected_at`. Collection timestamps are UTC; when showing them to users in Kolkata, also display India Standard Time (IST, UTC+05:30).
-
-### Traffic verification
-
-After running the collector, inspect the output JSON and verify:
-
-1. The source page and hashtag policy are correct.
-2. Post IDs and direct Facebook URLs identify specific posts.
-3. The message text and extracted locations match the source post.
-4. Statuses, causes and directions are supported by the post text.
-5. Only advisories inside the configured freshness window appear in `latest_state_per_location`.
-6. A scrape failure does not wipe out the historical ledger.
-
-## Available MCP tools
-
-The checked server version has included tools in the following areas. Tool availability can differ if the deployed `server.py` has changed; confirm the registered tool list in the MCP Inspector or connected client.
-
-| Tool | Purpose |
-|---|---|
-| `get_pandal_details` | Retrieve saved details for a pandal ID. |
-| `search_pandals` | Search the pandal dataset. |
-| `find_nearby_pandals` | Find pandals near coordinates. |
-| `find_nearby_pandals_by_name` | Find nearby pandals relative to a named pandal. |
-| `get_nearest_metro` | Find the nearest metro station from coordinates. |
-| `get_nearest_metro_by_pandal` | Find the nearest metro station for a pandal. |
-| `get_routing_service_health` | Check routing service availability. |
-| `get_route_between_pandals` | Calculate a route between two pandals. |
-| `plan_puja_route` | Plan a route across multiple pandals. |
-| `plan_walking_puja_route` | Plan a walking route across pandals. |
-| `get_planned_puja_routes` | Retrieve saved planned routes. |
-| `recommend_puja_route` | Recommend a route using a supplied location. |
-| `search_restaurants` | Search the restaurant dataset. |
-| `find_nearby_restaurants` | Find restaurants near coordinates. |
-| `find_nearby_restaurants_by_pandal` | Find restaurants near a named pandal. |
-| `get_restaurant_availability` | Query the project’s restaurant-availability tool. |
-| `get_live_traffic` | Query recent traffic advisories from the active traffic dataset. |
-| `get_latest_pandal_update` | Retrieve saved dynamic updates for a pandal. |
-
-### Puja ritual schedules: work in progress
-
-The project’s existing pandal location/theme features should not be taken as proof that it has verified Anjali, Bhog, Aarti or other ritual timings. A dedicated schedule dataset and lookup tool are planned unless they have since been added to the repository.
-
-The planned design is to store pandal-specific events with a date, start/end time when known, `Asia/Kolkata` timezone, verification status, source URL and last verification time. Unknown or unpublished timings must be marked accordingly rather than guessed. A general festival calendar is not a substitute for an individual pandal’s announced schedule.
-
-## Example questions
-
-Try these prompts with an MCP-compatible assistant connected to the server:
-
-- “Find Ahiritola and show the available details.”
-- “Search pandals with a traditional theme.”
-- “Which metro station is nearest to this pandal?”
-- “Plan a route across these pandals.”
-- “Find restaurants near this pandal.”
-- “Show the latest available update for pandal P002.”
-- “What is the current traffic status at Red Road?”
-- “Show all currently active traffic advisories in Kolkata.”
-
-Traffic answers must distinguish missing recent data from a confirmed normal/open status. Schedule prompts should only be used as factual tests once schedule data and the schedule lookup tool exist.
-
-## Data quality and limitations
-
-- Dataset coverage is limited to the records actually present in the repository.
-- Themes, artist details, images and updates can be missing when sources do not publish them or collection does not capture them.
-- A traffic collector can miss public posts or misinterpret a changed Facebook layout; results need periodic verification.
-- Recent official advisories are not the same as independently verified live road conditions.
-- Pandal-specific ritual timings need a credible source from the relevant organizer or a reliable published schedule.
-- An empty result means the collected dataset did not provide a qualifying result; it is not proof that an event, traffic restriction or public notice does not exist.
-- The user survey, the non-technical manual across Claude/ChatGPT/Gemini, and the simple public search website/app are release tasks and should only be marked complete after they have been implemented and tested.
-
-## Release checklist
-
-### Repository and server
-
-- [ ] Review `git status` and `git diff --check`.
-- [ ] Verify the actual startup command and registered tools.
-- [ ] Validate required JSON files and confirm their paths.
-- [ ] Ensure no `.env`, credentials, tokens, browser cookies, `.venv` or other secrets are committed.
-- [ ] Run the server and inspect its tools using an MCP client or Inspector.
-
-### Puja schedule accuracy
-
-- [ ] Add schedule records for all pandals in the current dataset.
-- [ ] Prioritize official, verified timings for Anjali, Bhog, Aarti and other important rituals.
-- [ ] Store the source URL and verification status for each event.
-- [ ] Test a verified schedule, an unverified/unpublished schedule, and a query spanning multiple pandals.
-
-### User survey
-
-- [ ] Prepare five fixed Puja-related questions.
-- [ ] Recruit willing participants and assign control (without the server) and treatment (with the server) conditions.
-- [ ] Ask each participant the same five questions plus three Puja-related questions of their own.
-- [ ] Collect 1–5 ratings for each answer and record factual issues.
-- [ ] Compare control and treatment results without presenting incomplete results as conclusive.
-
-### User manual and website/app
-
-- [ ] Write step-by-step instructions for ordinary users.
-- [ ] Test Claude, ChatGPT and Gemini using the actual supported setup path for each product; document account, region or connection limitations.
-- [ ] Build and test a minimal search interface backed by the project’s data/tools.
-- [ ] Verify source links, unknown-data handling and error states before announcement.
-
-## Security
-
-- Never commit API keys, access tokens, passwords, browser cookies, private `.env` files or personal survey data to GitHub.
-- Keep secrets in environment variables or a local ignored configuration file.
-- Share survey results in aggregate and avoid collecting unnecessary identifying information.
-- Follow source websites’ access rules and applicable terms when collecting public data.
-
-## References
-
-- [Official Model Context Protocol Python SDK](https://github.com/modelcontextprotocol/python-sdk)
-- [MCP Python SDK: running a server](https://py.sdk.modelcontextprotocol.io/)
-- [Playwright for Python](https://playwright.dev/python/)
-- [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-
----
-
-**Project:** Kolkata Puja Tourist MCP Server  
-**Season:** Durga Puja 2026  
-**Primary goal:** Help visitors find pandals and plan their visits using dataset-backed, source-aware information.
+Add a `LICENSE` file before granting others permission to reuse or redistribute this project. Public visibility on GitHub alone does not grant an open-source license.
