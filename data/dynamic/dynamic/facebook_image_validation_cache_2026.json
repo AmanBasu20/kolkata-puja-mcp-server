@@ -1,0 +1,92 @@
+{
+  "8c1f6c794a27803a9e33b3a455718e09fc049b2e3cbb536acb628a27ca32db66": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.9,
+    "reason": "The image shows a close-up of a geometric architectural ceiling or dome structure, not a Durga idol, pandal entrance, or puja decoration.",
+    "post_datetime": "2026-10-10T14:55:07+00:00",
+    "validated_at": "2026-10-11T10:56:42Z",
+    "approved_at": null
+  },
+  "468e1fcd4889e838ca1a60c2e5aa7ceff712488137374ed276aa11fc1c1de0b8": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.9,
+    "reason": "The image shows a close-up of a geometric ceiling or dome structure with a central light fixture, lacking any visible Durga idol, mandap, or specific puja decorations.",
+    "post_datetime": "2026-10-10T14:55:07+00:00",
+    "validated_at": "2026-10-11T10:56:42Z",
+    "approved_at": null
+  },
+  "64398775bc63f6287568258bf14880fc7e5f1a206ee6f64d81bb04b120baf538": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.9,
+    "reason": "The image shows a close-up of a geometric architectural ceiling or dome structure with a central light fixture. It does not depict a Durga idol, a pandal entrance, or any specific Durga Puja decorations.",
+    "post_datetime": "2026-10-10T14:55:07+00:00",
+    "validated_at": "2026-10-11T10:56:53Z",
+    "approved_at": null
+  },
+  "cfa00abbf7d609061670243bee73a204148113a70ad80e10a081da6a6d925eb6": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a blank graphic consisting of a black square and a white background, containing no visual content of a pandal, idol, or venue.",
+    "post_datetime": "2026-10-10T14:55:07+00:00",
+    "validated_at": "2026-10-11T10:57:13Z",
+    "approved_at": null
+  },
+  "c9e28118eae1f0d8414df9ae370752c63b80151e8996ce2dea6dce3960d6599b": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a blank graphic consisting of a black square and a white background, containing no visual content of a pandal, idol, or venue.",
+    "post_datetime": "2026-10-10T14:55:07+00:00",
+    "validated_at": "2026-10-11T10:57:33Z",
+    "approved_at": null
+  },
+  "ecd4f5d15c9c3e6ec2f9ca46fb0b5072fbb8a2fa114a7436d96a1420dca8f861": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.85,
+    "reason": "The image shows a detailed view of a Durga Puja pandal decoration featuring a stone-paved pathway, illuminated lanterns, and a large circular structure, consistent with the 'Bharat Chakra' theme mentioned in the text overlay.",
+    "post_datetime": "2026-10-11T05:45:40+00:00",
+    "validated_at": "2026-10-11T10:57:53Z",
+    "approved_at": "2026-10-11T10:57:53Z"
+  },
+  "03c0ecd2a69afc21a85bc680c137942db73fb39872433c61b5c074cbc32bb855": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital promotional poster/flyer for a school event (Little Memorial School) featuring logos and contact information, not a photograph of a Durga Puja pandal or idol.",
+    "post_datetime": "2026-10-11T09:24:18+00:00",
+    "validated_at": "2026-10-11T10:58:13Z",
+    "approved_at": null
+  },
+  "e60b82fcc55add6aff7fb89c06b89425aa5d83fc18b85cb9bf0fad661e7e659a": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a digital poster or flyer containing text details about the puja committee, theme, and artists, rather than a photograph of the actual pandal or venue.",
+    "post_datetime": "2026-10-10T20:25:12+00:00",
+    "validated_at": "2026-10-11T10:58:45Z",
+    "approved_at": null
+  },
+  "ede63b61f6746fc2b142c50f64d7b4925be2ce5fdf03ff0ab3bd4299797871b3": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital promotional poster/flyer featuring sponsor logos (Web Express, Justdial) and stock imagery of Kolkata landmarks, not a photograph of a Durga Puja pandal or venue.",
+    "post_datetime": "2026-10-11T10:36:22+00:00",
+    "validated_at": "2026-10-11T10:59:03Z",
+    "approved_at": null
+  },
+  "217328c205c2d13074e194140f9df9f99480b2cf537ee2e6e453dea4eee69f1f": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.85,
+    "reason": "The image shows a close-up photograph of a Durga idol (specifically the face and upper body with multiple arms) set against a background of dried grass or straw, which is a common decorative element in Durga Puja pandals. While it is a detail shot rather than a wide view of the venue, it clearly depicts the central deity of the festival.",
+    "post_datetime": "2026-10-11T06:39:12+00:00",
+    "validated_at": "2026-10-11T10:59:45Z",
+    "approved_at": "2026-10-11T10:59:45Z"
+  }
+}
