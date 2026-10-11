@@ -1,0 +1,82 @@
+[
+  {
+    "route_id": "R001",
+    "route_name": "North Kolkata heritage",
+    "source": "KolkataKhoj",
+    "source_url": "https://kolkatakhoj.com/guides/durga-puja/",
+    "estimated_duration_hours": "5-6",
+    "must_see_count": 11,
+    "pandal_ids": [
+      "P016",
+      "P004",
+      "P005",
+      "P019",
+      "P017",
+      "P024",
+      "P023",
+      "P026",
+      "P025",
+      "P029",
+      "P028",
+      "P052",
+      "P053"
+    ]
+  },
+  {
+    "route_id": "R002",
+    "route_name": "South Kolkata favourites",
+    "source": "KolkataKhoj",
+    "source_url": "https://kolkatakhoj.com/guides/durga-puja/",
+    "estimated_duration_hours": "6-8",
+    "must_see_count": 12,
+    "pandal_ids": [
+      "P092",
+      "P091",
+      "P083",
+      "P082",
+      "P093",
+      "P084",
+      "P085",
+      "P096",
+      "P097",
+      "P098",
+      "P101",
+      "P100"
+    ]
+  },
+  {
+    "route_id": "R003",
+    "route_name": "Bonedi bari morning",
+    "source": "KolkataKhoj",
+    "source_url": "https://kolkatakhoj.com/guides/durga-puja/",
+    "estimated_duration_hours": "3-4",
+    "must_see_count": 1,
+    "pandal_ids": [
+      "P021",
+      "P030",
+      "P031",
+      "P032",
+      "P033"
+    ]
+  },
+  {
+    "route_id": "R004",
+    "route_name": "Sreebhumi & Salt Lake",
+    "source": "KolkataKhoj",
+    "source_url": "https://kolkatakhoj.com/guides/durga-puja/",
+    "estimated_duration_hours": "4-5",
+    "must_see_count": 8,
+    "pandal_ids": [
+      "P208",
+      "P002",
+      "P003",
+      "P001",
+      "P014",
+      "P012",
+      "P013",
+      "P209",
+      "P210",
+      "P211"
+    ]
+  }
+]

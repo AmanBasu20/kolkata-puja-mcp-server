@@ -1,0 +1,306 @@
+{
+  "dataset_name": "Kolkata Durga Puja 2026 General Ritual Schedule",
+  "generated_year": 2026,
+  "city": "Kolkata, West Bengal, India",
+  "timezone": "Asia/Kolkata",
+  "last_verified_at": "2026-10-09",
+  "purpose": "Provide general ritual dates and broad timing windows from published Kolkata Panjika references. For exact timings at an individual pandal, direct users to that pandal's verified official website or Facebook page.",
+  "source_policy": {
+    "general_timings": "Use Panjika-derived dates, tithi boundaries, and broad ritual windows. Record the Panjika tradition for every tradition-dependent value.",
+    "local_pandal_timings": "Do not guess exact local schedules. Find a nearby pandal from the user's supplied location and provide only a verified official website or Facebook page URL recorded for that pandal.",
+    "missing_local_schedule": "Exact local pandal timings are not stored in this dataset. Direct users to the relevant nearby pandal's verified official website or Facebook page using the separate official-page mapping. If no verified URL is available, state that clearly.",
+    "conflicting_panjikas": "Keep tradition-specific dates and times as separate records. Never average, merge, or present conflicting times as one universal time.",
+    "time_precision": "A broad label such as morning, evening, or before a tithi boundary is not an exact pandal start time.",
+    "source_verification": "Store a source title, publisher, URL, source type, and verification date for every reported time window."
+  },
+  "sources": [
+    {
+      "source_id": "puja_parikrama_kolkata_panjika_2026",
+      "title": "Durga Puja Panjika 2026: Sandhi Puja time, tithi and rites for Kolkata",
+      "publisher": "Puja Parikrama",
+      "url": "https://www.pujaparikrama.in/panjika",
+      "source_type": "Kolkata Panjika reference / secondary compilation",
+      "traditions_covered": [
+        {
+          "name": "Bisuddhasiddhanta",
+          "associated_panjika": "Bisuddha Siddhanta Panjika, Belur Math",
+          "notes": "The page says its Bisuddhasiddhanta timings are computed from the true positions of the Sun and Moon."
+        },
+        {
+          "name": "Surya Siddhanta",
+          "associated_panjika": "Gupta Press Panjika",
+          "notes": "The page says these timings are those published in the Gupta Press Panjika."
+        }
+      ],
+      "checked_at": "2026-10-09"
+    },
+    {
+      "source_id": "toi_ashtami_anjali_report_2026",
+      "title": "Barowari pujas take extra-short Ashtami anjali window in stride",
+      "publisher": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/barowari-pujas-take-extra-short-ashtami-anjali-window-in-stride/articleshow/134797636.cms",
+      "source_type": "News report; supporting context only, not a Panjika itself",
+      "notes": "Reports a 06:45-07:00 AM Ashtami Anjali window expected at many community pujas following Surya Siddhanta / Gupta Press timings. Do not treat this as a confirmed schedule for every pandal.",
+      "checked_at": "2026-10-09"
+    }
+  ],
+  "festival_dates": [
+    {
+      "event": "Mahalaya",
+      "date": "2026-10-10",
+      "calendar_note": "Kolkata Panjika reference lists Mahalaya on this date.",
+      "source_ids": [
+        "puja_parikrama_kolkata_panjika_2026"
+      ]
+    },
+    {
+      "event": "Maha Shashthi",
+      "calendar_note": "The referenced Bisuddhasiddhanta table describes a second Shashthi sunrise on 17 October. Do not interpret these two dates as universal across Panjika traditions.",
+      "source_ids": [
+        "puja_parikrama_kolkata_panjika_2026"
+      ],
+      "dates_by_panjika": [
+        {
+          "tradition": "Bisuddhasiddhanta",
+          "dates": [
+            "2026-10-16",
+            "2026-10-17"
+          ]
+        }
+      ]
+    },
+    {
+      "event": "Maha Saptami",
+      "date_by_panjika": [
+        {
+          "tradition": "Surya Siddhanta",
+          "date": "2026-10-17"
+        },
+        {
+          "tradition": "Bisuddhasiddhanta",
+          "date": "2026-10-18"
+        }
+      ],
+      "calendar_note": "The source explains that Saptami is associated with 17 October under Surya Siddhanta and 18 October under Bisuddhasiddhanta. Do not return only one date without naming the tradition.",
+      "source_ids": [
+        "puja_parikrama_kolkata_panjika_2026"
+      ]
+    },
+    {
+      "event": "Maha Ashtami",
+      "date": "2026-10-19",
+      "calendar_note": "The referenced source lists Ashtami on 19 October under both traditions.",
+      "source_ids": [
+        "puja_parikrama_kolkata_panjika_2026"
+      ]
+    },
+    {
+      "event": "Maha Navami",
+      "date": "2026-10-20",
+      "calendar_note": "The referenced source lists Navami on 20 October under both traditions.",
+      "source_ids": [
+        "puja_parikrama_kolkata_panjika_2026"
+      ]
+    },
+    {
+      "event": "Vijaya Dashami",
+      "date": "2026-10-21",
+      "calendar_note": "The referenced source lists Dashami on 21 October under both traditions.",
+      "source_ids": [
+        "puja_parikrama_kolkata_panjika_2026"
+      ]
+    }
+  ],
+  "rituals": [
+    {
+      "ritual": "Mahalaya broadcast",
+      "date": "2026-10-10",
+      "general_windows": [
+        {
+          "label": "Mahishasuramardini broadcast",
+          "start_time": "04:00",
+          "end_time": null,
+          "precision": "published programme time; not a pandal puja schedule",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        }
+      ],
+      "notes": "The source lists the Mahishasuramardini broadcast at 04:00."
+    },
+    {
+      "ritual": "Maha Shashthi rites",
+      "general_windows": [
+        {
+          "label": "Kalparambha",
+          "time_window": "morning",
+          "precision": "broad Panjika window; not an exact start time",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        },
+        {
+          "label": "Bodhon, Amantran and Adhibas",
+          "time_window": "evening",
+          "precision": "broad Panjika window; not an exact start time",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        }
+      ],
+      "notes": "Exact timings differ by individual puja committee; check the local pandal's official page.",
+      "dates_by_panjika": [
+        {
+          "tradition": "Bisuddhasiddhanta",
+          "dates": [
+            "2026-10-16"
+          ]
+        }
+      ]
+    },
+    {
+      "ritual": "Maha Saptami rites",
+      "date_by_panjika": [
+        {
+          "tradition": "Surya Siddhanta",
+          "date": "2026-10-17"
+        },
+        {
+          "tradition": "Bisuddhasiddhanta",
+          "date": "2026-10-18"
+        }
+      ],
+      "general_windows": [
+        {
+          "label": "Kola Bou snan",
+          "time_window": "dawn",
+          "precision": "broad Panjika window; not an exact start time",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        },
+        {
+          "label": "Nabapatrika prabesh",
+          "time_window": "after Kola Bou snan",
+          "precision": "sequence only; not an exact start time",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        },
+        {
+          "label": "Saptami puja",
+          "time_window": "morning, before 08:29",
+          "tradition": "Bisuddhasiddhanta",
+          "precision": "general window based on the listed tithi boundary; not a local pandal schedule",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        },
+        {
+          "label": "Sandhya Aarti",
+          "time_window": "evening",
+          "precision": "broad Panjika window; exact time varies by pandal",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        }
+      ],
+      "notes": "The source's 08:29 tithi boundary is shown for the Bisuddhasiddhanta schedule. Do not apply that cutoff to another tradition unless verified."
+    },
+    {
+      "ritual": "Ashtami Anjali / Pushpanjali",
+      "date": "2026-10-19",
+      "general_windows": [
+        {
+          "label": "Ashtami puja and Pushpanjali",
+          "time_window": "morning, by 10:29",
+          "tradition": "Bisuddhasiddhanta",
+          "precision": "broad Panjika window; not an exact local pandal start time",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        }
+      ],
+      "reported_windows": [
+        {
+          "label": "Ashtami Anjali at many community pujas",
+          "start_time": "06:45",
+          "end_time": "07:00",
+          "tradition": "Surya Siddhanta / Gupta Press as described in news report",
+          "precision": "reported community window; not universal and not verified for every pandal",
+          "source_id": "toi_ashtami_anjali_report_2026"
+        }
+      ],
+      "notes": "Keep the two tradition-specific windows separate. For the time at a particular pandal, send users to that pandal's official website or Facebook page."
+    },
+    {
+      "ritual": "Kumari Puja",
+      "date": "2026-10-19",
+      "general_windows": [
+        {
+          "time_window": "morning",
+          "precision": "broad Panjika window; exact start time not published in this dataset",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        }
+      ],
+      "notes": "Use the local pandal's official page for its exact schedule."
+    },
+    {
+      "ritual": "Sandhi Puja",
+      "date": "2026-10-19",
+      "general_windows": [
+        {
+          "tradition": "Bisuddhasiddhanta",
+          "start_time": "10:29",
+          "end_time": "11:17",
+          "junction_time": "10:53",
+          "precision": "Panjika time window; Kolkata local time",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        },
+        {
+          "tradition": "Surya Siddhanta",
+          "start_time": "07:25",
+          "end_time": "08:13",
+          "junction_time": "07:49",
+          "precision": "Panjika time window; Kolkata local time",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        }
+      ],
+      "notes": "Show both windows and name the tradition. Do not combine or average them."
+    },
+    {
+      "ritual": "Maha Navami Puja and Homa",
+      "date": "2026-10-20",
+      "general_windows": [
+        {
+          "label": "Navami puja and homa",
+          "time_window": "morning, before 12:52",
+          "precision": "broad Panjika window based on the listed tithi boundary; not a local pandal schedule",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        },
+        {
+          "label": "Bhog",
+          "time_window": "midday",
+          "precision": "broad customary window; exact local timing not provided",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        },
+        {
+          "label": "Last Aarti and dhunuchi naach",
+          "time_window": "evening",
+          "precision": "broad customary window; exact local timing not provided",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        }
+      ],
+      "notes": "Bhog menus and service times vary by puja committee. Verify exact schedule on the official pandal page."
+    },
+    {
+      "ritual": "Vijaya Dashami rites",
+      "date": "2026-10-21",
+      "general_windows": [
+        {
+          "label": "Dashami puja and Darpan Bisarjan",
+          "time_window": "morning, before 14:13",
+          "precision": "broad Panjika window based on the listed tithi boundary; not a local pandal schedule",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        },
+        {
+          "label": "Devi Boron and Sindoor Khela",
+          "time_window": "after Darpan Bisarjan",
+          "precision": "sequence only; exact local timing varies",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        },
+        {
+          "label": "Immersion",
+          "time_window": "afternoon into night",
+          "precision": "broad customary window; exact local timing varies",
+          "source_id": "puja_parikrama_kolkata_panjika_2026"
+        }
+      ],
+      "notes": "Direct users to the individual pandal or relevant authority for exact local immersion arrangements."
+    }
+  ]
+}

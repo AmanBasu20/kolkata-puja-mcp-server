@@ -1,0 +1,450 @@
+[
+  {
+    "id": "M001",
+    "name": "Central",
+    "latitude": 22.5724857,
+    "longitude": 88.3587427,
+    "source": "OpenStreetMap",
+    "osm_id": 5421528426
+  },
+  {
+    "id": "M002",
+    "name": "Park Street",
+    "latitude": 22.5551591,
+    "longitude": 88.3501171,
+    "source": "OpenStreetMap",
+    "osm_id": 5421528503
+  },
+  {
+    "id": "M003",
+    "name": "Kavi Nazrul",
+    "latitude": 22.4642505,
+    "longitude": 88.3804604,
+    "source": "OpenStreetMap",
+    "osm_id": 5421533465
+  },
+  {
+    "id": "M004",
+    "name": "Shahid Khudiram",
+    "latitude": 22.4659847,
+    "longitude": 88.3915408,
+    "source": "OpenStreetMap",
+    "osm_id": 5421533466
+  },
+  {
+    "id": "M005",
+    "name": "Kavi Subhash",
+    "latitude": 22.4721697,
+    "longitude": 88.397961,
+    "source": "OpenStreetMap",
+    "osm_id": 5421533467
+  },
+  {
+    "id": "M006",
+    "name": "Netaji",
+    "latitude": 22.4809928,
+    "longitude": 88.3460002,
+    "source": "OpenStreetMap",
+    "osm_id": 5421533468
+  },
+  {
+    "id": "M007",
+    "name": "Mahanayak Uttam Kumar",
+    "latitude": 22.4947692,
+    "longitude": 88.3450879,
+    "source": "OpenStreetMap",
+    "osm_id": 5421536497
+  },
+  {
+    "id": "M008",
+    "name": "Dum Dum",
+    "latitude": 22.6211141,
+    "longitude": 88.3928973,
+    "source": "OpenStreetMap",
+    "osm_id": 5421537963
+  },
+  {
+    "id": "M009",
+    "name": "Rabindra Sarobar",
+    "latitude": 22.5072216,
+    "longitude": 88.3454936,
+    "source": "OpenStreetMap",
+    "osm_id": 5421538365
+  },
+  {
+    "id": "M010",
+    "name": "Kalighat",
+    "latitude": 22.5168752,
+    "longitude": 88.3458448,
+    "source": "OpenStreetMap",
+    "osm_id": 5421539684
+  },
+  {
+    "id": "M011",
+    "name": "Jatin Das Park",
+    "latitude": 22.5241535,
+    "longitude": 88.3464729,
+    "source": "OpenStreetMap",
+    "osm_id": 5421540159
+  },
+  {
+    "id": "M012",
+    "name": "Netaji Bhavan",
+    "latitude": 22.5331821,
+    "longitude": 88.3459269,
+    "source": "OpenStreetMap",
+    "osm_id": 5421541284
+  },
+  {
+    "id": "M013",
+    "name": "Rabindra Sadan",
+    "latitude": 22.5414899,
+    "longitude": 88.3473493,
+    "source": "OpenStreetMap",
+    "osm_id": 5421542551
+  },
+  {
+    "id": "M014",
+    "name": "Maidan",
+    "latitude": 22.5494672,
+    "longitude": 88.3487883,
+    "source": "OpenStreetMap",
+    "osm_id": 5421543288
+  },
+  {
+    "id": "M015",
+    "name": "Chandni Chowk",
+    "latitude": 22.5670118,
+    "longitude": 88.3541581,
+    "source": "OpenStreetMap",
+    "osm_id": 5421543316
+  },
+  {
+    "id": "M016",
+    "name": "Esplanade",
+    "latitude": 22.5636143,
+    "longitude": 88.3512099,
+    "source": "OpenStreetMap",
+    "osm_id": 5421545051
+  },
+  {
+    "id": "M017",
+    "name": "Mahatma Gandhi Road",
+    "latitude": 22.5809206,
+    "longitude": 88.3613271,
+    "source": "OpenStreetMap",
+    "osm_id": 5421545390
+  },
+  {
+    "id": "M018",
+    "name": "Girish Park",
+    "latitude": 22.5871445,
+    "longitude": 88.3629415,
+    "source": "OpenStreetMap",
+    "osm_id": 5421546475
+  },
+  {
+    "id": "M019",
+    "name": "Shobhabazar Sutanuti",
+    "latitude": 22.595881,
+    "longitude": 88.3651996,
+    "source": "OpenStreetMap",
+    "osm_id": 5421546940
+  },
+  {
+    "id": "M020",
+    "name": "Shyambazar",
+    "latitude": 22.601335,
+    "longitude": 88.3724974,
+    "source": "OpenStreetMap",
+    "osm_id": 5421546974
+  },
+  {
+    "id": "M021",
+    "name": "Belgachia",
+    "latitude": 22.6059241,
+    "longitude": 88.3863913,
+    "source": "OpenStreetMap",
+    "osm_id": 5421548359
+  },
+  {
+    "id": "M022",
+    "name": "Noapara",
+    "latitude": 22.6398418,
+    "longitude": 88.3941343,
+    "source": "OpenStreetMap",
+    "osm_id": 5421551283
+  },
+  {
+    "id": "M023",
+    "name": "Nalban Metro Station",
+    "latitude": 22.5733404,
+    "longitude": 88.4212209,
+    "source": "OpenStreetMap",
+    "osm_id": 7944684393
+  },
+  {
+    "id": "M024",
+    "name": "Karunamoyee",
+    "latitude": 22.58638,
+    "longitude": 88.4215312,
+    "source": "OpenStreetMap",
+    "osm_id": 7976140059
+  },
+  {
+    "id": "M025",
+    "name": "Central Park",
+    "latitude": 22.5904737,
+    "longitude": 88.4156247,
+    "source": "OpenStreetMap",
+    "osm_id": 7976140060
+  },
+  {
+    "id": "M026",
+    "name": "City Centre",
+    "latitude": 22.5870993,
+    "longitude": 88.4078908,
+    "source": "OpenStreetMap",
+    "osm_id": 7976140063
+  },
+  {
+    "id": "M027",
+    "name": "Bengal Chemical",
+    "latitude": 22.5800666,
+    "longitude": 88.4012962,
+    "source": "OpenStreetMap",
+    "osm_id": 7976140066
+  },
+  {
+    "id": "M028",
+    "name": "Salt Lake Stadium",
+    "latitude": 22.5731115,
+    "longitude": 88.4030891,
+    "source": "OpenStreetMap",
+    "osm_id": 7976140069
+  },
+  {
+    "id": "M029",
+    "name": "Phoolbagan",
+    "latitude": 22.5721268,
+    "longitude": 88.3902408,
+    "source": "OpenStreetMap",
+    "osm_id": 7976140072
+  },
+  {
+    "id": "M030",
+    "name": "Salt Lake Sector V",
+    "latitude": 22.5809434,
+    "longitude": 88.4290872,
+    "source": "OpenStreetMap",
+    "osm_id": 7976140073
+  },
+  {
+    "id": "M031",
+    "name": "Baranagar",
+    "latitude": 22.6530765,
+    "longitude": 88.3805962,
+    "source": "OpenStreetMap",
+    "osm_id": 8475640176
+  },
+  {
+    "id": "M032",
+    "name": "Behala Bazar",
+    "latitude": 22.4987585,
+    "longitude": 88.3173872,
+    "source": "OpenStreetMap",
+    "osm_id": 9321290815
+  },
+  {
+    "id": "M033",
+    "name": "Behala Chowrasta",
+    "latitude": 22.4873548,
+    "longitude": 88.3133794,
+    "source": "OpenStreetMap",
+    "osm_id": 9321292345
+  },
+  {
+    "id": "M034",
+    "name": "Sealdah",
+    "latitude": 22.5666059,
+    "longitude": 88.3697815,
+    "source": "OpenStreetMap",
+    "osm_id": 9884790401
+  },
+  {
+    "id": "M035",
+    "name": "Dakshineshwar",
+    "latitude": 22.6540325,
+    "longitude": 88.3637533,
+    "source": "OpenStreetMap",
+    "osm_id": 10036655361
+  },
+  {
+    "id": "M036",
+    "name": "Thakurpukur",
+    "latitude": 22.4643677,
+    "longitude": 88.3075322,
+    "source": "OpenStreetMap",
+    "osm_id": 10296539469
+  },
+  {
+    "id": "M037",
+    "name": "Sakher Bazar",
+    "latitude": 22.4748533,
+    "longitude": 88.3099593,
+    "source": "OpenStreetMap",
+    "osm_id": 10296539474
+  },
+  {
+    "id": "M038",
+    "name": "Taratala",
+    "latitude": 22.5076863,
+    "longitude": 88.3203842,
+    "source": "OpenStreetMap",
+    "osm_id": 10296539476
+  },
+  {
+    "id": "M039",
+    "name": "Joka",
+    "latitude": 22.452347,
+    "longitude": 88.3018236,
+    "source": "OpenStreetMap",
+    "osm_id": 10296539478
+  },
+  {
+    "id": "M040",
+    "name": "Hemanta Mukhopadhyay",
+    "latitude": 22.5148514,
+    "longitude": 88.4014276,
+    "source": "OpenStreetMap",
+    "osm_id": 11447425091
+  },
+  {
+    "id": "M041",
+    "name": "Kavi Sukanta",
+    "latitude": 22.5053017,
+    "longitude": 88.4009957,
+    "source": "OpenStreetMap",
+    "osm_id": 11447425092
+  },
+  {
+    "id": "M042",
+    "name": "Jyotirindra Nandi",
+    "latitude": 22.4956263,
+    "longitude": 88.398449,
+    "source": "OpenStreetMap",
+    "osm_id": 11447425095
+  },
+  {
+    "id": "M043",
+    "name": "Satyajit Ray",
+    "latitude": 22.4846775,
+    "longitude": 88.3926447,
+    "source": "OpenStreetMap",
+    "osm_id": 11447425096
+  },
+  {
+    "id": "M044",
+    "name": "Mahakaran",
+    "latitude": 22.5720777,
+    "longitude": 88.3505275,
+    "source": "OpenStreetMap",
+    "osm_id": 11699268223
+  },
+  {
+    "id": "M045",
+    "name": "Howrah",
+    "latitude": 22.5833648,
+    "longitude": 88.3403452,
+    "source": "OpenStreetMap",
+    "osm_id": 11699268224
+  },
+  {
+    "id": "M046",
+    "name": "Howrah Maidan",
+    "latitude": 22.5838585,
+    "longitude": 88.3339983,
+    "source": "OpenStreetMap",
+    "osm_id": 11699268225
+  },
+  {
+    "id": "M047",
+    "name": "Majerhat",
+    "latitude": 22.5191466,
+    "longitude": 88.3236555,
+    "source": "OpenStreetMap",
+    "osm_id": 11699268226
+  },
+  {
+    "id": "M048",
+    "name": "Beleghata",
+    "latitude": 22.5507084,
+    "longitude": 88.4039852,
+    "source": "OpenStreetMap",
+    "osm_id": 13088458999
+  },
+  {
+    "id": "M049",
+    "name": "Barun Sengupta",
+    "latitude": 22.5438072,
+    "longitude": 88.3992762,
+    "source": "OpenStreetMap",
+    "osm_id": 13088485701
+  },
+  {
+    "id": "M050",
+    "name": "Ritwik Ghatak",
+    "latitude": 22.5329995,
+    "longitude": 88.3964191,
+    "source": "OpenStreetMap",
+    "osm_id": 13088485704
+  },
+  {
+    "id": "M051",
+    "name": "VIP Bazar",
+    "latitude": 22.5246847,
+    "longitude": 88.3962331,
+    "source": "OpenStreetMap",
+    "osm_id": 13088485707
+  },
+  {
+    "id": "M052",
+    "name": "Jai Hind",
+    "latitude": 22.6473058,
+    "longitude": 88.4373029,
+    "source": "OpenStreetMap",
+    "osm_id": 13088491840
+  },
+  {
+    "id": "M053",
+    "name": "Jessore Road",
+    "latitude": 22.6392646,
+    "longitude": 88.4297701,
+    "source": "OpenStreetMap",
+    "osm_id": 13088491871
+  },
+  {
+    "id": "M054",
+    "name": "Dum Dum Cantonment",
+    "latitude": 22.6375936,
+    "longitude": 88.4121618,
+    "source": "OpenStreetMap",
+    "osm_id": 13088491874
+  },
+  {
+    "id": "M055",
+    "name": "Masterda Surya Sen",
+    "latitude": 22.47344,
+    "longitude": 88.3609,
+    "source": "OpenStreetMap",
+    "osm_id": 13088491871
+  },
+  {
+    "id": "M056",
+    "name": "Gitanjali",
+    "latitude": 22.46947,
+    "longitude": 88.36983,
+    "source": "OpenStreetMap",
+    "osm_id": 13088491874
+  }
+]

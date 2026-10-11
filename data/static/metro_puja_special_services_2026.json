@@ -1,0 +1,626 @@
+{
+  "dataset_name": "Kolkata Metro Durga Puja Special Services 2026",
+  "schema_version": "1.0",
+  "source": {
+    "organization": "Metro Railway, Kolkata",
+    "document_title": "Night Long Metro Services in Blue Line and Green Line on Maha Saptami, Maha Astami and Maha Navami",
+    "document_type": "Official press release",
+    "release_date": "2026-10-08",
+    "city_and_date_as_printed": "Kolkata, 08.10.2026",
+    "source_note": "Structured from the official press-release text supplied for this project. Service times and counts below reproduce that supplied notice; check for later official amendments before relying on them for travel."
+  },
+  "timezone": "Asia/Kolkata",
+  "coverage": {
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-21",
+    "note": "This is a date-specific special-service schedule, not a complete regular timetable for dates outside this window."
+  },
+  "lines": [
+    {
+      "line_name": "Blue Line",
+      "date_periods": [
+        {
+          "dates": [
+            "2026-10-15",
+            "2026-10-16"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 284,
+          "up_services": 142,
+          "down_services": 142,
+          "service_window_start": "06:00",
+          "service_window_end": "23:00",
+          "service_window_end_day_offset": 0,
+          "peak_frequency_minutes": 6,
+          "first_services": [
+            {
+              "time": "06:00",
+              "from": "Shahid Khudiram",
+              "to": "Dakshineswar"
+            },
+            {
+              "time": "06:00",
+              "from": "Dakshineswar",
+              "to": "Shahid Khudiram"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "22:48",
+              "from": "Dakshineswar",
+              "to": "Shahid Khudiram"
+            },
+            {
+              "time": "22:50",
+              "from": "Shahid Khudiram",
+              "to": "Dakshineswar"
+            },
+            {
+              "time": "23:00",
+              "from": "Dakshineswar",
+              "to": "Mahanayak Uttam Kumar"
+            },
+            {
+              "time": "23:00",
+              "from": "Shahid Khudiram",
+              "to": "Dum Dum"
+            }
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        },
+        {
+          "dates": [
+            "2026-10-17",
+            "2026-10-18",
+            "2026-10-19",
+            "2026-10-20"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 248,
+          "up_services": 124,
+          "down_services": 124,
+          "service_window_start": "13:00",
+          "service_window_end": "04:00",
+          "service_window_end_day_offset": 1,
+          "peak_frequency_minutes": 6,
+          "first_services": [
+            {
+              "time": "13:00",
+              "from": "Shahid Khudiram",
+              "to": "Dakshineswar"
+            },
+            {
+              "time": "13:00",
+              "from": "Gitanjali",
+              "to": "Dakshineswar"
+            },
+            {
+              "time": "13:00",
+              "from": "Mahanayak Uttam Kumar",
+              "to": "Dakshineswar"
+            },
+            {
+              "time": "13:00",
+              "from": "Dakshineswar",
+              "to": "Shahid Khudiram"
+            },
+            {
+              "time": "13:00",
+              "from": "Dum Dum",
+              "to": "Shahid Khudiram"
+            },
+            {
+              "time": "13:00",
+              "from": "Shyambazar",
+              "to": "Shahid Khudiram"
+            },
+            {
+              "time": "13:02",
+              "from": "Noapara",
+              "to": "Shahid Khudiram"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "03:46",
+              "from": "Dakshineswar",
+              "to": "Shahid Khudiram"
+            },
+            {
+              "time": "03:48",
+              "from": "Shahid Khudiram",
+              "to": "Dakshineswar"
+            },
+            {
+              "time": "04:00",
+              "from": "Shahid Khudiram",
+              "to": "Dum Dum"
+            },
+            {
+              "time": "04:00",
+              "from": "Dakshineswar",
+              "to": "Mahanayak Uttam Kumar"
+            }
+          ],
+          "service_notes": [
+            "The 04:00 services run into the following calendar day."
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        },
+        {
+          "dates": [
+            "2026-10-21"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 140,
+          "up_services": 70,
+          "down_services": 70,
+          "service_window_start": "13:00",
+          "service_window_end": "22:30",
+          "service_window_end_day_offset": 0,
+          "peak_frequency_minutes": 8,
+          "first_services": [
+            {
+              "time": "13:00",
+              "from": "Shahid Khudiram",
+              "to": "Dakshineswar"
+            },
+            {
+              "time": "13:00",
+              "from": "Dum Dum",
+              "to": "Shahid Khudiram"
+            },
+            {
+              "time": "13:05",
+              "from": "Mahanayak Uttam Kumar",
+              "to": "Dakshineswar"
+            },
+            {
+              "time": "13:05",
+              "from": "Dakshineswar",
+              "to": "Shahid Khudiram"
+            },
+            {
+              "time": "13:05",
+              "from": "Noapara",
+              "to": "Shahid Khudiram"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "22:20",
+              "from": "Dakshineswar",
+              "to": "Shahid Khudiram"
+            },
+            {
+              "time": "22:20",
+              "from": "Shahid Khudiram",
+              "to": "Dakshineswar"
+            },
+            {
+              "time": "22:30",
+              "from": "Shahid Khudiram",
+              "to": "Dum Dum"
+            },
+            {
+              "time": "22:30",
+              "from": "Dakshineswar",
+              "to": "Mahanayak Uttam Kumar"
+            }
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        }
+      ]
+    },
+    {
+      "line_name": "Green Line",
+      "date_periods": [
+        {
+          "dates": [
+            "2026-10-15",
+            "2026-10-16"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 240,
+          "up_services": 120,
+          "down_services": 120,
+          "service_window_start": "06:00",
+          "service_window_end": "23:00",
+          "service_window_end_day_offset": 0,
+          "peak_frequency_minutes": 6,
+          "first_services": [
+            {
+              "time": "06:00",
+              "from": "Howrah Maidan",
+              "to": "Salt Lake Sector V"
+            },
+            {
+              "time": "06:09",
+              "from": "Salt Lake Sector V",
+              "to": "Howrah Maidan"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "23:00",
+              "from": "Howrah Maidan",
+              "to": "Salt Lake Sector V"
+            },
+            {
+              "time": "23:00",
+              "from": "Salt Lake Sector V",
+              "to": "Howrah Maidan"
+            }
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        },
+        {
+          "dates": [
+            "2026-10-17",
+            "2026-10-18",
+            "2026-10-19",
+            "2026-10-20"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 192,
+          "up_services": 97,
+          "down_services": 95,
+          "service_window_start": "13:30",
+          "service_window_end": "03:59",
+          "service_window_end_day_offset": 1,
+          "peak_frequency_minutes": 8,
+          "first_services": [
+            {
+              "time": "13:30",
+              "from": "Howrah Maidan",
+              "to": "Salt Lake Sector V"
+            },
+            {
+              "time": "13:34",
+              "from": "Salt Lake Sector V",
+              "to": "Howrah Maidan"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "03:52",
+              "from": "Howrah Maidan",
+              "to": "Salt Lake Sector V"
+            },
+            {
+              "time": "03:59",
+              "from": "Salt Lake Sector V",
+              "to": "Howrah Maidan"
+            }
+          ],
+          "service_notes": [
+            "The last services run into the following calendar day."
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        },
+        {
+          "dates": [
+            "2026-10-21"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 74,
+          "up_services": 37,
+          "down_services": 37,
+          "service_window_start": "13:30",
+          "service_window_end": "22:30",
+          "service_window_end_day_offset": 0,
+          "peak_frequency_minutes": 15,
+          "first_services": [
+            {
+              "time": "13:30",
+              "from": "Howrah Maidan",
+              "to": "Salt Lake Sector V"
+            },
+            {
+              "time": "13:32",
+              "from": "Salt Lake Sector V",
+              "to": "Howrah Maidan"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "22:30",
+              "from": "Howrah Maidan",
+              "to": "Salt Lake Sector V"
+            },
+            {
+              "time": "22:30",
+              "from": "Salt Lake Sector V",
+              "to": "Howrah Maidan"
+            }
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        }
+      ]
+    },
+    {
+      "line_name": "Yellow Line",
+      "date_periods": [
+        {
+          "dates": [
+            "2026-10-15",
+            "2026-10-16"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 120,
+          "up_services": 60,
+          "down_services": 60,
+          "service_window_start": "07:18",
+          "service_window_end": "21:20",
+          "service_window_end_day_offset": 0,
+          "peak_frequency_minutes": 12,
+          "first_services": [
+            {
+              "time": "07:18",
+              "from": "Noapara",
+              "to": "Jai Hind Bimanbandar"
+            },
+            {
+              "time": "07:40",
+              "from": "Jai Hind Bimanbandar",
+              "to": "Noapara"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "21:00",
+              "from": "Noapara",
+              "to": "Jai Hind Bimanbandar"
+            },
+            {
+              "time": "21:20",
+              "from": "Jai Hind Bimanbandar",
+              "to": "Noapara"
+            }
+          ],
+          "service_notes": [
+            "Five direct services will be available from Jai Hind Bimanbandar to Shahid Khudiram."
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        },
+        {
+          "dates": [
+            "2026-10-17",
+            "2026-10-18",
+            "2026-10-19",
+            "2026-10-20"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 72,
+          "up_services": 36,
+          "down_services": 36,
+          "service_window_start": "15:00",
+          "service_window_end": "22:53",
+          "service_window_end_day_offset": 0,
+          "peak_frequency_minutes": 12,
+          "first_services": [
+            {
+              "time": "15:00",
+              "from": "Noapara",
+              "to": "Jai Hind Bimanbandar"
+            },
+            {
+              "time": "15:24",
+              "from": "Jai Hind Bimanbandar",
+              "to": "Noapara"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "22:30",
+              "from": "Noapara",
+              "to": "Jai Hind Bimanbandar"
+            },
+            {
+              "time": "22:53",
+              "from": "Jai Hind Bimanbandar",
+              "to": "Noapara"
+            }
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        },
+        {
+          "dates": [
+            "2026-10-21"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 62,
+          "up_services": 31,
+          "down_services": 31,
+          "service_window_start": "15:00",
+          "service_window_end": "21:38",
+          "service_window_end_day_offset": 0,
+          "peak_frequency_minutes": 12,
+          "first_services": [
+            {
+              "time": "15:00",
+              "from": "Noapara",
+              "to": "Jai Hind Bimanbandar"
+            },
+            {
+              "time": "15:24",
+              "from": "Jai Hind Bimanbandar",
+              "to": "Noapara"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "21:14",
+              "from": "Noapara",
+              "to": "Jai Hind Bimanbandar"
+            },
+            {
+              "time": "21:38",
+              "from": "Jai Hind Bimanbandar",
+              "to": "Noapara"
+            }
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        }
+      ]
+    },
+    {
+      "line_name": "Purple Line",
+      "date_periods": [
+        {
+          "dates": [
+            "2026-10-15",
+            "2026-10-16"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 84,
+          "up_services": 42,
+          "down_services": 42,
+          "service_window_start": "06:40",
+          "service_window_end": "21:26",
+          "service_window_end_day_offset": 0,
+          "peak_frequency_minutes": 21,
+          "first_services": [
+            {
+              "time": "06:40",
+              "from": "Joka",
+              "to": "Majerhat"
+            },
+            {
+              "time": "07:03",
+              "from": "Majerhat",
+              "to": "Joka"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "21:05",
+              "from": "Joka",
+              "to": "Majerhat"
+            },
+            {
+              "time": "21:26",
+              "from": "Majerhat",
+              "to": "Joka"
+            }
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        },
+        {
+          "dates": [
+            "2026-10-17",
+            "2026-10-18",
+            "2026-10-19",
+            "2026-10-20",
+            "2026-10-21"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 38,
+          "up_services": 19,
+          "down_services": 19,
+          "service_window_start": "15:00",
+          "service_window_end": "22:55",
+          "service_window_end_day_offset": 0,
+          "peak_frequency_minutes": 25,
+          "first_services": [
+            {
+              "time": "15:00",
+              "from": "Joka",
+              "to": "Majerhat"
+            },
+            {
+              "time": "15:25",
+              "from": "Majerhat",
+              "to": "Joka"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "22:30",
+              "from": "Joka",
+              "to": "Majerhat"
+            },
+            {
+              "time": "22:55",
+              "from": "Majerhat",
+              "to": "Joka"
+            }
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        }
+      ]
+    },
+    {
+      "line_name": "Orange Line",
+      "date_periods": [
+        {
+          "dates": [
+            "2026-10-15",
+            "2026-10-16"
+          ],
+          "service_status": "scheduled",
+          "daily_services_total": 62,
+          "up_services": 31,
+          "down_services": 31,
+          "service_window_start": "07:40",
+          "service_window_end": "20:45",
+          "service_window_end_day_offset": 0,
+          "peak_frequency_minutes": 25,
+          "first_services": [
+            {
+              "time": "07:40",
+              "from": "Kavi Subhash",
+              "to": "Beleghata"
+            },
+            {
+              "time": "08:10",
+              "from": "Beleghata",
+              "to": "Kavi Subhash"
+            }
+          ],
+          "last_services": [
+            {
+              "time": "20:20",
+              "from": "Kavi Subhash",
+              "to": "Beleghata"
+            },
+            {
+              "time": "20:45",
+              "from": "Beleghata",
+              "to": "Kavi Subhash"
+            }
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        },
+        {
+          "dates": [
+            "2026-10-17",
+            "2026-10-18",
+            "2026-10-19",
+            "2026-10-20",
+            "2026-10-21"
+          ],
+          "service_status": "suspended",
+          "daily_services_total": 0,
+          "up_services": 0,
+          "down_services": 0,
+          "service_window_start": null,
+          "service_window_end": null,
+          "service_window_end_day_offset": null,
+          "peak_frequency_minutes": null,
+          "service_notes": [
+            "The supplied official press release says no Orange Line services will be available from 2026-10-17 through 2026-10-21 inclusive."
+          ],
+          "festival_day_label_note": "Use the calendar date only; this service period does not establish a unique festival-day label for every date."
+        }
+      ]
+    }
+  ],
+  "implementation_guidance": {
+    "use_for_date_aware_routing": true,
+    "status_policy": "Check the requested travel date against the matching line date_period before offering a route. Do not offer a line in periods whose service_status is suspended.",
+    "overnight_policy": "Where service_window_end_day_offset is 1, the last service time belongs to the next calendar day.",
+    "no_unprovided_data_policy": "This file does not specify individual train arrival times at every intermediate station, fares, real-time disruptions, bus alternatives, or walking transfers. Do not invent them."
+  },
+  "festival_day_label_policy": "This file is a date-specific service notice, not an authoritative day-by-day Puja calendar. The supplied notice groups multiple dates under festival-day names in a way that can be ambiguous. For service lookups, display the Gregorian date and service times only. Do not infer a festival-day label from the multi-date service period; use a separately verified Puja calendar if that label is needed."
+}

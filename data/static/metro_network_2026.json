@@ -1,0 +1,1538 @@
+{
+  "dataset_name": "Kolkata Metro Operational Network (Draft)",
+  "dataset_version": "0.1-draft",
+  "generated_on": "2026-10-10",
+  "status": "Confirm_all_is_good",
+  "primary_source": {
+    "name": "Metro Railway Kolkata official system map",
+    "map_as_of": "2026-03-31",
+    "provided_by_user": true,
+    "use_policy": "Only sections marked commissioned/operational in this map are included in the operational routing graph."
+  },
+  "corroborating_sources": [
+    {
+      "name": "Kolkata Metro Rail Corporation Ltd. – East-West Metro stations",
+      "url": "https://kmrc.in/stations.php",
+      "scope": "Station-to-station order for the Green Line"
+    },
+    {
+      "name": "Metro Railway Kolkata official passenger information",
+      "url": "https://mtp.indianrailways.gov.in/view_section.jsp?backgroundColor=LIGHTSTEELBLUE&fontColor=black&id=0%2C2%2C630%2C659&lang=0",
+      "scope": "Official corridor service sections for Blue, Green, Purple, Orange, and Yellow lines"
+    }
+  ],
+  "important_limitations": [
+    "This file describes a static operational network based on the supplied map, not live service status or train timings.",
+    "No fares, timetables, current disruptions, platform information, accessibility information, or walking transfer times are included.",
+    "Bus legs and walking links between disconnected Metro sections are not represented.",
+    "The Purple Line Joka–Majerhat segment is a disconnected component in this Metro-only graph; no operational Metro interchange to another line is defined in the supplied map."
+  ],
+  "lines": [
+    {
+      "line_id": "BLUE",
+      "line_name": "Blue Line",
+      "color": "blue",
+      "operational_section": "Dakshineswar – Kavi Subhash",
+      "status": "operational",
+      "station_ids": [
+        "M035",
+        "M031",
+        "M022",
+        "M008",
+        "M021",
+        "M020",
+        "M019",
+        "M018",
+        "M017",
+        "M001",
+        "M015",
+        "M016",
+        "M002",
+        "M014",
+        "M013",
+        "M012",
+        "M011",
+        "M010",
+        "M009",
+        "M007",
+        "M006",
+        "M055",
+        "M056",
+        "M003",
+        "M004",
+        "M005"
+      ],
+      "note": "Use only this commissioned section for Metro routing."
+    },
+    {
+      "line_id": "GREEN",
+      "line_name": "Green Line",
+      "color": "green",
+      "operational_section": "Salt Lake Sector V – Howrah Maidan",
+      "status": "operational",
+      "station_ids": [
+        "M030",
+        "M024",
+        "M025",
+        "M026",
+        "M027",
+        "M028",
+        "M029",
+        "M034",
+        "M016",
+        "M044",
+        "M045",
+        "M046"
+      ],
+      "note": "Ordered station sequence follows the official KMRCL East–West station list and the supplied map."
+    },
+    {
+      "line_id": "YELLOW",
+      "line_name": "Yellow Line",
+      "color": "yellow",
+      "operational_section": "Noapara – Jai Hind (Biman Bandar)",
+      "status": "operational",
+      "station_ids": [
+        "M022",
+        "M054",
+        "M053",
+        "M052"
+      ],
+      "note": "Only the Noapara–Jai Hind section is included; the Jai Hind–Barasat extension is not routable as operational."
+    },
+    {
+      "line_id": "ORANGE",
+      "line_name": "Orange Line",
+      "color": "orange",
+      "operational_section": "Kavi Subhash – Beleghata",
+      "status": "operational",
+      "station_ids": [
+        "M005",
+        "M043",
+        "M042",
+        "M041",
+        "M040",
+        "M051",
+        "M050",
+        "M049",
+        "M048"
+      ],
+      "note": "Only the Kavi Subhash–Beleghata commissioned section is included; stations beyond Beleghata are excluded."
+    },
+    {
+      "line_id": "PURPLE",
+      "line_name": "Purple Line",
+      "color": "purple",
+      "operational_section": "Joka – Majerhat",
+      "status": "operational",
+      "station_ids": [
+        "M039",
+        "M036",
+        "M037",
+        "M033",
+        "M032",
+        "M038",
+        "M047"
+      ],
+      "note": "Only the Joka–Majerhat commissioned section is included; Majerhat–Esplanade is excluded."
+    }
+  ],
+  "stations": [
+    {
+      "id": "M001",
+      "name": "Central",
+      "latitude": 22.5724857,
+      "longitude": 88.3587427,
+      "source": "OpenStreetMap",
+      "osm_id": 5421528426,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M002",
+      "name": "Park Street",
+      "latitude": 22.5551591,
+      "longitude": 88.3501171,
+      "source": "OpenStreetMap",
+      "osm_id": 5421528503,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M003",
+      "name": "Kavi Nazrul",
+      "latitude": 22.4642505,
+      "longitude": 88.3804604,
+      "source": "OpenStreetMap",
+      "osm_id": 5421533465,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M004",
+      "name": "Shahid Khudiram",
+      "latitude": 22.4659847,
+      "longitude": 88.3915408,
+      "source": "OpenStreetMap",
+      "osm_id": 5421533466,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M005",
+      "name": "Kavi Subhash",
+      "latitude": 22.4721697,
+      "longitude": 88.397961,
+      "source": "OpenStreetMap",
+      "osm_id": 5421533467,
+      "line_ids": [
+        "BLUE",
+        "ORANGE"
+      ],
+      "operational_line_ids": [
+        "BLUE",
+        "ORANGE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": true
+    },
+    {
+      "id": "M006",
+      "name": "Netaji",
+      "latitude": 22.4809928,
+      "longitude": 88.3460002,
+      "source": "OpenStreetMap",
+      "osm_id": 5421533468,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M007",
+      "name": "Mahanayak Uttam Kumar",
+      "latitude": 22.4947692,
+      "longitude": 88.3450879,
+      "source": "OpenStreetMap",
+      "osm_id": 5421536497,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M008",
+      "name": "Dum Dum",
+      "latitude": 22.6211141,
+      "longitude": 88.3928973,
+      "source": "OpenStreetMap",
+      "osm_id": 5421537963,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M009",
+      "name": "Rabindra Sarobar",
+      "latitude": 22.5072216,
+      "longitude": 88.3454936,
+      "source": "OpenStreetMap",
+      "osm_id": 5421538365,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M010",
+      "name": "Kalighat",
+      "latitude": 22.5168752,
+      "longitude": 88.3458448,
+      "source": "OpenStreetMap",
+      "osm_id": 5421539684,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M011",
+      "name": "Jatin Das Park",
+      "latitude": 22.5241535,
+      "longitude": 88.3464729,
+      "source": "OpenStreetMap",
+      "osm_id": 5421540159,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M012",
+      "name": "Netaji Bhavan",
+      "latitude": 22.5331821,
+      "longitude": 88.3459269,
+      "source": "OpenStreetMap",
+      "osm_id": 5421541284,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M013",
+      "name": "Rabindra Sadan",
+      "latitude": 22.5414899,
+      "longitude": 88.3473493,
+      "source": "OpenStreetMap",
+      "osm_id": 5421542551,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M014",
+      "name": "Maidan",
+      "latitude": 22.5494672,
+      "longitude": 88.3487883,
+      "source": "OpenStreetMap",
+      "osm_id": 5421543288,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M015",
+      "name": "Chandni Chowk",
+      "latitude": 22.5670118,
+      "longitude": 88.3541581,
+      "source": "OpenStreetMap",
+      "osm_id": 5421543316,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M016",
+      "name": "Esplanade",
+      "latitude": 22.5636143,
+      "longitude": 88.3512099,
+      "source": "OpenStreetMap",
+      "osm_id": 5421545051,
+      "line_ids": [
+        "BLUE",
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "BLUE",
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": true
+    },
+    {
+      "id": "M017",
+      "name": "Mahatma Gandhi Road",
+      "latitude": 22.5809206,
+      "longitude": 88.3613271,
+      "source": "OpenStreetMap",
+      "osm_id": 5421545390,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M018",
+      "name": "Girish Park",
+      "latitude": 22.5871445,
+      "longitude": 88.3629415,
+      "source": "OpenStreetMap",
+      "osm_id": 5421546475,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M019",
+      "name": "Shobhabazar Sutanuti",
+      "latitude": 22.595881,
+      "longitude": 88.3651996,
+      "source": "OpenStreetMap",
+      "osm_id": 5421546940,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M020",
+      "name": "Shyambazar",
+      "latitude": 22.601335,
+      "longitude": 88.3724974,
+      "source": "OpenStreetMap",
+      "osm_id": 5421546974,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M021",
+      "name": "Belgachia",
+      "latitude": 22.6059241,
+      "longitude": 88.3863913,
+      "source": "OpenStreetMap",
+      "osm_id": 5421548359,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M022",
+      "name": "Noapara",
+      "latitude": 22.6398418,
+      "longitude": 88.3941343,
+      "source": "OpenStreetMap",
+      "osm_id": 5421551283,
+      "line_ids": [
+        "BLUE",
+        "YELLOW"
+      ],
+      "operational_line_ids": [
+        "BLUE",
+        "YELLOW"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": true
+    },
+    {
+      "id": "M023",
+      "name": "Nalban Metro Station",
+      "latitude": 22.5733404,
+      "longitude": 88.4212209,
+      "source": "OpenStreetMap",
+      "osm_id": 7944684393,
+      "line_ids": [
+        "ORANGE"
+      ],
+      "operational_line_ids": [],
+      "is_operational_in_supplied_map": false,
+      "network_status": "under_construction_or_not_commissioned",
+      "routing_note": "Nalban is shown beyond the commissioned Kavi Subhash–Beleghata section on the Orange Line extension; excluded from operational route graph.",
+      "is_interchange": false
+    },
+    {
+      "id": "M024",
+      "name": "Karunamoyee",
+      "latitude": 22.58638,
+      "longitude": 88.4215312,
+      "source": "OpenStreetMap",
+      "osm_id": 7976140059,
+      "line_ids": [
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M025",
+      "name": "Central Park",
+      "latitude": 22.5904737,
+      "longitude": 88.4156247,
+      "source": "OpenStreetMap",
+      "osm_id": 7976140060,
+      "line_ids": [
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M026",
+      "name": "City Centre",
+      "latitude": 22.5870993,
+      "longitude": 88.4078908,
+      "source": "OpenStreetMap",
+      "osm_id": 7976140063,
+      "line_ids": [
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M027",
+      "name": "Bengal Chemical",
+      "latitude": 22.5800666,
+      "longitude": 88.4012962,
+      "source": "OpenStreetMap",
+      "osm_id": 7976140066,
+      "line_ids": [
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M028",
+      "name": "Salt Lake Stadium",
+      "latitude": 22.5731115,
+      "longitude": 88.4030891,
+      "source": "OpenStreetMap",
+      "osm_id": 7976140069,
+      "line_ids": [
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M029",
+      "name": "Phoolbagan",
+      "latitude": 22.5721268,
+      "longitude": 88.3902408,
+      "source": "OpenStreetMap",
+      "osm_id": 7976140072,
+      "line_ids": [
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M030",
+      "name": "Salt Lake Sector V",
+      "latitude": 22.5809434,
+      "longitude": 88.4290872,
+      "source": "OpenStreetMap",
+      "osm_id": 7976140073,
+      "line_ids": [
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M031",
+      "name": "Baranagar",
+      "latitude": 22.6530765,
+      "longitude": 88.3805962,
+      "source": "OpenStreetMap",
+      "osm_id": 8475640176,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "planned_line_ids": [
+        "PINK"
+      ],
+      "routing_note": "Operational on Blue Line. Pink Line is shown as project-announced in the supplied map and must not be used for routing.",
+      "is_interchange": false
+    },
+    {
+      "id": "M032",
+      "name": "Behala Bazar",
+      "latitude": 22.4987585,
+      "longitude": 88.3173872,
+      "source": "OpenStreetMap",
+      "osm_id": 9321290815,
+      "line_ids": [
+        "PURPLE"
+      ],
+      "operational_line_ids": [
+        "PURPLE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M033",
+      "name": "Behala Chowrasta",
+      "latitude": 22.4873548,
+      "longitude": 88.3133794,
+      "source": "OpenStreetMap",
+      "osm_id": 9321292345,
+      "line_ids": [
+        "PURPLE"
+      ],
+      "operational_line_ids": [
+        "PURPLE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M034",
+      "name": "Sealdah",
+      "latitude": 22.5666059,
+      "longitude": 88.3697815,
+      "source": "OpenStreetMap",
+      "osm_id": 9884790401,
+      "line_ids": [
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M035",
+      "name": "Dakshineshwar",
+      "latitude": 22.6540325,
+      "longitude": 88.3637533,
+      "source": "OpenStreetMap",
+      "osm_id": 10036655361,
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M036",
+      "name": "Thakurpukur",
+      "latitude": 22.4643677,
+      "longitude": 88.3075322,
+      "source": "OpenStreetMap",
+      "osm_id": 10296539469,
+      "line_ids": [
+        "PURPLE"
+      ],
+      "operational_line_ids": [
+        "PURPLE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M037",
+      "name": "Sakher Bazar",
+      "latitude": 22.4748533,
+      "longitude": 88.3099593,
+      "source": "OpenStreetMap",
+      "osm_id": 10296539474,
+      "line_ids": [
+        "PURPLE"
+      ],
+      "operational_line_ids": [
+        "PURPLE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M038",
+      "name": "Taratala",
+      "latitude": 22.5076863,
+      "longitude": 88.3203842,
+      "source": "OpenStreetMap",
+      "osm_id": 10296539476,
+      "line_ids": [
+        "PURPLE"
+      ],
+      "operational_line_ids": [
+        "PURPLE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M039",
+      "name": "Joka",
+      "latitude": 22.452347,
+      "longitude": 88.3018236,
+      "source": "OpenStreetMap",
+      "osm_id": 10296539478,
+      "line_ids": [
+        "PURPLE"
+      ],
+      "operational_line_ids": [
+        "PURPLE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M040",
+      "name": "Hemanta Mukhopadhyay",
+      "latitude": 22.5148514,
+      "longitude": 88.4014276,
+      "source": "OpenStreetMap",
+      "osm_id": 11447425091,
+      "line_ids": [
+        "ORANGE"
+      ],
+      "operational_line_ids": [
+        "ORANGE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M041",
+      "name": "Kavi Sukanta",
+      "latitude": 22.5053017,
+      "longitude": 88.4009957,
+      "source": "OpenStreetMap",
+      "osm_id": 11447425092,
+      "line_ids": [
+        "ORANGE"
+      ],
+      "operational_line_ids": [
+        "ORANGE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M042",
+      "name": "Jyotirindra Nandi",
+      "latitude": 22.4956263,
+      "longitude": 88.398449,
+      "source": "OpenStreetMap",
+      "osm_id": 11447425095,
+      "line_ids": [
+        "ORANGE"
+      ],
+      "operational_line_ids": [
+        "ORANGE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M043",
+      "name": "Satyajit Ray",
+      "latitude": 22.4846775,
+      "longitude": 88.3926447,
+      "source": "OpenStreetMap",
+      "osm_id": 11447425096,
+      "line_ids": [
+        "ORANGE"
+      ],
+      "operational_line_ids": [
+        "ORANGE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M044",
+      "name": "Mahakaran",
+      "latitude": 22.5720777,
+      "longitude": 88.3505275,
+      "source": "OpenStreetMap",
+      "osm_id": 11699268223,
+      "line_ids": [
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M045",
+      "name": "Howrah",
+      "latitude": 22.5833648,
+      "longitude": 88.3403452,
+      "source": "OpenStreetMap",
+      "osm_id": 11699268224,
+      "line_ids": [
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M046",
+      "name": "Howrah Maidan",
+      "latitude": 22.5838585,
+      "longitude": 88.3339983,
+      "source": "OpenStreetMap",
+      "osm_id": 11699268225,
+      "line_ids": [
+        "GREEN"
+      ],
+      "operational_line_ids": [
+        "GREEN"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M047",
+      "name": "Majerhat",
+      "latitude": 22.5191466,
+      "longitude": 88.3236555,
+      "source": "OpenStreetMap",
+      "osm_id": 11699268226,
+      "line_ids": [
+        "PURPLE"
+      ],
+      "operational_line_ids": [
+        "PURPLE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M048",
+      "name": "Beleghata",
+      "latitude": 22.5507084,
+      "longitude": 88.4039852,
+      "source": "OpenStreetMap",
+      "osm_id": 13088458999,
+      "line_ids": [
+        "ORANGE"
+      ],
+      "operational_line_ids": [
+        "ORANGE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M049",
+      "name": "Barun Sengupta",
+      "latitude": 22.5438072,
+      "longitude": 88.3992762,
+      "source": "OpenStreetMap",
+      "osm_id": 13088485701,
+      "line_ids": [
+        "ORANGE"
+      ],
+      "operational_line_ids": [
+        "ORANGE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M050",
+      "name": "Ritwik Ghatak",
+      "latitude": 22.5329995,
+      "longitude": 88.3964191,
+      "source": "OpenStreetMap",
+      "osm_id": 13088485704,
+      "line_ids": [
+        "ORANGE"
+      ],
+      "operational_line_ids": [
+        "ORANGE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M051",
+      "name": "VIP Bazar",
+      "latitude": 22.5246847,
+      "longitude": 88.3962331,
+      "source": "OpenStreetMap",
+      "osm_id": 13088485707,
+      "line_ids": [
+        "ORANGE"
+      ],
+      "operational_line_ids": [
+        "ORANGE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M052",
+      "name": "Jai Hind",
+      "latitude": 22.6473058,
+      "longitude": 88.4373029,
+      "source": "OpenStreetMap",
+      "osm_id": 13088491840,
+      "line_ids": [
+        "YELLOW"
+      ],
+      "operational_line_ids": [
+        "YELLOW"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M053",
+      "name": "Jessore Road",
+      "latitude": 22.6392646,
+      "longitude": 88.4297701,
+      "source": "OpenStreetMap",
+      "osm_id": 13088491871,
+      "line_ids": [
+        "YELLOW"
+      ],
+      "operational_line_ids": [
+        "YELLOW"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M054",
+      "name": "Dum Dum Cantonment",
+      "latitude": 22.6375936,
+      "longitude": 88.4121618,
+      "source": "OpenStreetMap",
+      "osm_id": 13088491874,
+      "line_ids": [
+        "YELLOW"
+      ],
+      "operational_line_ids": [
+        "YELLOW"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M055",
+      "name": "Masterda Surya Sen",
+      "latitude": 22.47344,
+      "longitude": 88.3609,
+      "source": "OpenStreetMap via Mapcarta",
+      "osm_id": "way/469357608",
+      "coordinate_source_url": "https://mapcarta.com/W469357608",
+      "coordinate_source_note": "Coordinate copied from the listed OpenStreetMap-derived station page; verify against the project's coordinate policy before production use.",
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    },
+    {
+      "id": "M056",
+      "name": "Gitanjali",
+      "latitude": 22.46947,
+      "longitude": 88.36983,
+      "source": "OpenStreetMap via Mapcarta",
+      "osm_id": "way/535333554",
+      "coordinate_source_url": "https://mapcarta.com/W535333554",
+      "coordinate_source_note": "Coordinate copied from the listed OpenStreetMap-derived station page; verify against the project's coordinate policy before production use.",
+      "line_ids": [
+        "BLUE"
+      ],
+      "operational_line_ids": [
+        "BLUE"
+      ],
+      "is_operational_in_supplied_map": true,
+      "network_status": "operational",
+      "is_interchange": false
+    }
+  ],
+  "connections": [
+    {
+      "from_station_id": "M035",
+      "to_station_id": "M031",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M031",
+      "to_station_id": "M022",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M022",
+      "to_station_id": "M008",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M008",
+      "to_station_id": "M021",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M021",
+      "to_station_id": "M020",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M020",
+      "to_station_id": "M019",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M019",
+      "to_station_id": "M018",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M018",
+      "to_station_id": "M017",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M017",
+      "to_station_id": "M001",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M001",
+      "to_station_id": "M015",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M015",
+      "to_station_id": "M016",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M016",
+      "to_station_id": "M002",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M002",
+      "to_station_id": "M014",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M014",
+      "to_station_id": "M013",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M013",
+      "to_station_id": "M012",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M012",
+      "to_station_id": "M011",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M011",
+      "to_station_id": "M010",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M010",
+      "to_station_id": "M009",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M009",
+      "to_station_id": "M007",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M007",
+      "to_station_id": "M006",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M006",
+      "to_station_id": "M055",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M055",
+      "to_station_id": "M056",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M056",
+      "to_station_id": "M003",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M003",
+      "to_station_id": "M004",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M004",
+      "to_station_id": "M005",
+      "line_id": "BLUE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M030",
+      "to_station_id": "M024",
+      "line_id": "GREEN",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M024",
+      "to_station_id": "M025",
+      "line_id": "GREEN",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M025",
+      "to_station_id": "M026",
+      "line_id": "GREEN",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M026",
+      "to_station_id": "M027",
+      "line_id": "GREEN",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M027",
+      "to_station_id": "M028",
+      "line_id": "GREEN",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M028",
+      "to_station_id": "M029",
+      "line_id": "GREEN",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M029",
+      "to_station_id": "M034",
+      "line_id": "GREEN",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M034",
+      "to_station_id": "M016",
+      "line_id": "GREEN",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M016",
+      "to_station_id": "M044",
+      "line_id": "GREEN",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M044",
+      "to_station_id": "M045",
+      "line_id": "GREEN",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M045",
+      "to_station_id": "M046",
+      "line_id": "GREEN",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M022",
+      "to_station_id": "M054",
+      "line_id": "YELLOW",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M054",
+      "to_station_id": "M053",
+      "line_id": "YELLOW",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M053",
+      "to_station_id": "M052",
+      "line_id": "YELLOW",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M005",
+      "to_station_id": "M043",
+      "line_id": "ORANGE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M043",
+      "to_station_id": "M042",
+      "line_id": "ORANGE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M042",
+      "to_station_id": "M041",
+      "line_id": "ORANGE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M041",
+      "to_station_id": "M040",
+      "line_id": "ORANGE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M040",
+      "to_station_id": "M051",
+      "line_id": "ORANGE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M051",
+      "to_station_id": "M050",
+      "line_id": "ORANGE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M050",
+      "to_station_id": "M049",
+      "line_id": "ORANGE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M049",
+      "to_station_id": "M048",
+      "line_id": "ORANGE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M039",
+      "to_station_id": "M036",
+      "line_id": "PURPLE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M036",
+      "to_station_id": "M037",
+      "line_id": "PURPLE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M037",
+      "to_station_id": "M033",
+      "line_id": "PURPLE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M033",
+      "to_station_id": "M032",
+      "line_id": "PURPLE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M032",
+      "to_station_id": "M038",
+      "line_id": "PURPLE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    },
+    {
+      "from_station_id": "M038",
+      "to_station_id": "M047",
+      "line_id": "PURPLE",
+      "travel_direction": "both",
+      "operational_as_of_map": true
+    }
+  ],
+  "interchanges": [
+    {
+      "station_id": "M022",
+      "station_name": "Noapara",
+      "operational_line_ids": [
+        "BLUE",
+        "YELLOW"
+      ]
+    },
+    {
+      "station_id": "M016",
+      "station_name": "Esplanade",
+      "operational_line_ids": [
+        "BLUE",
+        "GREEN"
+      ]
+    },
+    {
+      "station_id": "M005",
+      "station_name": "Kavi Subhash",
+      "operational_line_ids": [
+        "BLUE",
+        "ORANGE"
+      ]
+    }
+  ],
+  "excluded_or_non_operational_stations": [
+    {
+      "station_id": "M023",
+      "station_name": "Nalban Metro Station",
+      "line_id": "ORANGE",
+      "status": "under_construction_or_not_commissioned_as_of_map",
+      "reason": "Shown beyond the commissioned Kavi Subhash–Beleghata section; excluded from connections."
+    }
+  ],
+  "missing_station_records_added": [
+    {
+      "id": "M055",
+      "name": "Masterda Surya Sen",
+      "reason": "Operational Blue Line station shown in the map but absent from the uploaded metro_stations.json.",
+      "coordinate_source_url": "https://mapcarta.com/W469357608"
+    },
+    {
+      "id": "M056",
+      "name": "Gitanjali",
+      "reason": "Operational Blue Line station shown in the map but absent from the uploaded metro_stations.json.",
+      "coordinate_source_url": "https://mapcarta.com/W535333554"
+    }
+  ],
+  "validation": {
+    "source_station_count": 54,
+    "new_station_records_added": 2,
+    "records_in_draft": 56,
+    "operational_stations_in_graph": 55,
+    "excluded_records": 1,
+    "operational_connections": 53,
+    "line_count": 5
+  }
+}

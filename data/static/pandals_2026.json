@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "P001",
+    "name": "Tala Prattay",
+    "area": "Belgachia",
+    "address": "Belgachia, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60892,
+    "longitude": 88.38227
+  },
+  {
+    "id": "P002",
+    "name": "Dumdum Park Bharat Chakra",
+    "area": "Belgachia",
+    "address": "Belgachia, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.610821,
+    "longitude": 88.4146
+  },
+  {
+    "id": "P003",
+    "name": "Dumdum Park Tarun Dal",
+    "area": "Belgachia",
+    "address": "Belgachia, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.611486,
+    "longitude": 88.418626
+  },
+  {
+    "id": "P004",
+    "name": "Nalin Sarkar Street",
+    "area": "Shyambazar",
+    "address": "Shyambazar, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.59535,
+    "longitude": 88.3734
+  },
+  {
+    "id": "P005",
+    "name": "Kashi Bose Lane",
+    "area": "Shyambazar",
+    "address": "Shyambazar, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60133,
+    "longitude": 88.3725
+  },
+  {
+    "id": "P006",
+    "name": "Chorebagan Sarbojonin",
+    "area": "Girish Park",
+    "address": "Girish Park, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.58714,
+    "longitude": 88.36294
+  },
+  {
+    "id": "P007",
+    "name": "Noapara Udayan Sangha",
+    "area": "Noapara",
+    "address": "Noapara, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.63984,
+    "longitude": 88.39413
+  },
+  {
+    "id": "P008",
+    "name": "Tala Barowari",
+    "area": "Belgachia",
+    "address": "Belgachia, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60592,
+    "longitude": 88.38639
+  },
+  {
+    "id": "P009",
+    "name": "Dakshinpara",
+    "area": "Belgachia",
+    "address": "Belgachia, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60592,
+    "longitude": 88.38639
+  },
+  {
+    "id": "P010",
+    "name": "Arjunpur Amra Sabai Club",
+    "area": "Arjunpur",
+    "address": "Arjunpur, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.63928,
+    "longitude": 88.42976
+  },
+  {
+    "id": "P011",
+    "name": "Dumdum Park Sarbajanin",
+    "area": "Belgachia",
+    "address": "Belgachia, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.609436,
+    "longitude": 88.416405
+  },
+  {
+    "id": "P012",
+    "name": "Golaghata Sammilani",
+    "area": "Belgachia",
+    "address": "Belgachia, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60592,
+    "longitude": 88.38639
+  },
+  {
+    "id": "P013",
+    "name": "Dakshindari Youth",
+    "area": "Belgachia",
+    "address": "Belgachia, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60592,
+    "longitude": 88.38639
+  },
+  {
+    "id": "P014",
+    "name": "Telengabagan",
+    "area": "Belgachia",
+    "address": "Belgachia, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.594185,
+    "longitude": 88.385177
+  },
+  {
+    "id": "P015",
+    "name": "Belgachia Sadharan Durgotsav",
+    "area": "Tala Park",
+    "address": "Tala Park, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60592,
+    "longitude": 88.38639
+  },
+  {
+    "id": "P016",
+    "name": "Baghbazar Sarbojanin",
+    "area": "Shyambazar",
+    "address": "Shyambazar, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.6047,
+    "longitude": 88.36613
+  },
+  {
+    "id": "P017",
+    "name": "Sikdar Bagan",
+    "area": "Shyambazar",
+    "address": "Shyambazar, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60133,
+    "longitude": 88.3725
+  },
+  {
+    "id": "P018",
+    "name": "Hatibagan Nabinpally",
+    "area": "Shyambazar",
+    "address": "Shyambazar, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.595903,
+    "longitude": 88.373418
+  },
+  {
+    "id": "P019",
+    "name": "Hatibagan Sarbojonin",
+    "area": "Shyambazar",
+    "address": "Shyambazar, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.594386,
+    "longitude": 88.372
+  },
+  {
+    "id": "P020",
+    "name": "Lalabagan Nabankur",
+    "area": "Shyambazar",
+    "address": "Shyambazar, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60133,
+    "longitude": 88.3725
+  },
+  {
+    "id": "P021",
+    "name": "Sovabazar Rajbari",
+    "area": "Shobhabazar Sutanuti",
+    "address": "Shobhabazar Sutanuti, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.59588,
+    "longitude": 88.3652
+  },
+  {
+    "id": "P022",
+    "name": "Jagat Mukherjee Park",
+    "area": "Shobhabazar Sutanuti",
+    "address": "Shobhabazar Sutanuti, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.5997,
+    "longitude": 88.36619
+  },
+  {
+    "id": "P023",
+    "name": "Kumartuli Sarbojanin",
+    "area": "Shobhabazar Sutanuti",
+    "address": "Shobhabazar Sutanuti, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.598983,
+    "longitude": 88.361466
+  },
+  {
+    "id": "P024",
+    "name": "Kumartuli Park",
+    "area": "Shobhabazar Sutanuti",
+    "address": "Shobhabazar Sutanuti, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.598983,
+    "longitude": 88.361466
+  },
+  {
+    "id": "P025",
+    "name": "Beniatola Sarbojonin",
+    "area": "Shobhabazar Sutanuti",
+    "address": "Shobhabazar Sutanuti, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.59588,
+    "longitude": 88.3652
+  },
+  {
+    "id": "P026",
+    "name": "Ahiritola Sarbojonin",
+    "area": "Shobhabazar Sutanuti",
+    "address": "Shobhabazar Sutanuti, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.59459,
+    "longitude": 88.35705
+  },
+  {
+    "id": "P027",
+    "name": "Jorasanko Sadharan",
+    "area": "Girish Park",
+    "address": "Girish Park, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.58714,
+    "longitude": 88.36294
+  },
+  {
+    "id": "P028",
+    "name": "Simla Byayam Samity",
+    "area": "Girish Park",
+    "address": "Girish Park, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.58539,
+    "longitude": 88.36513
+  },
+  {
+    "id": "P029",
+    "name": "Chaltabagan Lohapatty",
+    "area": "Girish Park",
+    "address": "Girish Park, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.58714,
+    "longitude": 88.36294
+  },
+  {
+    "id": "P030",
+    "name": "Chhatubabu Latubabu Bari",
+    "area": "Ramdulal Sarkar Street",
+    "address": "Ramdulal Sarkar Street, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.58714,
+    "longitude": 88.36294
+  },
+  {
+    "id": "P031",
+    "name": "Darjipara Mitra Bari",
+    "area": "Darjipara",
+    "address": "Darjipara, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.591093,
+    "longitude": 88.364903
+  },
+  {
+    "id": "P032",
+    "name": "Hatkhola Dutta Bari",
+    "area": "Hatkhola",
+    "address": "Hatkhola, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.59588,
+    "longitude": 88.3652
+  },
+  {
+    "id": "P033",
+    "name": "Jorasanko Daw Bari",
+    "area": "Jorasanko",
+    "address": "Jorasanko, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.585847,
+    "longitude": 88.359567
+  },
+  {
+    "id": "P034",
+    "name": "Darjipara Sarbojanin",
+    "area": "Darjipara",
+    "address": "Darjipara, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.58714,
+    "longitude": 88.36294
+  },
+  {
+    "id": "P035",
+    "name": "Ultadanga Pallyshree",
+    "area": "Belgachia",
+    "address": "Belgachia, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.59579,
+    "longitude": 88.38444
+  },
+  {
+    "id": "P036",
+    "name": "Paikpara 15 Pally",
+    "area": "Dum Dum",
+    "address": "Dum Dum, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.61853,
+    "longitude": 88.38493
+  },
+  {
+    "id": "P037",
+    "name": "Pathuria Ghata 5 Pally",
+    "area": "Girish Park",
+    "address": "Girish Park, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.58852,
+    "longitude": 88.35746
+  },
+  {
+    "id": "P038",
+    "name": "Sovabazar 9 Pally Sarbojanin",
+    "area": "Shobhabazar Sutanuti",
+    "address": "Shobhabazar Sutanuti, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.59579,
+    "longitude": 88.36936
+  },
+  {
+    "id": "P039",
+    "name": "Bagbazar Pally Puja",
+    "area": "Shyambazar",
+    "address": "Shyambazar, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60293,
+    "longitude": 88.36752
+  },
+  {
+    "id": "P040",
+    "name": "Shyam Square",
+    "area": "Shyambazar",
+    "address": "Shyambazar, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60094,
+    "longitude": 88.36877
+  },
+  {
+    "id": "P041",
+    "name": "Gouribari Sarbojanin",
+    "area": "Shyambazar",
+    "address": "Shyambazar, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.59458,
+    "longitude": 88.37914
+  },
+  {
+    "id": "P042",
+    "name": "Mitali Sangha",
+    "area": "Kankurgachi",
+    "address": "Kankurgachi, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.57203,
+    "longitude": 88.39027
+  },
+  {
+    "id": "P043",
+    "name": "Ahiritola Jubak Brinda",
+    "area": "Ahiritola",
+    "address": "Ahiritola, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.594577,
+    "longitude": 88.360589
+  },
+  {
+    "id": "P044",
+    "name": "Ultadanga Bidhan Sangha",
+    "area": "Ultadanga",
+    "address": "Ultadanga, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.595241,
+    "longitude": 88.384277
+  },
+  {
+    "id": "P045",
+    "name": "Ultadanga Karbagan",
+    "area": "Ultadanga",
+    "address": "Ultadanga, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60592,
+    "longitude": 88.38639
+  },
+  {
+    "id": "P046",
+    "name": "Ultadanga Jagaran Sangha",
+    "area": "Ultadanga",
+    "address": "Ultadanga, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.593293,
+    "longitude": 88.384909
+  },
+  {
+    "id": "P047",
+    "name": "Dum Dum Park Yubak Brinda",
+    "area": "Dum Dum Park",
+    "address": "Dum Dum Park, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60592,
+    "longitude": 88.38639
+  },
+  {
+    "id": "P048",
+    "name": "Dum Dum Park Tarun Sangha",
+    "area": "Dum Dum Park",
+    "address": "Dum Dum Park, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.60592,
+    "longitude": 88.38639
+  },
+  {
+    "id": "P049",
+    "name": "Bandhudal Sporting Club",
+    "area": "Sinthee More",
+    "address": "Sinthee More, Kolkata, West Bengal",
+    "zone": "North Kolkata",
+    "latitude": 22.62111,
+    "longitude": 88.3929
+  },
+  {
+    "id": "P050",
+    "name": "Santosh Mitra Square",
+    "area": "MG Road",
+    "address": "MG Road, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.58092,
+    "longitude": 88.36133
+  },
+  {
+    "id": "P051",
+    "name": "Badan Chand Roy Bari",
+    "area": "Colootola",
+    "address": "Colootola, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.57249,
+    "longitude": 88.35874
+  },
+  {
+    "id": "P052",
+    "name": "Muhammad Ali Park",
+    "area": "MG Road",
+    "address": "MG Road, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.58092,
+    "longitude": 88.36133
+  },
+  {
+    "id": "P053",
+    "name": "College Square",
+    "area": "MG Road",
+    "address": "MG Road, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.574311,
+    "longitude": 88.361571
+  },
+  {
+    "id": "P054",
+    "name": "Sealdah Athletic Club",
+    "area": "MG Road",
+    "address": "MG Road, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.58092,
+    "longitude": 88.36133
+  },
+  {
+    "id": "P055",
+    "name": "Subodh Mallick Square",
+    "area": "Central",
+    "address": "Central, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.57249,
+    "longitude": 88.35874
+  },
+  {
+    "id": "P056",
+    "name": "Kapalitola Sarbajanin",
+    "area": "Central",
+    "address": "Central, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.583428,
+    "longitude": 88.363596
+  },
+  {
+    "id": "P057",
+    "name": "Janbazar Rajbari",
+    "area": "Chandni Chowk",
+    "address": "Chandni Chowk, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.56701,
+    "longitude": 88.35416
+  },
+  {
+    "id": "P058",
+    "name": "Taltala Sarbojanin",
+    "area": "Chandni Chowk",
+    "address": "Chandni Chowk, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.55454,
+    "longitude": 88.36217
+  },
+  {
+    "id": "P059",
+    "name": "Chakraberia Sarbojanin",
+    "area": "Rabindra Sadan",
+    "address": "Rabindra Sadan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.53357,
+    "longitude": 88.3522
+  },
+  {
+    "id": "P060",
+    "name": "68 Pally",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52888,
+    "longitude": 88.34629
+  },
+  {
+    "id": "P061",
+    "name": "76 Pally",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.53374,
+    "longitude": 88.34305
+  },
+  {
+    "id": "P062",
+    "name": "Bhowanipur 75 Pally",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.5326,
+    "longitude": 88.34544
+  },
+  {
+    "id": "P063",
+    "name": "22 Pally (Northern Park)",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.535264,
+    "longitude": 88.350167
+  },
+  {
+    "id": "P064",
+    "name": "Paddapukur Youth",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52936,
+    "longitude": 88.34971
+  },
+  {
+    "id": "P065",
+    "name": "Harish Park",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.53054,
+    "longitude": 88.34367
+  },
+  {
+    "id": "P066",
+    "name": "Agradut Udaya Sangha",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.533821,
+    "longitude": 88.341944
+  },
+  {
+    "id": "P067",
+    "name": "Swadhin Sangha",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.531932,
+    "longitude": 88.346402
+  },
+  {
+    "id": "P068",
+    "name": "37 Pally",
+    "area": "MG Road",
+    "address": "MG Road, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.58096,
+    "longitude": 88.37101
+  },
+  {
+    "id": "P069",
+    "name": "Rammohan Sammilani",
+    "area": "MG Road",
+    "address": "MG Road, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.57733,
+    "longitude": 88.36941
+  },
+  {
+    "id": "P070",
+    "name": "Pally Bashi Brindo",
+    "area": "Beleghata",
+    "address": "Beleghata, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.568569,
+    "longitude": 88.391128
+  },
+  {
+    "id": "P071",
+    "name": "Park Circus",
+    "area": "Maidan",
+    "address": "Maidan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.5437,
+    "longitude": 88.36995
+  },
+  {
+    "id": "P072",
+    "name": "Khidirpur 26 Pally",
+    "area": "Rabindra Sadan",
+    "address": "Rabindra Sadan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.54286,
+    "longitude": 88.32393
+  },
+  {
+    "id": "P073",
+    "name": "Kidderpore 75 Pally",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.5403,
+    "longitude": 88.32528
+  },
+  {
+    "id": "P074",
+    "name": "Kidderpore 74 Pally",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.53978,
+    "longitude": 88.32512
+  },
+  {
+    "id": "P075",
+    "name": "Kidderpore 25 Pally",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.53848,
+    "longitude": 88.3266
+  },
+  {
+    "id": "P076",
+    "name": "Gokhale Sporting",
+    "area": "Rabindra Sadan",
+    "address": "Rabindra Sadan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.54044,
+    "longitude": 88.34584
+  },
+  {
+    "id": "P077",
+    "name": "Ray Street Sarbojanin",
+    "area": "Netaji Bhavan",
+    "address": "Netaji Bhavan, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.53565,
+    "longitude": 88.35211
+  },
+  {
+    "id": "P078",
+    "name": "Beleghata 33 Pally",
+    "area": "Beleghata",
+    "address": "Beleghata, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.55068,
+    "longitude": 88.40401
+  },
+  {
+    "id": "P079",
+    "name": "Beleghata Sandhani",
+    "area": "Beleghata",
+    "address": "Beleghata, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.55068,
+    "longitude": 88.40401
+  },
+  {
+    "id": "P080",
+    "name": "Abasar",
+    "area": "Bhowanipore",
+    "address": "Bhowanipore, Kolkata, West Bengal",
+    "zone": "Central Kolkata",
+    "latitude": 22.52787,
+    "longitude": 88.348923
+  },
+  {
+    "id": "P081",
+    "name": "Maddox Square",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52651,
+    "longitude": 88.35485
+  },
+  {
+    "id": "P082",
+    "name": "Suruchi Sangha",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.5091,
+    "longitude": 88.33418
+  },
+  {
+    "id": "P083",
+    "name": "Chetla Agrani",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51643,
+    "longitude": 88.33719
+  },
+  {
+    "id": "P084",
+    "name": "Tridhara Sammilani",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51958,
+    "longitude": 88.35535
+  },
+  {
+    "id": "P085",
+    "name": "Ballygunge Cultural",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51588,
+    "longitude": 88.35582
+  },
+  {
+    "id": "P086",
+    "name": "Behala Friends",
+    "area": "Behala Bazar",
+    "address": "Behala Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49876,
+    "longitude": 88.31739
+  },
+  {
+    "id": "P087",
+    "name": "23 Pally",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.5254,
+    "longitude": 88.344
+  },
+  {
+    "id": "P088",
+    "name": "Forward Club",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52313,
+    "longitude": 88.34363
+  },
+  {
+    "id": "P089",
+    "name": "Matri Mandir",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52415,
+    "longitude": 88.34647
+  },
+  {
+    "id": "P090",
+    "name": "Bakul Bagan",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52682,
+    "longitude": 88.34795
+  },
+  {
+    "id": "P091",
+    "name": "66 Pally",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51824,
+    "longitude": 88.34286
+  },
+  {
+    "id": "P092",
+    "name": "Badamtala Ashar Sangha",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51793,
+    "longitude": 88.34416
+  },
+  {
+    "id": "P093",
+    "name": "Deshapriya Park",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.5187,
+    "longitude": 88.3535
+  },
+  {
+    "id": "P094",
+    "name": "Hindusthan Park",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51787,
+    "longitude": 88.36209
+  },
+  {
+    "id": "P095",
+    "name": "Hindusthan Club",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51951,
+    "longitude": 88.36059
+  },
+  {
+    "id": "P096",
+    "name": "Singhi Park",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52122,
+    "longitude": 88.36301
+  },
+  {
+    "id": "P097",
+    "name": "Ekdalia Evergreen",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52125,
+    "longitude": 88.36596
+  },
+  {
+    "id": "P098",
+    "name": "Bosepukur Sitala Mandir",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51688,
+    "longitude": 88.34584
+  },
+  {
+    "id": "P099",
+    "name": "Rajdanga Naba Uday Sangha",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51688,
+    "longitude": 88.34584
+  },
+  {
+    "id": "P100",
+    "name": "Shib Mandir",
+    "area": "Rabindra Sarobar",
+    "address": "Rabindra Sarobar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50722,
+    "longitude": 88.34549
+  },
+  {
+    "id": "P101",
+    "name": "Mudiali",
+    "area": "Rabindra Sarobar",
+    "address": "Rabindra Sarobar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51007,
+    "longitude": 88.34663
+  },
+  {
+    "id": "P102",
+    "name": "Jodhpur Park 95 Pally",
+    "area": "Rabindra Sarobar",
+    "address": "Rabindra Sarobar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50834,
+    "longitude": 88.36323
+  },
+  {
+    "id": "P103",
+    "name": "Behala Nutan Dal",
+    "area": "Taratala",
+    "address": "Taratala, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50769,
+    "longitude": 88.32038
+  },
+  {
+    "id": "P104",
+    "name": "Behala Roy Bari",
+    "area": "Behala",
+    "address": "Behala, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49876,
+    "longitude": 88.31739
+  },
+  {
+    "id": "P105",
+    "name": "Behala Nutan Sangha",
+    "area": "Behala",
+    "address": "Behala, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49876,
+    "longitude": 88.31739
+  },
+  {
+    "id": "P106",
+    "name": "Haridevpur 41 Pally",
+    "area": "Mahanayak Uttam Kumar",
+    "address": "Mahanayak Uttam Kumar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49477,
+    "longitude": 88.34509
+  },
+  {
+    "id": "P107",
+    "name": "Vivekananda Park",
+    "area": "Mahanayak Uttam Kumar",
+    "address": "Mahanayak Uttam Kumar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48136,
+    "longitude": 88.33731
+  },
+  {
+    "id": "P108",
+    "name": "Ajeya Sanghati",
+    "area": "Mahanayak Uttam Kumar",
+    "address": "Mahanayak Uttam Kumar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48096,
+    "longitude": 88.33753
+  },
+  {
+    "id": "P109",
+    "name": "Barisha Club",
+    "area": "Mahanayak Uttam Kumar",
+    "address": "Mahanayak Uttam Kumar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49477,
+    "longitude": 88.34509
+  },
+  {
+    "id": "P110",
+    "name": "Naktala Pally Unnayan Samity",
+    "area": "Netaji (Kudghat)",
+    "address": "Netaji (Kudghat), Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48099,
+    "longitude": 88.346
+  },
+  {
+    "id": "P111",
+    "name": "Roynagar Unyan Samity",
+    "area": "Masterda Surya Sen",
+    "address": "Masterda Surya Sen, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47344,
+    "longitude": 88.3609
+  },
+  {
+    "id": "P112",
+    "name": "Naktala Udayan Sangha",
+    "area": "Gitanjali",
+    "address": "Gitanjali, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47435,
+    "longitude": 88.36653
+  },
+  {
+    "id": "P113",
+    "name": "Baishnabghata Balak Samity",
+    "area": "Gitanjali",
+    "address": "Gitanjali, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.46947,
+    "longitude": 88.37001
+  },
+  {
+    "id": "P114",
+    "name": "Garia Nabadurga",
+    "area": "Kavi Nazrul",
+    "address": "Kavi Nazrul, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.46248,
+    "longitude": 88.38092
+  },
+  {
+    "id": "P115",
+    "name": "Tarun Sathi",
+    "area": "Kavi Nazrul",
+    "address": "Kavi Nazrul, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.46425,
+    "longitude": 88.38046
+  },
+  {
+    "id": "P116",
+    "name": "Shyama Pally",
+    "area": "Kavi Nazrul",
+    "address": "Kavi Nazrul, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.46425,
+    "longitude": 88.38046
+  },
+  {
+    "id": "P117",
+    "name": "Kamdahari Purbapara",
+    "area": "Kavi Nazrul",
+    "address": "Kavi Nazrul, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.46425,
+    "longitude": 88.38046
+  },
+  {
+    "id": "P118",
+    "name": "Patuli Sarbojanin",
+    "area": "Shahid Khudiram",
+    "address": "Shahid Khudiram, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.46598,
+    "longitude": 88.39154
+  },
+  {
+    "id": "P119",
+    "name": "Santoshpur Lake Pally",
+    "area": "Kavi Subhash",
+    "address": "Kavi Subhash, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49139,
+    "longitude": 88.38277
+  },
+  {
+    "id": "P120",
+    "name": "Santoshpur Trikon Park",
+    "area": "Kavi Subhash",
+    "address": "Kavi Subhash, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49318,
+    "longitude": 88.37845
+  },
+  {
+    "id": "P121",
+    "name": "Pally Mangal",
+    "area": "Kavi Subhash",
+    "address": "Kavi Subhash, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47111,
+    "longitude": 88.3981
+  },
+  {
+    "id": "P122",
+    "name": "Kidderpore Pally Sarodiya",
+    "area": "Majerhat",
+    "address": "Majerhat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.54306,
+    "longitude": 88.32109
+  },
+  {
+    "id": "P123",
+    "name": "Ballygunge 21 Pally",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52924,
+    "longitude": 88.36891
+  },
+  {
+    "id": "P124",
+    "name": "Kidderpore Sarbojanin",
+    "area": "Majerhat",
+    "address": "Majerhat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.53842,
+    "longitude": 88.32492
+  },
+  {
+    "id": "P125",
+    "name": "Netaji Sangha",
+    "area": "Behala Bazar",
+    "address": "Behala Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50516,
+    "longitude": 88.31143
+  },
+  {
+    "id": "P126",
+    "name": "Agradut Club",
+    "area": "Behala Bazar",
+    "address": "Behala Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.5026,
+    "longitude": 88.31192
+  },
+  {
+    "id": "P127",
+    "name": "Mitra Sangha",
+    "area": "Behala Bazar",
+    "address": "Behala Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50079,
+    "longitude": 88.32276
+  },
+  {
+    "id": "P128",
+    "name": "Behala 11 Pally",
+    "area": "Behala Bazar",
+    "address": "Behala Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49992,
+    "longitude": 88.32215
+  },
+  {
+    "id": "P129",
+    "name": "Behala Shree Sangha",
+    "area": "Behala Bazar",
+    "address": "Behala Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49791,
+    "longitude": 88.32036
+  },
+  {
+    "id": "P130",
+    "name": "Pragati Sangha",
+    "area": "Behala Bazar",
+    "address": "Behala Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49398,
+    "longitude": 88.3173
+  },
+  {
+    "id": "P131",
+    "name": "Nabalia Para United Club",
+    "area": "Behala Chowrasta",
+    "address": "Behala Chowrasta, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.488,
+    "longitude": 88.31423
+  },
+  {
+    "id": "P132",
+    "name": "Barisha Netaji Sangha",
+    "area": "Behala Chowrasta",
+    "address": "Behala Chowrasta, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48573,
+    "longitude": 88.31534
+  },
+  {
+    "id": "P133",
+    "name": "Bakultala Sarbojanin",
+    "area": "Behala Chowrasta",
+    "address": "Behala Chowrasta, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48407,
+    "longitude": 88.29927
+  },
+  {
+    "id": "P134",
+    "name": "Barisha Nabin Sangha",
+    "area": "Behala Chowrasta",
+    "address": "Behala Chowrasta, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.4832,
+    "longitude": 88.311
+  },
+  {
+    "id": "P135",
+    "name": "Sitalatala Kishore Sangha",
+    "area": "Behala Chowrasta",
+    "address": "Behala Chowrasta, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48108,
+    "longitude": 88.32158
+  },
+  {
+    "id": "P136",
+    "name": "Barisha Tarun Tirtha",
+    "area": "Behala Chowrasta",
+    "address": "Behala Chowrasta, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48041,
+    "longitude": 88.3178
+  },
+  {
+    "id": "P137",
+    "name": "Vidyasagar Central Club",
+    "area": "Gitanjali",
+    "address": "Gitanjali, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48092,
+    "longitude": 88.37488
+  },
+  {
+    "id": "P138",
+    "name": "Sree Guru Sangha",
+    "area": "Gitanjali",
+    "address": "Gitanjali, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47305,
+    "longitude": 88.36919
+  },
+  {
+    "id": "P139",
+    "name": "Rupchand Mukherjee Sarbojanin",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52745,
+    "longitude": 88.34515
+  },
+  {
+    "id": "P140",
+    "name": "Golmath Durga Puja Samiti",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52693,
+    "longitude": 88.34954
+  },
+  {
+    "id": "P141",
+    "name": "Bhowanipore Durgotsab",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52629,
+    "longitude": 88.35152
+  },
+  {
+    "id": "P142",
+    "name": "Hazra Park Durgotsab",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52484,
+    "longitude": 88.34614
+  },
+  {
+    "id": "P143",
+    "name": "Kalighat Milan Sangha",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52451,
+    "longitude": 88.34108
+  },
+  {
+    "id": "P144",
+    "name": "Phalguni Sangha",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52255,
+    "longitude": 88.36601
+  },
+  {
+    "id": "P145",
+    "name": "Sangha Sree",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52192,
+    "longitude": 88.34591
+  },
+  {
+    "id": "P146",
+    "name": "Ballygunge Purba Pally",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52188,
+    "longitude": 88.37097
+  },
+  {
+    "id": "P147",
+    "name": "64 Pally Durga Pujo",
+    "area": "Jatin Das Park",
+    "address": "Jatin Das Park, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.5206,
+    "longitude": 88.34745
+  },
+  {
+    "id": "P148",
+    "name": "Diamond Park Sarbojanin",
+    "area": "Joka",
+    "address": "Joka, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.44879,
+    "longitude": 88.30393
+  },
+  {
+    "id": "P149",
+    "name": "Shahid Colony Sarbojanin",
+    "area": "Jyotirindra Nath Nandi",
+    "address": "Jyotirindra Nath Nandi, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50461,
+    "longitude": 88.37334
+  },
+  {
+    "id": "P150",
+    "name": "Madhya Garfa Sarbojanin",
+    "area": "Jyotirindra Nath Nandi",
+    "address": "Jyotirindra Nath Nandi, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50258,
+    "longitude": 88.38536
+  },
+  {
+    "id": "P151",
+    "name": "Mukundapur Sarbojanin",
+    "area": "Jyotirindra Nath Nandi",
+    "address": "Jyotirindra Nath Nandi, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49179,
+    "longitude": 88.40476
+  },
+  {
+    "id": "P152",
+    "name": "78 Pally",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52045,
+    "longitude": 88.33788
+  },
+  {
+    "id": "P153",
+    "name": "Jana Mangal Samiti",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51955,
+    "longitude": 88.34179
+  },
+  {
+    "id": "P154",
+    "name": "Dakshin Kolkata Sarbojanin",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.5186,
+    "longitude": 88.35348
+  },
+  {
+    "id": "P155",
+    "name": "Sarat Chatterjee Park",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51802,
+    "longitude": 88.35812
+  },
+  {
+    "id": "P156",
+    "name": "Gariahat Sarbojanin Durgotsab",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51735,
+    "longitude": 88.36675
+  },
+  {
+    "id": "P157",
+    "name": "Shahid Sangha",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51619,
+    "longitude": 88.34649
+  },
+  {
+    "id": "P158",
+    "name": "Golden Arrow Club",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51617,
+    "longitude": 88.34771
+  },
+  {
+    "id": "P159",
+    "name": "Adi Lake Palli Club",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51504,
+    "longitude": 88.34986
+  },
+  {
+    "id": "P160",
+    "name": "Samaj Sebi Sangha",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51474,
+    "longitude": 88.356
+  },
+  {
+    "id": "P161",
+    "name": "Pratapaditya Road Trikon Park",
+    "area": "Kalighat",
+    "address": "Kalighat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51354,
+    "longitude": 88.34465
+  },
+  {
+    "id": "P162",
+    "name": "Garia Jatra Suru Sangha",
+    "area": "Kavi Nazrul",
+    "address": "Kavi Nazrul, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47086,
+    "longitude": 88.37849
+  },
+  {
+    "id": "P163",
+    "name": "Kheyali Sangha",
+    "area": "Kavi Nazrul",
+    "address": "Kavi Nazrul, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.46004,
+    "longitude": 88.37857
+  },
+  {
+    "id": "P164",
+    "name": "Boral Sukanta Sangha",
+    "area": "Kavi Nazrul",
+    "address": "Kavi Nazrul, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.44767,
+    "longitude": 88.37771
+  },
+  {
+    "id": "P165",
+    "name": "Poddar Nagar Sarbojanin",
+    "area": "Mahanayak Uttam Kumar",
+    "address": "Mahanayak Uttam Kumar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49824,
+    "longitude": 88.36925
+  },
+  {
+    "id": "P166",
+    "name": "Atlanta Club",
+    "area": "Mahanayak Uttam Kumar",
+    "address": "Mahanayak Uttam Kumar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49602,
+    "longitude": 88.34655
+  },
+  {
+    "id": "P167",
+    "name": "Suktara Sangha",
+    "area": "Mahanayak Uttam Kumar",
+    "address": "Mahanayak Uttam Kumar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49601,
+    "longitude": 88.34006
+  },
+  {
+    "id": "P168",
+    "name": "Alipore Sarbojanin",
+    "area": "Majerhat",
+    "address": "Majerhat, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51963,
+    "longitude": 88.33366
+  },
+  {
+    "id": "P169",
+    "name": "Udayan Sangha",
+    "area": "Masterda Surya Sen",
+    "address": "Masterda Surya Sen, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.4864,
+    "longitude": 88.36961
+  },
+  {
+    "id": "P170",
+    "name": "Naktala Sammilani Club",
+    "area": "Masterda Surya Sen",
+    "address": "Masterda Surya Sen, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47885,
+    "longitude": 88.36783
+  },
+  {
+    "id": "P171",
+    "name": "Azadgarh Sebak Sangha",
+    "area": "Netaji (Kudghat)",
+    "address": "Netaji (Kudghat), Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48791,
+    "longitude": 88.3561
+  },
+  {
+    "id": "P172",
+    "name": "41 Pally",
+    "area": "Netaji (Kudghat)",
+    "address": "Netaji (Kudghat), Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48302,
+    "longitude": 88.33842
+  },
+  {
+    "id": "P173",
+    "name": "Sodepur Pragati Sangha",
+    "area": "Netaji (Kudghat)",
+    "address": "Netaji (Kudghat), Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48161,
+    "longitude": 88.33172
+  },
+  {
+    "id": "P174",
+    "name": "Putiary Club",
+    "area": "Netaji (Kudghat)",
+    "address": "Netaji (Kudghat), Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47995,
+    "longitude": 88.3432
+  },
+  {
+    "id": "P175",
+    "name": "Pally Unnayan Samiti",
+    "area": "Netaji (Kudghat)",
+    "address": "Netaji (Kudghat), Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47815,
+    "longitude": 88.34219
+  },
+  {
+    "id": "P176",
+    "name": "Vivekananda Sporting Club",
+    "area": "Netaji (Kudghat)",
+    "address": "Netaji (Kudghat), Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47632,
+    "longitude": 88.33859
+  },
+  {
+    "id": "P177",
+    "name": "Adarsha Samiti",
+    "area": "Netaji (Kudghat)",
+    "address": "Netaji (Kudghat), Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.4761,
+    "longitude": 88.33427
+  },
+  {
+    "id": "P178",
+    "name": "Nabin Sathi Club",
+    "area": "Netaji (Kudghat)",
+    "address": "Netaji (Kudghat), Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47008,
+    "longitude": 88.33845
+  },
+  {
+    "id": "P179",
+    "name": "Sarodiya Sammilani",
+    "area": "Rabindra Sarobar",
+    "address": "Rabindra Sarobar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51171,
+    "longitude": 88.34306
+  },
+  {
+    "id": "P180",
+    "name": "Lake Avenue Sebak Sangha",
+    "area": "Rabindra Sarobar",
+    "address": "Rabindra Sarobar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51057,
+    "longitude": 88.34815
+  },
+  {
+    "id": "P181",
+    "name": "Dhakuria Sarbojanin",
+    "area": "Rabindra Sarobar",
+    "address": "Rabindra Sarobar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51003,
+    "longitude": 88.37199
+  },
+  {
+    "id": "P182",
+    "name": "Babubagan",
+    "area": "Rabindra Sarobar",
+    "address": "Rabindra Sarobar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50793,
+    "longitude": 88.36864
+  },
+  {
+    "id": "P183",
+    "name": "Nabapalli Sangha",
+    "area": "Rabindra Sarobar",
+    "address": "Rabindra Sarobar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50739,
+    "longitude": 88.3441
+  },
+  {
+    "id": "P184",
+    "name": "Lake Gardens Peoples Association",
+    "area": "Rabindra Sarobar",
+    "address": "Rabindra Sarobar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50597,
+    "longitude": 88.35611
+  },
+  {
+    "id": "P185",
+    "name": "Jodhpur Park Sarbojanin",
+    "area": "Rabindra Sarobar",
+    "address": "Rabindra Sarobar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50458,
+    "longitude": 88.3656
+  },
+  {
+    "id": "P186",
+    "name": "Adi Ballygunge Sarbojanin",
+    "area": "Ritwik Ghatak",
+    "address": "Ritwik Ghatak, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.53173,
+    "longitude": 88.37207
+  },
+  {
+    "id": "P187",
+    "name": "Barisha Sarbojanin",
+    "area": "Sakherbazar",
+    "address": "Sakherbazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47999,
+    "longitude": 88.30808
+  },
+  {
+    "id": "P188",
+    "name": "Rabindra Pally Sarbojanin",
+    "area": "Satyajit Ray",
+    "address": "Satyajit Ray, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.48253,
+    "longitude": 88.38241
+  },
+  {
+    "id": "P189",
+    "name": "Sahapur Sarbojanin",
+    "area": "Taratala",
+    "address": "Taratala, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51163,
+    "longitude": 88.32802
+  },
+  {
+    "id": "P190",
+    "name": "Parnashree Pally",
+    "area": "Taratala",
+    "address": "Taratala, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50902,
+    "longitude": 88.29914
+  },
+  {
+    "id": "P191",
+    "name": "Naskarpur Sarbojanin",
+    "area": "Taratala",
+    "address": "Taratala, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.5071,
+    "longitude": 88.31229
+  },
+  {
+    "id": "P192",
+    "name": "Behala 29 Pally",
+    "area": "Taratala",
+    "address": "Taratala, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50703,
+    "longitude": 88.32276
+  },
+  {
+    "id": "P193",
+    "name": "Behala Club",
+    "area": "Taratala",
+    "address": "Taratala, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50537,
+    "longitude": 88.31428
+  },
+  {
+    "id": "P194",
+    "name": "Nandana Yuva Sangha",
+    "area": "Taratala",
+    "address": "Taratala, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.50329,
+    "longitude": 88.32636
+  },
+  {
+    "id": "P195",
+    "name": "Udayan Pally",
+    "area": "Thakurpukur",
+    "address": "Thakurpukur, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.46701,
+    "longitude": 88.30748
+  },
+  {
+    "id": "P196",
+    "name": "Milan Tirtha",
+    "area": "VIP Bazar",
+    "address": "VIP Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.5286,
+    "longitude": 88.39311
+  },
+  {
+    "id": "P197",
+    "name": "Sunil Nagar Club",
+    "area": "VIP Bazar",
+    "address": "VIP Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52851,
+    "longitude": 88.3848
+  },
+  {
+    "id": "P198",
+    "name": "Bosepukur Talbagan",
+    "area": "Kasba",
+    "address": "Kasba, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51909,
+    "longitude": 88.38274
+  },
+  {
+    "id": "P199",
+    "name": "Deshbandhu Boys Club",
+    "area": "VIP Bazar",
+    "address": "VIP Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51903,
+    "longitude": 88.38069
+  },
+  {
+    "id": "P200",
+    "name": "R K Chatterjee Sarbojanin",
+    "area": "VIP Bazar",
+    "address": "VIP Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51768,
+    "longitude": 88.37826
+  },
+  {
+    "id": "P201",
+    "name": "Rajdanga Noboday Sangha",
+    "area": "VIP Bazar",
+    "address": "VIP Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51695,
+    "longitude": 88.39143
+  },
+  {
+    "id": "P202",
+    "name": "Saraswati Sammilani",
+    "area": "VIP Bazar",
+    "address": "VIP Bazar, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.51068,
+    "longitude": 88.37645
+  },
+  {
+    "id": "P203",
+    "name": "Santoshpur Avenue South",
+    "area": "Santoshpur",
+    "address": "Santoshpur, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.47111,
+    "longitude": 88.3981
+  },
+  {
+    "id": "P204",
+    "name": "Rajdanga Amra Kojon",
+    "area": "Rajdanga, Kasba",
+    "address": "Rajdanga, Kasba, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.52467,
+    "longitude": 88.39621
+  },
+  {
+    "id": "P205",
+    "name": "Purbachal Shakti Sangha",
+    "area": "Haltu",
+    "address": "Haltu, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.49561,
+    "longitude": 88.39848
+  },
+  {
+    "id": "P206",
+    "name": "Kendua Shanti Sangha",
+    "area": "Kendua, Garia",
+    "address": "Kendua, Garia, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.46598,
+    "longitude": 88.39154
+  },
+  {
+    "id": "P207",
+    "name": "SB Park Sarbojanin",
+    "area": "Thakurpukur",
+    "address": "Thakurpukur, Kolkata, West Bengal",
+    "zone": "South Kolkata",
+    "latitude": 22.46437,
+    "longitude": 88.30753
+  },
+  {
+    "id": "P208",
+    "name": "Sree Bhumi Sporting Club",
+    "area": "Belgachia",
+    "address": "Belgachia, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.6004,
+    "longitude": 88.4026
+  },
+  {
+    "id": "P209",
+    "name": "FD Block",
+    "area": "Karunamoyee",
+    "address": "Karunamoyee, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.5838,
+    "longitude": 88.4129
+  },
+  {
+    "id": "P210",
+    "name": "AE Block",
+    "area": "Karunamoyee",
+    "address": "Karunamoyee, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.58638,
+    "longitude": 88.42153
+  },
+  {
+    "id": "P211",
+    "name": "BJ Block",
+    "area": "Karunamoyee",
+    "address": "Karunamoyee, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.58638,
+    "longitude": 88.42153
+  },
+  {
+    "id": "P212",
+    "name": "Aswininagar Bandhu Mahal",
+    "area": "Baguiati",
+    "address": "Baguiati, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.63928,
+    "longitude": 88.42976
+  },
+  {
+    "id": "P213",
+    "name": "Rail Pukur United Club",
+    "area": "Baguiati",
+    "address": "Baguiati, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.63928,
+    "longitude": 88.42976
+  },
+  {
+    "id": "P214",
+    "name": "Chinar Park Adhibasibrinda",
+    "area": "Chinar Park",
+    "address": "Chinar Park, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.63928,
+    "longitude": 88.42976
+  },
+  {
+    "id": "P215",
+    "name": "EC Block",
+    "area": "Salt Lake",
+    "address": "Salt Lake, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.5852,
+    "longitude": 88.4085
+  },
+  {
+    "id": "P216",
+    "name": "AK Block",
+    "area": "Salt Lake",
+    "address": "Salt Lake, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.59047,
+    "longitude": 88.41562
+  },
+  {
+    "id": "P217",
+    "name": "Prafullakanan Paschim Adhibasi Brinda",
+    "area": "Kestopur",
+    "address": "Kestopur, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.58638,
+    "longitude": 88.42153
+  },
+  {
+    "id": "P218",
+    "name": "Masterda Smriti Sangha",
+    "area": "Prafulla Kanan, Kestopur",
+    "address": "Prafulla Kanan, Kestopur, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.58638,
+    "longitude": 88.42153
+  },
+  {
+    "id": "P219",
+    "name": "New Town Sarbojanin",
+    "area": "New Town",
+    "address": "New Town, Kolkata, West Bengal",
+    "zone": "East Kolkata",
+    "latitude": 22.58094,
+    "longitude": 88.42902
+  },
+  {
+    "id": "P220",
+    "name": "Salkia Alapani",
+    "area": "Salkia",
+    "address": "Salkia, Kolkata, West Bengal",
+    "zone": "Outside Kolkata",
+    "latitude": 22.58331,
+    "longitude": 88.34014
+  },
+  {
+    "id": "P221",
+    "name": "Bantra Mohila Sangha",
+    "area": "Kadamtala, Howrah",
+    "address": "Kadamtala, Howrah, Kolkata, West Bengal",
+    "zone": "Outside Kolkata",
+    "latitude": 22.58378,
+    "longitude": 88.334
+  },
+  {
+    "id": "P222",
+    "name": "Olaibibitola Sarbojanin",
+    "area": "Mandirtala, Howrah",
+    "address": "Mandirtala, Howrah, Kolkata, West Bengal",
+    "zone": "Outside Kolkata",
+    "latitude": 22.58378,
+    "longitude": 88.334
+  },
+  {
+    "id": "P223",
+    "name": "Kalyani ITI More",
+    "area": "ITI More, Kalyani",
+    "address": "ITI More, Kalyani, Kolkata, West Bengal",
+    "zone": "Outside Kolkata",
+    "latitude": 22.98179,
+    "longitude": 88.43977
+  },
+  {
+    "id": "P224",
+    "name": "Ichapur Shivaji Sangha",
+    "area": "Ichapur, Howrah",
+    "address": "Ichapur, Howrah, Kolkata, West Bengal",
+    "zone": "Outside Kolkata",
+    "latitude": 22.58378,
+    "longitude": 88.334
+  }
+]

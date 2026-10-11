@@ -1,0 +1,511 @@
+{
+  "records": {},
+  "dataset_name": "Kolkata Pandal 2026 Facebook Image Validation Cache",
+  "last_updated": "2026-10-07T23:14:35.428389+00:00",
+  "0a46c40127a6da093f37628c46df17feec7148a7bbe54fde85a36163ebe78bdd": {
+    "decision": "approved",
+    "confidence": 0.95,
+    "reason": "The image shows a detailed 3D relief sculpture and painted mural depicting a mythological scene (likely the Ramayana) with figures like Rama, Sita, Hanuman, and Ravana. This type of artistic installation is a characteristic feature of a Durga Puja pandal's theme or backdrop.",
+    "validated_at": "2026-10-07T23:52:23Z"
+  },
+  "6fd183e9af8322e7e71a214be5c2a21a8fbd04aa2118dce62771b33523f1460c": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a promotional poster or flyer for the 'Tala Prattoy 2026' theme music, featuring text and abstract graphics rather than a photograph of a pandal or venue.",
+    "post_datetime": "2026-10-06T15:52:39+00:00",
+    "validated_at": "2026-10-08T12:00:11Z",
+    "approved_at": null
+  },
+  "d8034a0b1091c51ecadfe053a55f3429b9813156bc6b9aa65fd510c62a9be60b": {
+    "decision": "rejected",
+    "confidence": 0.9,
+    "reason": "The image is a screenshot of a social media post featuring a signboard and a building facade, not a photograph of the Durga idol, pandal structure, or decorations.",
+    "post_datetime": "2026-10-08T09:45:49+00:00",
+    "validated_at": "2026-10-08T10:28:30Z"
+  },
+  "3c87b201dc0570b8f59fe34b3b01d34e73512b29e8ebfe15167a8471ac58fdbb": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital promotional poster or flyer featuring a baby dressed as Durga, sponsor logos, and event details, not a photograph of a physical pandal or venue.",
+    "post_datetime": "2026-10-08T03:57:54+00:00",
+    "validated_at": "2026-10-08T12:04:52Z",
+    "approved_at": null
+  },
+  "3e063a828b3dd303a318bfbb2befedcd524435c9598ec74ba9a8f6c92e2e8289": {
+    "decision": "rejected",
+    "confidence": 0.9,
+    "reason": "The image is a promotional poster or flyer featuring a logo and text for the 'Kashi Bose Lane' puja, rather than a direct photograph of the pandal or Durga idol.",
+    "post_datetime": "2026-10-07T20:06:06+00:00",
+    "validated_at": "2026-10-08T10:29:05Z"
+  },
+  "3b53cce1bcb1a357e0275db94f0c3851a3c64ea8daa00c009f263a3748bed662": {
+    "decision": "approved",
+    "confidence": 0.95,
+    "reason": "The image clearly shows a large, detailed Durga idol (statue) with multiple arms and traditional iconography, set against a backdrop of a decorated mandap structure and palm trees, which is characteristic of a Durga Puja venue.",
+    "post_datetime": "2026-10-07T13:42:22+00:00",
+    "validated_at": "2026-10-08T10:29:40Z"
+  },
+  "4314d075bbe14c93e47cfd0532f38d9001b434822024c42288b8dabe7f76cbdb": {
+    "decision": "rejected",
+    "confidence": 0.9,
+    "reason": "The image is a close-up photograph of a person praying (performing puja) with their back to the camera. It does not show the Durga idol, the pandal structure, or the venue entrance, falling under the category of generic people-only photos.",
+    "post_datetime": "2026-10-06T02:31:19+00:00",
+    "validated_at": "2026-10-08T10:29:51Z"
+  },
+  "6758f47cc0c27a0c2ad5b77e39b8c8e8e5584fc62ba553df5b1becb78a0f4415": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image shows a woman in a radio studio with a microphone and 'RED FM 93.5' branding, which is unrelated to a Durga Puja pandal or venue.",
+    "post_datetime": "2026-10-07T10:52:18+00:00",
+    "validated_at": "2026-10-08T12:41:51Z",
+    "approved_at": null
+  },
+  "86c47751eb3788c324aff9bb35ecca48516f37bf876c730a6a2d49ce840e8ba3": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a screenshot of a newspaper article, not a direct photograph of the pandal. While it contains a small inset photo of the venue, the primary content is text and layout.",
+    "post_datetime": "2026-10-07T07:31:11+00:00",
+    "validated_at": "2026-10-08T12:42:48Z",
+    "approved_at": null
+  },
+  "ae9f5ddc73cc728f1153e8781a8535d9410ff7e40c680f08516a0cdcd5de48c5": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a text-based official notice/poster regarding Durga Puja passes, not a photograph of a pandal or venue.",
+    "post_datetime": "2026-10-08T07:26:54+00:00",
+    "validated_at": "2026-10-08T12:43:51Z",
+    "approved_at": null
+  },
+  "d2bd0b7752a1bfe34cd26e3f088d9f6300e288ad20fc1a820032720b70ac3df7": {
+    "decision": "rejected",
+    "confidence": 0.95,
+    "reason": "The image is a screenshot of a television news broadcast featuring a reporter, not a direct photograph of a Durga Puja pandal, idol, or venue.",
+    "post_datetime": "2026-10-08T01:30:06+00:00",
+    "validated_at": "2026-10-08T10:32:26Z"
+  },
+  "6bec599578dfd74d1555a8ad52bbf3884980e85e18614f7a2b230aa02312fed8": {
+    "decision": "rejected",
+    "confidence": 0.95,
+    "reason": "The image is a promotional advertisement for LED branding services at the venue, featuring heavy text overlays, contact numbers, and marketing graphics rather than a clear view of the pandal or idol.",
+    "post_datetime": "2026-10-07T06:34:04+00:00",
+    "validated_at": "2026-10-08T10:32:38Z"
+  },
+  "c57eba96cc21f89fbe49e83068858593830111a180f82c722f2591b5e31b62d8": {
+    "decision": "rejected",
+    "confidence": 1.0,
+    "reason": "The image is a digital graphic or poster acknowledging a 'Print Partner' with logos and text, not a photograph of a pandal, idol, or venue.",
+    "post_datetime": "2026-10-07T05:12:40+00:00",
+    "validated_at": "2026-10-08T10:32:46Z"
+  },
+  "aac3206dcda1e8086c52432e0cd2ee552e1ae533ea235359984a9bc383c53948": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a promotional flyer or advertisement for stall bookings at the Durga Puja, not a photograph of the pandal, idol, or venue.",
+    "post_datetime": "2026-10-07T10:10:22+00:00",
+    "validated_at": "2026-10-08T12:46:17Z",
+    "approved_at": null
+  },
+  "0f8f71ad00af9e9d155bd9c4311556c327a1c9584fc4919ebd8438a3f289a165": {
+    "decision": "rejected",
+    "confidence": 0.95,
+    "reason": "The image is a portrait of a person sitting at a desk, likely a committee member or organizer, and does not show a Durga Puja pandal, idol, or venue.",
+    "post_datetime": "2026-10-07T18:01:29+00:00",
+    "validated_at": "2026-10-08T10:33:27Z"
+  },
+  "c693d214216bbee9e4a989414c3a3fee998353fbfe1bff83ddf5b60762b6edc4": {
+    "decision": "approved",
+    "confidence": 0.95,
+    "reason": "The image shows a close-up of a Durga idol (specifically the figure of Lakshmi or Saraswati seated beside Durga) within a decorated mandap, featuring traditional attire, jewelry, and an ornate backdrop typical of a Durga Puja pandal.",
+    "post_datetime": "2026-10-08T06:45:39+00:00",
+    "validated_at": "2026-10-08T10:33:47Z"
+  },
+  "55679c98631c0741dd6ec7f38933f4ae4bccca01fc448880a42b4641c1486a34": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a promotional poster or flyer featuring committee portraits, sponsor logos (Bengal Foundation, Srijan, Orion Graphics), and text, rather than a direct photograph of the Durga Puja pandal or idol.",
+    "post_datetime": "2026-10-07T10:23:44+00:00",
+    "validated_at": "2026-10-08T12:47:54Z",
+    "approved_at": null
+  },
+  "c6278028ee1ef4649e68c74d3ee6e9a97520b7953d2b057fd9e5a32eb428074c": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a promotional poster or flyer featuring the Barisha Club logo, Bengali text, and stock photography of a woman and child, rather than a photograph of an actual Durga Puja pandal or venue.",
+    "post_datetime": "2026-10-08T05:52:55+00:00",
+    "validated_at": "2026-10-08T15:29:56Z",
+    "approved_at": null
+  },
+  "d316c0d8f2107648c9dec82b913f0e9fe1efba497d72714735b3f37d8e04597a": {
+    "decision": "rejected",
+    "confidence": 0.95,
+    "reason": "The image is a black and white illustration or mural depicting figures and a boat, not a photograph of a Durga Puja pandal, idol, or venue.",
+    "post_datetime": "2026-10-07T02:30:33+00:00",
+    "validated_at": "2026-10-08T10:34:49Z"
+  },
+  "d63c01475248187f7c8f822d2a7686efd83b2f588fd5edfdec193ee34bdd9683": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital promotional poster or countdown graphic for an event ('First Look of Tandav'), not a photograph of a pandal, idol, or venue.",
+    "post_datetime": "2026-10-08T04:06:04+00:00",
+    "validated_at": "2026-10-08T15:30:53Z",
+    "approved_at": null
+  },
+  "4c45cb7a903d6475a28c5fb97b6aac1cfee687a18d99c1c69f22d25307288e7c": {
+    "decision": "rejected",
+    "confidence": 1.0,
+    "reason": "The image is a digital graphic or poster featuring cartoon illustrations and text, not a photograph of a pandal, idol, or venue.",
+    "post_datetime": "2026-10-07T07:22:14+00:00",
+    "validated_at": "2026-10-08T10:35:30Z"
+  },
+  "a7565456d517758dd9b9a4047ca8cba3e92fe356072fa5b5f94d2860ab7c541a": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a logo or graphic design featuring the text 'TALA PRATTOY' and a red symbol on a black background, not a photograph of a pandal or venue.",
+    "post_datetime": "2026-10-06T15:52:39+00:00",
+    "validated_at": "2026-10-08T11:38:09Z",
+    "approved_at": null
+  },
+  "7d094aeec59be07d4795d29dc9f24dd9fd2e85db607593c7a12a8966b6d843b7": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image shows a worker welding a metal frame during the construction phase, not a completed Durga Puja pandal, idol, or decorated venue.",
+    "post_datetime": "2026-10-08T11:34:11+00:00",
+    "validated_at": "2026-10-08T12:00:37Z",
+    "approved_at": null
+  },
+  "9b6d398a00bbeb49a17957b5056b7b33f68e9986adc983330b5939db3de402f0": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image shows a group of people standing with a bicycle against a wall, which is completely unrelated to Durga Puja, pandals, or religious decorations.",
+    "post_datetime": "2026-10-08T11:34:11+00:00",
+    "validated_at": "2026-10-08T12:00:39Z",
+    "approved_at": null
+  },
+  "945a774046d903bc5eee4db565c31c57f543cf17623a38830fee5397a3d4dbb0": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image shows a group of people sitting on a lawn with a bicycle, which is completely unrelated to a Durga Puja pandal or venue.",
+    "post_datetime": "2026-10-08T11:34:11+00:00",
+    "validated_at": "2026-10-08T12:00:59Z",
+    "approved_at": null
+  },
+  "9f5331a0cf944e2c2123cbc1cbb95f7ac93fa1edb351c297800086c384c89acd": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a logo or graphic design for 'Dumdum Park Tarun Sangha' on a black background, not a photograph of a pandal, idol, or venue.",
+    "post_datetime": "2026-10-05T13:57:13+00:00",
+    "validated_at": "2026-10-08T12:02:55Z",
+    "approved_at": null
+  },
+  "00ee4c4a5870a3c55544cc411f42b90e3e1d2a2733267992f329c55f534f3e85": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.9,
+    "reason": "The image is a promotional poster or flyer featuring a logo and text for the 'Kashi Boshomelon' committee, rather than a clear photograph of the pandal or Durga idol.",
+    "post_datetime": "2026-10-07T20:06:06+00:00",
+    "validated_at": "2026-10-08T12:05:13Z",
+    "approved_at": null
+  },
+  "d68eb025d9ae8a0fbb55cb5b8c9a00dd82df9cedb765b4ebca6160161379e7be": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.98,
+    "reason": "The image is a digital artwork or poster featuring a painting of Goddess Durga and Lord Rama, not a photograph of a physical pandal, idol, or venue.",
+    "post_datetime": "2026-10-08T09:08:03+00:00",
+    "validated_at": "2026-10-08T12:32:11Z",
+    "approved_at": null
+  },
+  "f088005e5f5402fa6ce7f4de3cdb3b26d4400981d0cbd765a5270ad2a8e6dc42": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.98,
+    "reason": "The image is a digital artwork or poster featuring a painting of Goddess Durga and Lord Rama, not a photograph of a physical pandal, idol, or venue.",
+    "post_datetime": "2026-10-08T09:08:03+00:00",
+    "validated_at": "2026-10-08T12:32:13Z",
+    "approved_at": null
+  },
+  "3e5d86e1f6109a5ce1e0ceea1c406b534fefa96f3351fcd6858fe148b5d20752": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a digital poster or flyer featuring a painting of Goddess Durga and text about the '108th lotus', not a photograph of a physical pandal, idol, or venue.",
+    "post_datetime": "2026-10-08T09:08:03+00:00",
+    "validated_at": "2026-10-08T12:32:23Z",
+    "approved_at": null
+  },
+  "bff3904d80c8f9d70bb89c72ac31d77c6ad5073b8b160a8122f9ac34640671a3": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image clearly shows a Durga Puja mandap with a large idol of Goddess Durga, elaborate floral decorations, and a decorated ceiling, which are characteristic features of a Durga Puja pandal.",
+    "post_datetime": "2026-10-08T09:08:03+00:00",
+    "validated_at": "2026-10-08T12:32:43Z",
+    "approved_at": "2026-10-08T12:32:43Z"
+  },
+  "5a08851d6d30e51d13f32e2886d2ceeada5960569ac5a8e6a7ed1abca59d75d2": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.9,
+    "reason": "The image shows the construction phase of the pandal with workers and scaffolding, not a completed Durga idol, mandap, or finished decoration view suitable for a tourism dataset.",
+    "post_datetime": "2026-10-08T11:34:11+00:00",
+    "validated_at": "2026-10-08T12:36:29Z",
+    "approved_at": null
+  },
+  "9deb51a354e5815504ee90cdd57f4b8a1d23359d1a97f5fbe983f6c0668245ad": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image shows a worker welding a metal frame during the construction phase, not a completed pandal, Durga idol, or decorated venue.",
+    "post_datetime": "2026-10-08T11:34:11+00:00",
+    "validated_at": "2026-10-08T12:36:30Z",
+    "approved_at": null
+  },
+  "591f69c8763ac4e10b05f0c5e52d2c8f3e2ccccb5903d685980202b445e91b41": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image clearly shows a large Durga idol (specifically a multi-armed representation) at a night-time venue with crowds, consistent with a Durga Puja pandal or mandap. The text overlay confirms it is from the Dumdum Park Bharat Chakra Durga Puja.",
+    "post_datetime": "2026-10-08T11:34:11+00:00",
+    "validated_at": "2026-10-08T12:36:40Z",
+    "approved_at": "2026-10-08T12:36:40Z"
+  },
+  "bfde899b409dcfbb7fe8649ea1b06456a54e0a56f07cace7fa2bc48195072f0d": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a digital poster or flyer featuring a stylized illustration of Goddess Durga and text overlays, not a photograph of a physical pandal, idol, or venue.",
+    "post_datetime": "2026-10-05T13:57:13+00:00",
+    "validated_at": "2026-10-08T12:37:18Z",
+    "approved_at": null
+  },
+  "934a521ee1822f479c2762376040a556e5a421ec7bfacf80326aa957e5f2d645": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a digital poster or flyer announcing the Durga Puja theme and date, not a photograph of the actual pandal, idol, or venue.",
+    "post_datetime": "2026-10-05T13:57:13+00:00",
+    "validated_at": "2026-10-08T12:37:27Z",
+    "approved_at": null
+  },
+  "f5f7b7eb09d63f4188f0ef9cf3bcfe5b4243f2ddfef9c59c2f8bc893b2728ae7": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a digital poster or flyer with Bengali text announcing the event, not a photograph of the actual pandal, idol, or venue.",
+    "post_datetime": "2026-10-05T13:57:13+00:00",
+    "validated_at": "2026-10-08T12:37:47Z",
+    "approved_at": null
+  },
+  "b84c00d0df0e9417567267587d9cd2739207f1e4588624bb792422d168624651": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a digital poster or flyer with text overlays ('আজ সপ্তমী', 'দুর্গা পুজো ২০২৫') rather than a photograph of the actual pandal, idol, or venue.",
+    "post_datetime": "2026-10-05T13:57:13+00:00",
+    "validated_at": "2026-10-08T12:38:08Z",
+    "approved_at": null
+  },
+  "0b9d33e33876e955835f12e05590586d1378157f3748ddc5efda68c1d3079325": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a digital poster or flyer featuring a comic strip design and text overlays, not a photograph of a physical pandal, idol, or venue.",
+    "post_datetime": "2026-10-05T13:57:13+00:00",
+    "validated_at": "2026-10-08T12:38:28Z",
+    "approved_at": null
+  },
+  "c5379df303abcf27a9c0deda3f29a8e864fc78c12347ec70e2a5592677851283": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.9,
+    "reason": "The image shows the construction phase of the pandal with workers and scaffolding, rather than a finished Durga idol, mandap, or decorated venue suitable for a tourism dataset.",
+    "post_datetime": "2026-10-07T20:06:06+00:00",
+    "validated_at": "2026-10-08T12:38:57Z",
+    "approved_at": null
+  },
+  "ef3fc6ad920e3db5b0152362b9b0fefefbb82b8c7f8b4c775bb004ced0a5cbb0": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.85,
+    "reason": "The image shows the physical structure of the Durga Puja pandal under construction at night, including scaffolding, the mandap base, and the committee banner, which clearly identifies the puja venue.",
+    "post_datetime": "2026-10-07T20:06:06+00:00",
+    "validated_at": "2026-10-08T12:39:14Z",
+    "approved_at": "2026-10-08T12:39:14Z"
+  },
+  "5b267c792717b3d19596d75b18c18edde6151be2fdd389505f8e88445ec7f455": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image shows a close-up photograph of a large, detailed Durga idol (statue) with multiple arms and traditional iconography, set against a backdrop of palm trees and a structure, which is characteristic of a Durga Puja venue.",
+    "post_datetime": "2026-10-07T13:42:22+00:00",
+    "validated_at": "2026-10-08T12:40:44Z",
+    "approved_at": "2026-10-08T12:40:44Z"
+  },
+  "a6a354af6928c2aab4b8e48e14e5571dfe53a6e959ce513d5f83c56ea65cea5b": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.9,
+    "reason": "The image is a close-up photograph of a person praying (performing puja) with their back to the camera. It does not show the Durga idol, the pandal structure, or the venue entrance, falling under the category of generic people-only photos.",
+    "post_datetime": "2026-10-06T02:31:19+00:00",
+    "validated_at": "2026-10-08T12:40:57Z",
+    "approved_at": null
+  },
+  "67ad434ec8a26c30b62987a3f0b0c8e88e38a0b7efb074724a66e73a8532d3b5": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital certificate of nomination for the UtsavConnect Pujo Awards, not a photograph of a pandal, idol, or venue.",
+    "post_datetime": "2026-10-08T12:41:29+00:00",
+    "validated_at": "2026-10-08T12:46:01Z",
+    "approved_at": null
+  },
+  "4e3912b07e3ffa1ba2d776df54cfb0cc8d1bb0503f95c3dc1a23955cf5654ee7": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image shows a close-up of a Durga idol (specifically the figure of Lakshmi or Saraswati seated beside Durga) within a decorated mandap structure, which is a core component of a Durga Puja pandal.",
+    "post_datetime": "2026-10-08T06:45:39+00:00",
+    "validated_at": "2026-10-08T12:47:25Z",
+    "approved_at": "2026-10-08T12:47:25Z"
+  },
+  "8ac9d5a6d487fdb3e906ff5ca84262915e504ef33b27bd25059784dbb6f0572d": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital poster or flyer containing text and an illustration of a deity, not a photograph of a physical pandal, idol, or venue.",
+    "post_datetime": "2026-10-08T14:30:02+00:00",
+    "validated_at": "2026-10-08T15:30:20Z",
+    "approved_at": null
+  },
+  "e7bd2e5124eaae16e3347b1ee22afaee9b567b171b3290007efd3cdbc993becd": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a promotional poster/flyer for a content creator event, not a photograph of a pandal, idol, or venue.",
+    "post_datetime": "2026-10-07T16:11:38+00:00",
+    "validated_at": "2026-10-08T15:31:55Z",
+    "approved_at": null
+  },
+  "5a75c65de1734ac3229d505c2ff0d5e5cb97a7f07ba1af51a5d4e8dca19b5406": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a promotional poster or flyer featuring a worker welding, not a photograph of the Durga Puja pandal, idol, or venue itself.",
+    "post_datetime": "2026-10-08T07:32:36+00:00",
+    "validated_at": "2026-10-08T15:32:25Z",
+    "approved_at": null
+  },
+  "4ca572a4ef33c234a9adfd912940a75939a91a0483ae21451b461f62bf19917a": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital graphic or poster listing shortlisted pandal names for an art initiative, not a photograph of a physical pandal, idol, or venue.",
+    "post_datetime": "2026-10-08T12:31:09+00:00",
+    "validated_at": "2026-10-08T15:32:57Z",
+    "approved_at": null
+  },
+  "d92ffeaf0508a84b8e60b60a0adb7abf572dc338174ca801780642142540c9db": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital flyer or poster providing information about free guest pass allocation and validation, not a photograph of a pandal or Durga idol.",
+    "post_datetime": "2026-10-08T13:19:54+00:00",
+    "validated_at": "2026-10-08T15:33:14Z",
+    "approved_at": null
+  },
+  "8016f679ecc4d9e75a505c878301bae46662f5f325813d4907a5d641993ef8c9": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.9,
+    "reason": "The image is a screenshot of a video or social media post featuring a logo and text overlays, rather than a direct photograph of the Durga idol or the completed pandal structure.",
+    "post_datetime": "2026-10-08T15:47:22+00:00",
+    "validated_at": "2026-10-08T18:15:55Z",
+    "approved_at": null
+  },
+  "7c20d0904a40afdfbe5094d1547e63f8255c4f647ab0a9b510e3f74fa427f97c": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a promotional flyer for the Tridhara 21K Marathon, featuring a runner and registration details, not a Durga Puja pandal or idol.",
+    "post_datetime": "2026-10-08T17:21:54+00:00",
+    "validated_at": "2026-10-08T18:20:42Z",
+    "approved_at": null
+  },
+  "ab80966f9377e0d3899fbf56506283a9759bd0076634244df919de8d6771998f": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a black and white portrait of a person (likely a politician or public figure) with a text overlay, not a photograph of a Durga Puja pandal, idol, or venue.",
+    "post_datetime": "2026-10-08T12:59:28+00:00",
+    "validated_at": "2026-10-08T18:22:22Z",
+    "approved_at": null
+  },
+  "faa398306452094a758891d627108b6ab2c63703ac4e02bba7a3005576b81fde": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a collage of portraits of a person and text graphics, not a photograph of a Durga Puja pandal, idol, or venue.",
+    "post_datetime": "2026-10-08T12:59:28+00:00",
+    "validated_at": "2026-10-08T18:22:25Z",
+    "approved_at": null
+  },
+  "3858c49f4c9e59e33cc6eba05609c4a137d8fcb80430ea3d1ec22a9002568069": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a screenshot of a video call or livestream showing a person in a yellow shirt, not a photograph of a Durga Puja pandal, idol, or venue.",
+    "post_datetime": "2026-10-08T12:59:28+00:00",
+    "validated_at": "2026-10-08T18:22:35Z",
+    "approved_at": null
+  },
+  "fb32e6f3dc1bb682e164cd968ff570b18c9088e8a93a73c299cf18aaa5a72aae": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.85,
+    "reason": "The image shows a Durga Puja pandal entrance area with a large Durga idol visible in the background, scaffolding, and people in traditional attire, consistent with a puja venue.",
+    "post_datetime": "2026-10-08T12:59:28+00:00",
+    "validated_at": "2026-10-08T18:22:55Z",
+    "approved_at": "2026-10-08T18:22:55Z"
+  },
+  "311d045c07f0e30639d1c5224b18e2d4114d5383db6f5084bf0c1d82eff17cef": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a portrait of a person holding a beverage can in an outdoor setting. It does not show a Durga idol, pandal, or puja decorations.",
+    "post_datetime": "2026-10-08T15:00:34+00:00",
+    "validated_at": "2026-10-08T18:23:23Z",
+    "approved_at": null
+  },
+  "53dbe82655af0cf96cc8cc16660d77e7a43e173fb23846f5e5cc21a6c0f02254": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image is a close-up photograph of a Durga idol, showing detailed facial features, traditional jewelry, and headgear, which qualifies as a Durga idol/mandap view.",
+    "post_datetime": "2026-10-08T15:00:34+00:00",
+    "validated_at": "2026-10-08T18:23:42Z",
+    "approved_at": "2026-10-08T18:23:42Z"
+  },
+  "de49e5c77fca3e9bbc3262957d88cb8f4c79da9a58abcb353864e098752c5567": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.9,
+    "reason": "The image is a screenshot of a video featuring a person (identified as the artist) in the foreground, rather than a clear photograph of the pandal or Durga idol.",
+    "post_datetime": "2026-10-08T17:46:18+00:00",
+    "validated_at": "2026-10-08T18:28:24Z",
+    "approved_at": null
+  }
+}

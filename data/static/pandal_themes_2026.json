@@ -1,0 +1,1798 @@
+{
+  "dataset_name": "Kolkata Puja 2026 Themes - AI Extracted",
+  "last_collected_at": "2026-10-09T11:06:44.980811+00:00",
+  "themes_by_pandal": {
+    "P001": {
+      "pandal_id": "P001",
+      "pandal_name": "Tala Prattay",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Guniba",
+      "description": "Guniba produced an 18 cm Durga idol for Tala Prattay Durga Puja 2026."
+    },
+    "P002": {
+      "pandal_id": "P002",
+      "pandal_name": "Dumdum Park Bharat Chakra",
+      "theme": null,
+      "artist": "Manas Da",
+      "idol_maker": "Sanatan Dinda",
+      "description": "Dumdum Park Bharat Chakra 2026 features artist Manas Da and a Durga idol crafted by Sanatan Dinda."
+    },
+    "P003": {
+      "pandal_id": "P003",
+      "pandal_name": "Dumdum Park Tarun Dal",
+      "theme": null,
+      "artist": "Purnendu Dey",
+      "idol_maker": null,
+      "description": "Dumdum Park Tarun Dal 2026 features a Maa Durga idol created by Bharat Chakra and was designed by architect Purnendu Dey."
+    },
+    "P004": {
+      "pandal_id": "P004",
+      "pandal_name": "Nalin Sarkar Street",
+      "theme": null,
+      "artist": "Sanatan Dinda",
+      "idol_maker": null,
+      "description": "Nalin Sarkar Street's 2026 Durga Puja features the artist Sanatan Dinda and has been nominated for the UtsavConnect Pujo Awards."
+    },
+    "P005": {
+      "pandal_id": "P005",
+      "pandal_name": "Kashi Bose Lane",
+      "theme": "AADIM — Life in its Primal Rhythm",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Kashi Bose Lane Durga Puja 2026 explores the simplicity of everyday life through Warli art with the theme 'AADIM — Life in its Primal Rhythm'."
+    },
+    "P006": {
+      "pandal_id": "P006",
+      "pandal_name": "Chorebagan Sarbojonin",
+      "theme": "অকল বুজন",
+      "artist": "Susanta Shibani Paul",
+      "idol_maker": null,
+      "description": "Chorebagan Sarbojonin celebrated its 91st year in 2026 with the theme 'অকল বুজন'."
+    },
+    "P007": {
+      "pandal_id": "P007",
+      "pandal_name": "Noapara Udayan Sangha",
+      "theme": null,
+      "artist": "moloy subhomoy",
+      "idol_maker": "Ratnadip Pramanik",
+      "description": "Noapara Udayan Sangha hosted its 2026 Durga Puja Khutipuja with artist moloy subhomoy and idol maker Ratnadip Pramanik."
+    },
+    "P008": {
+      "pandal_id": "P008",
+      "pandal_name": "Tala Barowari",
+      "theme": "Barowarir Durgabari",
+      "artist": "Aritra AK Kundu",
+      "idol_maker": null,
+      "description": "Tala Barowari 2026 showcased the theme 'Barowarir Durgabari' with artist Aritra AK Kundu."
+    },
+    "P009": {
+      "pandal_id": "P009",
+      "pandal_name": "Dakshinpara",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "In its 65th year, Dakshinpara Durgotsab presents ‘Probahi – The Flow Within’, reflecting life's emotions, dreams, struggles and triumphs."
+    },
+    "P010": {
+      "pandal_id": "P010",
+      "pandal_name": "Arjunpur Amra Sabai Club",
+      "theme": "Mukhomukhi",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Arjunpur Amra Sabai Club's 2026 Durga Puja features the theme 'Mukhomukhi', envisioned by pandal architect Shovin Bhattacharjee."
+    },
+    "P011": {
+      "pandal_id": "P011",
+      "pandal_name": "Dumdum Park Sarbajanin",
+      "theme": "Hariye Khuji",
+      "artist": "SANATAN DINDA",
+      "idol_maker": null,
+      "description": "Dumdum Park Sarbajanin's Durga Puja 2026 theme is Hariye Khuji and the idol artist is Sanatan Dinda."
+    },
+    "P012": {
+      "pandal_id": "P012",
+      "pandal_name": "Golaghata Sammilani",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "জৌবেল পল",
+      "description": "Golaghata Sammilani's 2026 Durga Puja idol was created by artist জৌবেল পল."
+    },
+    "P013": {
+      "pandal_id": "P013",
+      "pandal_name": "Dakshindari Youth",
+      "theme": "Dahan",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Dakshindari Youth's 2026 Durga Puja theme, Dahan, is a powerful tribute to acid attack survivors."
+    },
+    "P014": {
+      "pandal_id": "P014",
+      "pandal_name": "Telengabagan",
+      "theme": "Tilottamar Alinder Iti Kotha",
+      "artist": "Susanta Shibani Paul",
+      "idol_maker": null,
+      "description": "Telengabagan Durga Puja 2026 features the theme 'Tilottamar Alinder Iti Kotha' and is curated by artist Susanta Shibani Paul."
+    },
+    "P015": {
+      "pandal_id": "P015",
+      "pandal_name": "Belgachia Sadharan Durgotsav",
+      "theme": null,
+      "artist": "Sushanta Shibani Paul Ballygunge Cultural Association",
+      "idol_maker": null,
+      "description": "Belgachia Sadharan Durgotsav, located at Tala Park in North Kolkata, celebrates its 79th year in 2026 with the artist Sushanta Shibani Paul Ballygunge Cultural Association."
+    },
+    "P016": {
+      "pandal_id": "P016",
+      "pandal_name": "Baghbazar Sarbojanin",
+      "theme": "Mukhomukhi",
+      "artist": null,
+      "idol_maker": null,
+      "description": "A riverbank puja running since 1919, and firmly traditional."
+    },
+    "P017": {
+      "pandal_id": "P017",
+      "pandal_name": "Sikdar Bagan",
+      "theme": "Panche Panchaban",
+      "artist": "Bibhas Mukherjee",
+      "idol_maker": "Sanatan Paul",
+      "description": "Sikdar Bagan Sadharan Durgotsov celebrates devotion and tradition, telling stories and creating unforgettable memories."
+    },
+    "P018": {
+      "pandal_id": "P018",
+      "pandal_name": "Hatibagan Nabinpally",
+      "theme": "Abol Tabol",
+      "artist": "Sankar Pal",
+      "idol_maker": null,
+      "description": "Hatibagan Nabinpally's Durga Puja 2026 theme is 'Abol Tabol', conceptualised by Sankar Pal."
+    },
+    "P019": {
+      "pandal_id": "P019",
+      "pandal_name": "Hatibagan Sarbojonin",
+      "theme": null,
+      "artist": "Sushanta Shibani Paul",
+      "idol_maker": null,
+      "description": "Hatibagan Sarbojonin’s 2026 Durga Puja features the artist Sushanta Shibani Paul."
+    },
+    "P020": {
+      "pandal_id": "P020",
+      "pandal_name": "Lalabagan Nabankur",
+      "theme": "Shikor – A Historic Route",
+      "artist": "Ayantika Bose",
+      "idol_maker": null,
+      "description": "Lalabagan Nabankur's 2026 Durga Puja theme is \"Shikor – A Historic Route\", conceptualized by Sushovan Roy, with Ayantika Bose as the artist."
+    },
+    "P021": {
+      "pandal_id": "P021",
+      "pandal_name": "Sovabazar Rajbari",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Sovabazar Rajbari's 2026 Durga Puja features a Bonedi Puja theme and an Ek Chala idol."
+    },
+    "P022": {
+      "pandal_id": "P022",
+      "pandal_name": "Jagat Mukherjee Park",
+      "theme": "Tribute to legendary dancer and choreographer Pandit Uday Shankar, celebrating the art of dance",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Jagat Mukherjee Park's 2026 Durga Puja theme pays tribute to legendary dancer and choreographer Pandit Uday Shankar, celebrating the art of dance."
+    },
+    "P023": {
+      "pandal_id": "P023",
+      "pandal_name": "Kumartuli Sarbojanin",
+      "theme": null,
+      "artist": "Piet Mondrian",
+      "idol_maker": null,
+      "description": "Kumartuli Sarbojanin Durga Puja 2026 is described as one of Kolkata's most visually striking celebrations."
+    },
+    "P024": {
+      "pandal_id": "P024",
+      "pandal_name": "Kumartuli Park",
+      "theme": "Sarbojanin Durga Puja Theme 2026",
+      "artist": "Subal Paul",
+      "idol_maker": null,
+      "description": "Kumartuli Park is hosting the Sarbojanin Durga Puja 2026 with theme 'Sarbojanin Durga Puja Theme 2026' and artist Subal Paul."
+    },
+    "P025": {
+      "pandal_id": "P025",
+      "pandal_name": "Beniatola Sarbojonin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Beniatola Sarbojonin Durgostsav is a Durga Puja pandal in North Kolkata, with its 2026 theme still to be announced."
+    },
+    "P026": {
+      "pandal_id": "P026",
+      "pandal_name": "Ahiritola Sarbojonin",
+      "theme": "Bengali Sweets History",
+      "artist": "Manas Das",
+      "idol_maker": null,
+      "description": "Ahiritola Sarbojonin Durga Puja 2026 features the theme 'Bengali Sweets History' and is curated by artist Manas Das."
+    },
+    "P027": {
+      "pandal_id": "P027",
+      "pandal_name": "Jorasanko Sadharan",
+      "theme": "Prabahini",
+      "artist": "moloy subhomoy",
+      "idol_maker": null,
+      "description": "Jorasanko Sadharan Durgotsav Samity's 2026 Durga Puja theme is \"Prabahini\", with artist Moloy Subhomoy."
+    },
+    "P028": {
+      "pandal_id": "P028",
+      "pandal_name": "Simla Byayam Samity",
+      "theme": "Nishwas",
+      "artist": "Padmashri Sculptor Sri Sanatan Rudra Pal",
+      "idol_maker": "Padma Shri Sanatan Rudra Pal",
+      "description": "Simla Byayam Samity’s 2026 Durga Puja theme is ‘Nishwas’, with artist Padmashri Sculptor Sri Sanatan Rudra Pal creating the idol and performing the Chokhudaan."
+    },
+    "P029": {
+      "pandal_id": "P029",
+      "pandal_name": "Chaltabagan Lohapatty",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Chaltabagan Lohapatty Durga Puja 2026 presents the theme 'Nishaan - The Mark', a story of faith, identity, and resilience."
+    },
+    "P030": {
+      "pandal_id": "P030",
+      "pandal_name": "Chhatubabu Latubabu Bari",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Chhatubabu Latubabu Bari is preparing for a spectacular show on 4th October 2026 at Beadon Street."
+    },
+    "P031": {
+      "pandal_id": "P031",
+      "pandal_name": "Darjipara Mitra Bari",
+      "theme": "Bonedi Puja",
+      "artist": null,
+      "idol_maker": "Sanatan Dinda",
+      "description": "Darjipara Mitra Bari on Nilmoni Mitra Street has celebrated its Durga Puja for 219 years, bringing generations together through cherished rituals."
+    },
+    "P032": {
+      "pandal_id": "P032",
+      "pandal_name": "Hatkhola Dutta Bari",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Hatkhola Dutta Bari's Durga Puja is 305 years old and is organized annually by the family in a royal style."
+    },
+    "P033": {
+      "pandal_id": "P033",
+      "pandal_name": "Jorasanko Daw Bari",
+      "theme": null,
+      "artist": "Avidip Kundu",
+      "idol_maker": null,
+      "description": "Jorasanko Daw Bari is a traditional bonedi bari known for its gun salute tradition during immersion."
+    },
+    "P034": {
+      "pandal_id": "P034",
+      "pandal_name": "Darjipara Sarbojanin",
+      "theme": "never ending circle of life, death and rebirth",
+      "artist": "Akshay Mukherjee",
+      "idol_maker": null,
+      "description": "Darjipara Sarbojanin's 2026 Durga Puja theme revolves around the never-ending cycle of life, death, and rebirth, presented by artist Akshay Mukherjee."
+    },
+    "P035": {
+      "pandal_id": "P035",
+      "pandal_name": "Ultadanga Pallyshree",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": null,
+      "description": "In 2026, Ultadanga Pallyshree Durga Puja celebrates Durga Puja from October 16 (Maha Shashthi) to October 20 (Vijaya Dashami)."
+    },
+    "P036": {
+      "pandal_id": "P036",
+      "pandal_name": "Paikpara 15 Pally",
+      "theme": "Easy going",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Paikpara 15 Pally is a Durga Puja pandal located in Belgachia, North Kolkata, with an easy‑going theme."
+    },
+    "P037": {
+      "pandal_id": "P037",
+      "pandal_name": "Pathuria Ghata 5 Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Pathuria Ghata 5 Pally is a Durga Puja pandal located in Girish Park, North Kolkata."
+    },
+    "P038": {
+      "pandal_id": "P038",
+      "pandal_name": "Sovabazar 9 Pally Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P039": {
+      "pandal_id": "P039",
+      "pandal_name": "Bagbazar Pally Puja",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Bagbazar Pally Puja is a high-profile Durga Puja celebration in North Kolkata attracting thousands of visitors every year."
+    },
+    "P040": {
+      "pandal_id": "P040",
+      "pandal_name": "Shyam Square",
+      "theme": "Magic",
+      "artist": "Subrata Mridha",
+      "idol_maker": null,
+      "description": "Shyam Square Durga Puja 2026 features a Magic theme crafted by artist Subrata Mridha, paying tribute to legendary magician P C Sorcar."
+    },
+    "P041": {
+      "pandal_id": "P041",
+      "pandal_name": "Gouribari Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P042": {
+      "pandal_id": "P042",
+      "pandal_name": "Mitali Sangha",
+      "theme": "Uttam Kumar Akai 100",
+      "artist": "Padma Shri Sanatan Rudra Pal",
+      "idol_maker": "Sri Sanatan Rudrapal",
+      "description": "Mitali Sangha Durga Puja Pandal in Kankurgachi is a high-profile celebration attracting thousands of visitors."
+    },
+    "P043": {
+      "pandal_id": "P043",
+      "pandal_name": "Ahiritola Jubak Brinda",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "AHIRITOLA JUBAK BRINDA ... This Durga Puja is one of the established Durga Puja of Kolkata and you can't complete your Pandal Hopping unless you see this Pandal."
+    },
+    "P044": {
+      "pandal_id": "P044",
+      "pandal_name": "Ultadanga Bidhan Sangha",
+      "theme": "Srishtisukh (Joy of Creation)",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Ultadanga Bidhan Sangha's 2026 Durga Puja theme is 'Srishtisukh', celebrating the joy of creation through upcycled art."
+    },
+    "P045": {
+      "pandal_id": "P045",
+      "pandal_name": "Ultadanga Karbagan",
+      "theme": "Koilash er Dak",
+      "artist": "Sourav Saha",
+      "idol_maker": null,
+      "description": "Ultadanga Karbagan Sarbojonin 2026 features the theme 'Koilash er Dak' and is curated by artist Sourav Saha."
+    },
+    "P046": {
+      "pandal_id": "P046",
+      "pandal_name": "Ultadanga Jagaran Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Ultadanga Jagaran Sangha is a Durga Puja pandal in Ultadanga, Belgachia, described as \"Easy going\"."
+    },
+    "P047": {
+      "pandal_id": "P047",
+      "pandal_name": "Dum Dum Park Yubak Brinda",
+      "theme": "AI Buddha Mondir",
+      "artist": "chobiwala_kaka",
+      "idol_maker": null,
+      "description": "Dum Dum Park Yubak Brinda's 2026 Durga Puja theme was 'AI Buddha Mondir', with photography by @chobiwala_kaka."
+    },
+    "P048": {
+      "pandal_id": "P048",
+      "pandal_name": "Dum Dum Park Tarun Sangha",
+      "theme": "Satyanweshi",
+      "artist": "Anirban Das",
+      "idol_maker": null,
+      "description": "The 2026 Durga Puja of Dum Dum Park Tarun Sangha featured the theme \"Satyanweshi\", crafted by Anirban Das."
+    },
+    "P049": {
+      "pandal_id": "P049",
+      "pandal_name": "Bandhudal Sporting Club",
+      "theme": null,
+      "artist": "Romeo Hazra",
+      "idol_maker": "Pradip Rudra Pal",
+      "description": "Bandhudal Sporting Club will celebrate Durga Puja from Oct 16–21, 2026, featuring artist Romeo Hazra and idol maker Pradip Rudra Pal."
+    },
+    "P050": {
+      "pandal_id": "P050",
+      "pandal_name": "Santosh Mitra Square",
+      "theme": "Vande Mataram",
+      "artist": "Shibshankar Das",
+      "idol_maker": "Mintu Pal",
+      "description": "Santosh Mitra Square's 2026 Durga Puja features the theme \"Vande Mataram\", with theme artist Shibshankar Das and idol artist Mintu Pal."
+    },
+    "P051": {
+      "pandal_id": "P051",
+      "pandal_name": "Badan Chand Roy Bari",
+      "theme": "Traditional Sabeki Ekchala with Daker Saaj (168-Year-Old Bonedi Heritage)",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Badan Chand Roy Bari, located in Central Kolkata, celebrated Durga Puja with the theme 'Traditional Sabeki Ekchala with Daker Saaj (168-Year-Old Bonedi Heritage)'."
+    },
+    "P052": {
+      "pandal_id": "P052",
+      "pandal_name": "Muhammad Ali Park",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": "Kush",
+      "description": "The Youth Association of Muhammad Ali Park unveiled its Durga Puja idol, crafted by artist Kush."
+    },
+    "P053": {
+      "pandal_id": "P053",
+      "pandal_name": "College Square",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Sanatan Rudra Pal",
+      "description": "College Square Durga Puja 2026 showcases a new pandal theme and the Maa Durga idol is crafted by Padma Shri award-winning sculptor Sanatan Rudra Pal."
+    },
+    "P054": {
+      "pandal_id": "P054",
+      "pandal_name": "Sealdah Athletic Club",
+      "theme": "London Bridge",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Sealdah Athletic Club is bringing the iconic London Bridge to Kolkata with a grand pandal setup for Durga Puja 2026."
+    },
+    "P055": {
+      "pandal_id": "P055",
+      "pandal_name": "Subodh Mallick Square",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": "Prasanta Pal Studio",
+      "description": "Raja Subodh Mallick Square's 2026 Durga Puja features a Durga Puja theme and an idol crafted by Prasanta Pal Studio."
+    },
+    "P056": {
+      "pandal_id": "P056",
+      "pandal_name": "Kapalitola Sarbajanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Kapalitola Sarbajanin is a central Kolkata Durga Puja pandal noted for its easy‑going atmosphere and proximity to Janbazar Rajbari and Chandni Chowk."
+    },
+    "P057": {
+      "pandal_id": "P057",
+      "pandal_name": "Janbazar Rajbari",
+      "theme": "Chokkhudan",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Janbazar Rajbari is a high-profile Durga Puja celebration in North Kolkata, featuring the unique Chokkhudan concept of Maa Durga."
+    },
+    "P058": {
+      "pandal_id": "P058",
+      "pandal_name": "Taltala Sarbojanin",
+      "theme": null,
+      "artist": "Shiv Sankar Das",
+      "idol_maker": null,
+      "description": "The Taltala Sarbojanin Durga Puja 2026 is a neighbourhood puja in Taltala, central Kolkata featuring a traditional idol and a light crowd."
+    },
+    "P059": {
+      "pandal_id": "P059",
+      "pandal_name": "Chakraberia Sarbojanin",
+      "theme": "Protha",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Chakraberia Sarbojanin's 2026 theme 'Protha' turns tradition into reflection, pairing Durga's return with women's struggles and urging a break from ..."
+    },
+    "P060": {
+      "pandal_id": "P060",
+      "pandal_name": "68 Pally",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": null,
+      "description": "68 Pally Durga Puja is a 2026 Durga Puja pandal located in Bhawanipore, South Kolkata."
+    },
+    "P061": {
+      "pandal_id": "P061",
+      "pandal_name": "76 Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Subrata Paul",
+      "description": "76 Pally Sarbojanin Durga Puja is held in Howrah Maidan, Howrah, and was nominated for the UtsavConnect Pujo Awards 2026."
+    },
+    "P062": {
+      "pandal_id": "P062",
+      "pandal_name": "Bhowanipur 75 Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P063": {
+      "pandal_id": "P063",
+      "pandal_name": "22 Pally (Northern Park)",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P064": {
+      "pandal_id": "P064",
+      "pandal_name": "Paddapukur Youth",
+      "theme": "100 Ft. Adiyogi",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Paddapukur Youth Association's 2026 Durga Puja theme is 100 Ft. Adiyogi."
+    },
+    "P065": {
+      "pandal_id": "P065",
+      "pandal_name": "Harish Park",
+      "theme": "fashion",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Harish Park in Bhawanipur hosts the 2026 Durga Puja from 20th to 24th August with a fashion theme and performances by RaiMaa and Ana Dolar."
+    },
+    "P066": {
+      "pandal_id": "P066",
+      "pandal_name": "Agradut Udaya Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Agradut Udaya Sangha Durga Puja 2026 features a golden idol of Maa Durga crafted through devotional clay sculpting and a vibrant crimson mandap."
+    },
+    "P067": {
+      "pandal_id": "P067",
+      "pandal_name": "Swadhin Sangha",
+      "theme": "Revelation 2026",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Bhowanipur Swadhin Sangha unveiled its 2026 theme 'Revelation' with a new artistic concept and architectural installation."
+    },
+    "P068": {
+      "pandal_id": "P068",
+      "pandal_name": "37 Pally",
+      "theme": null,
+      "artist": "Sri Pradip Rudra Pal",
+      "idol_maker": "Sri Pradip Rudra Pal",
+      "description": "37 Pally Sarbojanin Durgotsab in Central Kolkata transforms its puja pavilion into an ode to Bengal's hereditary weavers and metalworkers."
+    },
+    "P069": {
+      "pandal_id": "P069",
+      "pandal_name": "Rammohan Sammilani",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Sri Sanatan Rudra Paul",
+      "description": "Rammohan Sammilani Durga Puja in 2026 features the theme \"Sagarkanya\" and showcases an idol crafted by Sri Sanatan Rudra Paul."
+    },
+    "P070": {
+      "pandal_id": "P070",
+      "pandal_name": "Pally Bashi Brindo",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Pally Bashi Brindo is a pandal celebrated for its intricate details and embodiment of community faith and creativity."
+    },
+    "P071": {
+      "pandal_id": "P071",
+      "pandal_name": "Park Circus",
+      "theme": "Nakshikanthar Math",
+      "artist": null,
+      "idol_maker": "Sanatan Rudra Pal",
+      "description": "Park Circus Durga Puja 2026 features the theme 'Nakshikanthar Math' and an idol sculpted by Sanatan Rudra Pal."
+    },
+    "P072": {
+      "pandal_id": "P072",
+      "pandal_name": "Khidirpur 26 Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P073": {
+      "pandal_id": "P073",
+      "pandal_name": "Kidderpore 75 Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Sanatan Rudra Pal",
+      "description": "Kidderpore 75 Pally displayed an idol created by Sanatan Rudra Pal."
+    },
+    "P074": {
+      "pandal_id": "P074",
+      "pandal_name": "Kidderpore 74 Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Avik Sen",
+      "description": "Kidderpore 74 Pally kept the pandal theme authentic and simple, featuring a mud‑painted idol with a serene demeanor."
+    },
+    "P075": {
+      "pandal_id": "P075",
+      "pandal_name": "Kidderpore 25 Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Kidderpore 25 Pally Club is one of Kolkata's celebrated Durga Puja committees, renowned for artistic installations, traditional fervor, and grand community."
+    },
+    "P076": {
+      "pandal_id": "P076",
+      "pandal_name": "Gokhale Sporting",
+      "theme": null,
+      "artist": "SCULPTOR SANATAN RUDRA PAL",
+      "idol_maker": null,
+      "description": "Gokhale Sporting Club's 2026 Durga Puja featured artist Sculptor Sanatan Rudra Pal."
+    },
+    "P077": {
+      "pandal_id": "P077",
+      "pandal_name": "Ray Street Sarbojanin",
+      "theme": "Shantir Path",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Ray Street Sarbojanin Durgotsav 2026 celebrated its Khuti Pujo with the theme 'Shantir Path'."
+    },
+    "P078": {
+      "pandal_id": "P078",
+      "pandal_name": "Beleghata 33 Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P079": {
+      "pandal_id": "P079",
+      "pandal_name": "Beleghata Sandhani",
+      "theme": null,
+      "artist": "Sumi Majumder, Shubhodip Majumder",
+      "idol_maker": null,
+      "description": "Beleghata Sandhani Club's 2026 concept was designed by artists Sumi Majumder and Shubhodip Majumder."
+    },
+    "P080": {
+      "pandal_id": "P080",
+      "pandal_name": "Abasar",
+      "theme": "Global Warming",
+      "artist": "Shanu Lahiri",
+      "idol_maker": "Sanatan Pal",
+      "description": "Abasar Sarbojanin Durgotsab Samity in Bhawanipore will depict Global Warming as its theme for Durga Puja 2026, featuring artist Shanu Lahiri and idol made by Sanatan Pal."
+    },
+    "P081": {
+      "pandal_id": "P081",
+      "pandal_name": "Maddox Square",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Maddox Square Durga Puja 2026 is a major South Kolkata destination for crowd atmosphere, idol viewing and evening energy."
+    },
+    "P082": {
+      "pandal_id": "P082",
+      "pandal_name": "Suruchi Sangha",
+      "theme": "Padma (Lotus)",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Suruchi Sangha Durga Puja 2026 features the Padma (Lotus) theme."
+    },
+    "P083": {
+      "pandal_id": "P083",
+      "pandal_name": "Chetla Agrani",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Subrata Mridha",
+      "description": "The 2026 Chetla Agrani Durga Puja idol is crafted by artist Subrata Mridha."
+    },
+    "P084": {
+      "pandal_id": "P084",
+      "pandal_name": "Tridhara Sammilani",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Tridhara Sammilani's 2026 Durga Puja featured a police inspection, a Grand Talent Hunt announcement, and the first draft of the Durga idol being sculpted at Kumartuli."
+    },
+    "P085": {
+      "pandal_id": "P085",
+      "pandal_name": "Ballygunge Cultural",
+      "theme": "রুন্ন",
+      "artist": "Sushanta Shibani Paul",
+      "idol_maker": null,
+      "description": "Ballygunge Cultural Association's 2026 Durga Puja features the theme 'রুন্ন' and artist Sushanta Shibani Paul."
+    },
+    "P086": {
+      "pandal_id": "P086",
+      "pandal_name": "Behala Friends",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Behala Friends Club was officially nominated for the UtsavConnect Pujo Awards 2026."
+    },
+    "P087": {
+      "pandal_id": "P087",
+      "pandal_name": "23 Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "23 Pally Durga Mandir Society features a 5-tonne miracle idol and a permanent ashtadhatu idol for Durga Puja 2026."
+    },
+    "P088": {
+      "pandal_id": "P088",
+      "pandal_name": "Forward Club",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P089": {
+      "pandal_id": "P089",
+      "pandal_name": "Matri Mandir",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P090": {
+      "pandal_id": "P090",
+      "pandal_name": "Bakul Bagan",
+      "theme": null,
+      "artist": "Arun Kumar",
+      "idol_maker": null,
+      "description": "Bakul Bagan's 2026 Durga Puja theme was developed by Mamata Banerjee, with artist Arun Kumar shaping it."
+    },
+    "P091": {
+      "pandal_id": "P091",
+      "pandal_name": "66 Pally",
+      "theme": "Souls of Fire",
+      "artist": "Sejuti Das",
+      "idol_maker": null,
+      "description": "66 Pally Durga Puja in Kolkata pays tribute to 41 forgotten revolutionaries of Bengal's 'Agni Yug' with the theme 'Souls of Fire'."
+    },
+    "P092": {
+      "pandal_id": "P092",
+      "pandal_name": "Badamtala Ashar Sangha",
+      "theme": null,
+      "artist": "Tanmoy Mondal",
+      "idol_maker": null,
+      "description": "Badamtala Ashar Sangha Durga Puja 2026 showcases a 14‑ft‑tall clay idol and artistic installations, with Tanmoy Mondal among the artists."
+    },
+    "P093": {
+      "pandal_id": "P093",
+      "pandal_name": "Deshapriya Park",
+      "theme": "A grand, fictional temple inspired by ethereal architecture, marking the committee's 89th year, with a striking white- ...",
+      "artist": "Sanatan Rudra Pal",
+      "idol_maker": null,
+      "description": "Deshapriya Park's 2026 Durga Puja showcases a grand, fictional temple inspired by ethereal architecture, celebrating its 89th year."
+    },
+    "P094": {
+      "pandal_id": "P094",
+      "pandal_name": "Hindusthan Park",
+      "theme": "Schooling",
+      "artist": "Malay & Subhomoy",
+      "idol_maker": null,
+      "description": "Hindusthan Park's 2026 Durga Puja theme is 'Schooling', with artist Malay & Subhomoy and idol maker MALAY SHUBHOMAY."
+    },
+    "P095": {
+      "pandal_id": "P095",
+      "pandal_name": "Hindusthan Club",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P096": {
+      "pandal_id": "P096",
+      "pandal_name": "Singhi Park",
+      "theme": "Chokkhudan",
+      "artist": "Ankita Bannerjee",
+      "idol_maker": "Sri Pradip Rudrapal",
+      "description": "Singhi Park's 85th year theme 'Chokkhudan' was presented by theme artist Ankita Bannerjee, with the idol crafted by Sri Pradip Rudrapal."
+    },
+    "P097": {
+      "pandal_id": "P097",
+      "pandal_name": "Ekdalia Evergreen",
+      "theme": "Shree Somnath Temple",
+      "artist": "Sanatan Rudra Paul",
+      "idol_maker": null,
+      "description": "Ekdalia Evergreen Club's 2026 Durga Puja features the theme 'Shree Somnath Temple' and is curated by artist Sanatan Rudra Paul."
+    },
+    "P098": {
+      "pandal_id": "P098",
+      "pandal_name": "Bosepukur Sitala Mandir",
+      "theme": "Kaal Rokhon",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Bosepukur Sitala Mandir celebrated its 75th year in 2026 with the 'Kaal Rokhon' theme, showcasing groundbreaking installations, earthen motifs, and the idol of Goddess Sitala Ma."
+    },
+    "P099": {
+      "pandal_id": "P099",
+      "pandal_name": "Rajdanga Naba Uday Sangha",
+      "theme": "Prosno",
+      "artist": "Debasish Barui",
+      "idol_maker": null,
+      "description": "Rajdanga Naba Uday Sangha's 2026 Durga Puja features the theme 'Prosno' envisioned by pandal architect Debasish Barui."
+    },
+    "P100": {
+      "pandal_id": "P100",
+      "pandal_name": "Shib Mandir",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Prashanta Pal",
+      "description": "Shib Mandir's Durga idol, crafted by artist Prashanta Pal, will travel to Jamshedpur for Durga Puja 2026."
+    },
+    "P101": {
+      "pandal_id": "P101",
+      "pandal_name": "Mudiali",
+      "theme": null,
+      "artist": "Chandrabali Rudra Dutta",
+      "idol_maker": null,
+      "description": "Mudiali Club Durga Puja 2026 is themed 'Oitijhyer Lok-Kotha' and features artist Chandrabali Rudra Dutta."
+    },
+    "P102": {
+      "pandal_id": "P102",
+      "pandal_name": "Jodhpur Park 95 Pally",
+      "theme": "Durga Puja",
+      "artist": "Susanta Paul",
+      "idol_maker": "Prasanta Pal Studio",
+      "description": "Jodhpur Park 95 Pally's 2026 Durga Puja features the theme 'Durga Puja', artist Susanta Paul, and idol made by Prasanta Pal Studio."
+    },
+    "P103": {
+      "pandal_id": "P103",
+      "pandal_name": "Behala Nutan Dal",
+      "theme": "PARBAN",
+      "artist": "Somnath",
+      "idol_maker": null,
+      "description": "Behala Nutan Dal is a 40m wide pandal in Behala, featuring the 2026 theme 'PARBAN' and designed by artist Somnath."
+    },
+    "P104": {
+      "pandal_id": "P104",
+      "pandal_name": "Behala Roy Bari",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Behala Roy Bari, located at 4/1 Roy Bahadur A.C.Roy Road, is a Durga Puja celebrated by local people."
+    },
+    "P105": {
+      "pandal_id": "P105",
+      "pandal_name": "Behala Nutan Sangha",
+      "theme": "EKTA SOHOJ PUJO",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Behala Nutan Sangha's 2026 Durga Puja theme is EKTA SOHOJ PUJO."
+    },
+    "P106": {
+      "pandal_id": "P106",
+      "pandal_name": "Haridevpur 41 Pally",
+      "theme": "দিকট",
+      "artist": "গরু...",
+      "idol_maker": null,
+      "description": "Haridevpur 41 Pally Club Durga Puja 2026 features the theme 'দিকট' and artist 'গরু...'."
+    },
+    "P107": {
+      "pandal_id": "P107",
+      "pandal_name": "Vivekananda Park",
+      "theme": "Theme TBA 2026",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Vivekananda Park Athletic Club's Durga Puja 2026 theme is TBA."
+    },
+    "P108": {
+      "pandal_id": "P108",
+      "pandal_name": "Ajeya Sanghati",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Soumyajit Banerjee",
+      "description": "Ajeya Sanghati's 2026 Durga Puja includes a Kumartuli Durga idol prepared by Soumyajit Banerjee."
+    },
+    "P109": {
+      "pandal_id": "P109",
+      "pandal_name": "Barisha Club",
+      "theme": "Shunno Prithibi",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Shunno Prithibi or Zero world is the current year theme of Barisha Club Durga Puja, Behala."
+    },
+    "P110": {
+      "pandal_id": "P110",
+      "pandal_name": "Naktala Pally Unnayan Samity",
+      "theme": "Not Disclosed Yet",
+      "artist": null,
+      "idol_maker": null,
+      "description": "The Naktala Pally Unnayan Samity Durga Puja 2026 theme has not been disclosed yet."
+    },
+    "P111": {
+      "pandal_id": "P111",
+      "pandal_name": "Roynagar Unyan Samity",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P112": {
+      "pandal_id": "P112",
+      "pandal_name": "Naktala Udayan Sangha",
+      "theme": "Arpon",
+      "artist": "Anirban Das",
+      "idol_maker": null,
+      "description": "Naktala Udayan Sangha's 2026 theme is 'Arpon', envisioned by architect Rintu Das."
+    },
+    "P113": {
+      "pandal_id": "P113",
+      "pandal_name": "Baishnabghata Balak Samity",
+      "theme": null,
+      "artist": "Shubham Kapsime",
+      "idol_maker": null,
+      "description": "Baishnabghata Balak Samity is a community club and NGO located in Naktala, Kolkata, known for its Durga Puja celebrations."
+    },
+    "P114": {
+      "pandal_id": "P114",
+      "pandal_name": "Garia Nabadurga",
+      "theme": "College Square",
+      "artist": "Shri Sanatan Rudra",
+      "idol_maker": "Sanatan Rudra Pal",
+      "description": "Garia Nabadurga 2026, organized by Garia Mitali Sangha, features a 'College Square' theme and showcases an idol crafted by Padma Shri awardee Sanatan Rudra Pal."
+    },
+    "P115": {
+      "pandal_id": "P115",
+      "pandal_name": "Tarun Sathi",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Tarun Sathi is a Kali Mandir located in Jadavpur, Kolkata, and also hosts a Pujo Mondop at Sulekha More."
+    },
+    "P116": {
+      "pandal_id": "P116",
+      "pandal_name": "Shyama Pally",
+      "theme": "বিধ (Bhed)",
+      "artist": "Team Thinkers Somnath Seal",
+      "idol_maker": null,
+      "description": "Shyama Pally Shyama Sangha presents the 2026 Durga Puja theme \"বিধ (Bhed)\" with artists from Team Thinkers Somnath Seal."
+    },
+    "P117": {
+      "pandal_id": "P117",
+      "pandal_name": "Kamdahari Purbapara",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Kamdahari Purbapara is a recreation club in Garia, Kolkata, linked to Durga Puja events."
+    },
+    "P118": {
+      "pandal_id": "P118",
+      "pandal_name": "Patuli Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Patuli Sarbojanin Durgotsab 2026, in its 51st year, is a prominent Durga Puja event in South Kolkata."
+    },
+    "P119": {
+      "pandal_id": "P119",
+      "pandal_name": "Santoshpur Lake Pally",
+      "theme": "Tandav",
+      "artist": "Rintu Das",
+      "idol_maker": null,
+      "description": "Santoshpur Lake Pally's 2026 Durga Puja features the theme 'Tandav' created by artist Rintu Das."
+    },
+    "P120": {
+      "pandal_id": "P120",
+      "pandal_name": "Santoshpur Trikon Park",
+      "theme": null,
+      "artist": "Asim Paul",
+      "idol_maker": null,
+      "description": "Santoshpur Trikon Park is a Kolkata Durga Puja pandal celebrated for its unique 'Theme Puja' and featuring artist Asim Paul."
+    },
+    "P121": {
+      "pandal_id": "P121",
+      "pandal_name": "Pally Mangal",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Goutam Pakhira",
+      "description": "Pally Mangal Samity is celebrating its 75th year of Duga Puja 2026 with the theme song 'Maru Prantare Uma'."
+    },
+    "P122": {
+      "pandal_id": "P122",
+      "pandal_name": "Kidderpore Pally Sarodiya",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Kidderpore Pally Saradiya is a Durga Puja organization."
+    },
+    "P123": {
+      "pandal_id": "P123",
+      "pandal_name": "Ballygunge 21 Pally",
+      "theme": "অতাহু ফ ওনানদনোকসোলিপক্লার আয়াপার মেলাকনজন",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Ballygunge 21 Pally Durga Puja 2026 features the theme 'অতাহু ফ ওনানদনোকসোলিপক্লার আয়াপার মেলাকনজন'."
+    },
+    "P124": {
+      "pandal_id": "P124",
+      "pandal_name": "Kidderpore Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P125": {
+      "pandal_id": "P125",
+      "pandal_name": "Netaji Sangha",
+      "theme": "Assam tea garden",
+      "artist": "Sitanshu Tati",
+      "idol_maker": null,
+      "description": "Netaji Sangha's 2026 Durga Puja pandal features an Assam tea garden theme and is curated by artist Sitanshu Tati."
+    },
+    "P126": {
+      "pandal_id": "P126",
+      "pandal_name": "Agradut Club",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Agradut Club hosted a Durga Puja event in 2026, as shown in a photo taken on October 5, 2026."
+    },
+    "P127": {
+      "pandal_id": "P127",
+      "pandal_name": "Mitra Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P128": {
+      "pandal_id": "P128",
+      "pandal_name": "Behala 11 Pally",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Behala 11 Pally Club celebrates its 73rd year Durga Puja in 2026 with a theme of Durga Puja."
+    },
+    "P129": {
+      "pandal_id": "P129",
+      "pandal_name": "Behala Shree Sangha",
+      "theme": "Easy going",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Behala Shree Sangha's Durga Puja, located at Behala Bazar, has an easy-going theme and has registered for the JB Durga Puja Sharod Samman."
+    },
+    "P130": {
+      "pandal_id": "P130",
+      "pandal_name": "Pragati Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Pragati Sangha held a theme song, drawing competition, and idol procession in 2026."
+    },
+    "P131": {
+      "pandal_id": "P131",
+      "pandal_name": "Nabalia Para United Club",
+      "theme": "Rahul Das",
+      "artist": "Soibal Paul",
+      "idol_maker": null,
+      "description": "Nabalia Para United Club's 2026 Durga Puja featured the concept 'Rahul Das' with idol artist Soibal Paul."
+    },
+    "P132": {
+      "pandal_id": "P132",
+      "pandal_name": "Barisha Netaji Sangha",
+      "theme": null,
+      "artist": "Sitanshu Tati",
+      "idol_maker": "Paul Sonatan",
+      "description": "Barisha Netaji Sangha's 2026 Durga Puja features artist Sitanshu Tati and idol maker Paul Sonatan."
+    },
+    "P133": {
+      "pandal_id": "P133",
+      "pandal_name": "Bakultala Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Bakultala Sarbojanin is a Durga Puja pandal located in Behala, Kolkata, West Bengal."
+    },
+    "P134": {
+      "pandal_id": "P134",
+      "pandal_name": "Barisha Nabin Sangha",
+      "theme": "Otho Batik Kotha",
+      "artist": "Rj Animesh",
+      "idol_maker": "জীবল পল",
+      "description": "Barisha Nabin Sangha’s 2026 Durga Puja features the theme ‘Otho Batik Kotha’, artist Rj Animesh, and an idol made by জীবল পল."
+    },
+    "P135": {
+      "pandal_id": "P135",
+      "pandal_name": "Sitalatala Kishore Sangha",
+      "theme": "Theme TBA 2026",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Sitalatala Kishore Sangha is a South Kolkata Durga Puja pandal with a 2026 theme yet to be announced, located near Behala Chowrasta."
+    },
+    "P136": {
+      "pandal_id": "P136",
+      "pandal_name": "Barisha Tarun Tirtha",
+      "theme": "Theme TBA 2026",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Barisha Tarun Tirtha is a Durga Puja pandal in South Kolkata with its theme to be announced in 2026, located near Sakherbazar metro station."
+    },
+    "P137": {
+      "pandal_id": "P137",
+      "pandal_name": "Vidyasagar Central Club",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Banner inauguration for Vidyasagar Central Club's 2026 Durga Puja."
+    },
+    "P138": {
+      "pandal_id": "P138",
+      "pandal_name": "Sree Guru Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Sree Guru Sangha is a Durga Puja pandal in Kolkata."
+    },
+    "P139": {
+      "pandal_id": "P139",
+      "pandal_name": "Rupchand Mukherjee Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P140": {
+      "pandal_id": "P140",
+      "pandal_name": "Golmath Durga Puja Samiti",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Golmath Durga Puja Samiti is a Kolkata Durga Puja pandal located at Jatin Das Park in Bhowanipore Durgotsab."
+    },
+    "P141": {
+      "pandal_id": "P141",
+      "pandal_name": "Bhowanipore Durgotsab",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P142": {
+      "pandal_id": "P142",
+      "pandal_name": "Hazra Park Durgotsab",
+      "theme": "Chirayat",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Hazra Park Durgotsab celebrates Bengal's folk-art heritage with the 'Chirayat' theme in its 84th year."
+    },
+    "P143": {
+      "pandal_id": "P143",
+      "pandal_name": "Kalighat Milan Sangha",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Kalighat Milan Sangha Durga Puja 2026 is a community celebration in South Kolkata with the theme 'Durga Puja'."
+    },
+    "P144": {
+      "pandal_id": "P144",
+      "pandal_name": "Phalguni Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P145": {
+      "pandal_id": "P145",
+      "pandal_name": "Sangha Sree",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Sangha Sree Sangha's 2026 Rabirbazar Durga Puja revealed its theme, highlighting traditional Bengali puja, artistic devotion, and cultural heritage."
+    },
+    "P146": {
+      "pandal_id": "P146",
+      "pandal_name": "Ballygunge Purba Pally",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Ballygunge Purba Pally Durga Puja pandal is located in South Kolkata and its 2026 theme is Durga Puja."
+    },
+    "P147": {
+      "pandal_id": "P147",
+      "pandal_name": "64 Pally Durga Pujo",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P148": {
+      "pandal_id": "P148",
+      "pandal_name": "Diamond Park Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Diamond Park Sarbojanin is a Durga Puja pandal located in Joka, South-West Kolkata, featured in 2026."
+    },
+    "P149": {
+      "pandal_id": "P149",
+      "pandal_name": "Shahid Colony Sarbojanin",
+      "theme": "অতাহুড় লুক্কি",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Shahid Colony Sarbojanin Durga Puja showcases a 100-foot tall Durga idol with the theme 'অতাহুড় লুক্কি'."
+    },
+    "P150": {
+      "pandal_id": "P150",
+      "pandal_name": "Madhya Garfa Sarbojanin",
+      "theme": "TBA 2026",
+      "artist": null,
+      "idol_maker": null,
+      "description": "The Madhya Garfa Sarbojanin Durgotsab Puja Committee's 2026 Durga Puja theme has not been disclosed yet."
+    },
+    "P151": {
+      "pandal_id": "P151",
+      "pandal_name": "Mukundapur Sarbojanin",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Mukundapur Sarbojanin Durga Puja pandal in South Kolkata, 2026, with theme \"Durga Puja\"."
+    },
+    "P152": {
+      "pandal_id": "P152",
+      "pandal_name": "78 Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P153": {
+      "pandal_id": "P153",
+      "pandal_name": "Jana Mangal Samiti",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Jana Mangal Samiti is a Durga Puja pandal in Chetla, Kolkata, located near Iswar Ganguli Street and about 660 meters from Kalighat metro."
+    },
+    "P154": {
+      "pandal_id": "P154",
+      "pandal_name": "Dakshin Kolkata Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P155": {
+      "pandal_id": "P155",
+      "pandal_name": "Sarat Chatterjee Park",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Jadab Chandra Pal",
+      "description": "Sarat Chatterjee Park Puja Samity (Triangular Park) is a Durga Puja pandal in South Kolkata for 2026, with its theme not yet disclosed and the idol made by Jadab Chandra Pal."
+    },
+    "P156": {
+      "pandal_id": "P156",
+      "pandal_name": "Gariahat Sarbojanin Durgotsab",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P157": {
+      "pandal_id": "P157",
+      "pandal_name": "Shahid Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Shahid Sangha is a Durga Puja pandal in Kalighat, noted as easy going."
+    },
+    "P158": {
+      "pandal_id": "P158",
+      "pandal_name": "Golden Arrow Club",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Golden Arrow Club Durga Puja 2026 is a Durga Puja pandal in South Kolkata, Kolkata, and part of Kolkata Durga Puja 2026, taking place from 16 to 21 October 2026."
+    },
+    "P159": {
+      "pandal_id": "P159",
+      "pandal_name": "Adi Lake Palli Club",
+      "theme": null,
+      "artist": "Paritosh Sen, Karuna Ketan Sen, Karuna",
+      "idol_maker": null,
+      "description": "Adi Lake Palli Club is a Durga Puja pandal located in South Kolkata."
+    },
+    "P160": {
+      "pandal_id": "P160",
+      "pandal_name": "Samaj Sebi Sangha",
+      "theme": "Mahapujoy Mahanayak",
+      "artist": null,
+      "idol_maker": "Arighna Saha",
+      "description": "Samaj Sebi Sangha's 2026 Durga Puja theme is 'Mahapujoy Mahanayak', paying tribute to Uttam Kumar, with the idol crafted by Arighna Saha."
+    },
+    "P161": {
+      "pandal_id": "P161",
+      "pandal_name": "Pratapaditya Road Trikon Park",
+      "theme": "Devdarshan",
+      "artist": null,
+      "idol_maker": null,
+      "description": "The 2026 Durga Puja at Pratapaditya Road Trikon Park features the theme Devdarshan, honoring an unseen light behind the divine vision."
+    },
+    "P162": {
+      "pandal_id": "P162",
+      "pandal_name": "Garia Jatra Suru Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Durga idol displayed at Garia Jatra Suru Sangha Durga Puja pandal in Kolkata on 3 October 2026."
+    },
+    "P163": {
+      "pandal_id": "P163",
+      "pandal_name": "Kheyali Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P164": {
+      "pandal_id": "P164",
+      "pandal_name": "Boral Sukanta Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Boral Sukanta Sangha in Boral, Kolkata has its 2026 theme status checked, along with map location, directions, awards, and visitor notes."
+    },
+    "P165": {
+      "pandal_id": "P165",
+      "pandal_name": "Poddar Nagar Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Poddar Nagar Sarbojanin Durgotsav'26 held a publishing ceremony for its souvenir contract and hosted an international photo fest snapshot from 22nd to 25th January 2026."
+    },
+    "P166": {
+      "pandal_id": "P166",
+      "pandal_name": "Atlanta Club",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P167": {
+      "pandal_id": "P167",
+      "pandal_name": "Suktara Sangha",
+      "theme": null,
+      "artist": "Mahanayak Uttam Kumar",
+      "idol_maker": null,
+      "description": "Suktara Sangha is a Durga Puja pandal featuring Mahanayak Uttam Kumar."
+    },
+    "P168": {
+      "pandal_id": "P168",
+      "pandal_name": "Alipore Sarbojanin",
+      "theme": "Ramayana",
+      "artist": "@jayprints",
+      "idol_maker": null,
+      "description": "Alipore Sarbojanin Durgotsav's 2026 Durga Puja theme is Ramayana, credited to @jayprints."
+    },
+    "P169": {
+      "pandal_id": "P169",
+      "pandal_name": "Udayan Sangha",
+      "theme": "Arpon",
+      "artist": "Anirban Das",
+      "idol_maker": null,
+      "description": "Naktala Udayan Sangha's 2026 Durga Puja theme is 'Arpon', curated by artist Anirban Das."
+    },
+    "P170": {
+      "pandal_id": "P170",
+      "pandal_name": "Naktala Sammilani Club",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Naktala Sammilani Club hosts a Durga Puja pandal in South Kolkata with a 2026 theme of Durga Puja."
+    },
+    "P171": {
+      "pandal_id": "P171",
+      "pandal_name": "Azadgarh Sebak Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Azadgarh Sebak Sangha may not hold its Durga Puja pandal in 2026."
+    },
+    "P172": {
+      "pandal_id": "P172",
+      "pandal_name": "41 Pally",
+      "theme": "দ্বৈত",
+      "artist": "Gouranga Kuila",
+      "idol_maker": null,
+      "description": "Haridevpur 41 Pally Club Durga Puja 2026 features the theme “দ্বৈত” conceived by artist Gouranga Kuila."
+    },
+    "P173": {
+      "pandal_id": "P173",
+      "pandal_name": "Sodepur Pragati Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "The 2026 Durga Puja pandal of Sodepur Pragati Sangha (Haridevpur) has its theme to be announced."
+    },
+    "P174": {
+      "pandal_id": "P174",
+      "pandal_name": "Putiary Club",
+      "theme": "Dayboddho",
+      "artist": null,
+      "idol_maker": "Prasanta Pal Studio",
+      "description": "Putiary Club celebrated its 78th year in 2026 with the theme 'Dayboddho', emphasizing unity, responsibility, and humanity."
+    },
+    "P175": {
+      "pandal_id": "P175",
+      "pandal_name": "Pally Unnayan Samiti",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Pally Unnayan Samiti is a community club with a presence on Facebook and Instagram."
+    },
+    "P176": {
+      "pandal_id": "P176",
+      "pandal_name": "Vivekananda Sporting Club",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": null,
+      "description": "In 2026, Vivekananda Sporting Club’s Durga Puja pandal in Central Kolkata featured a \"Durga Puja\" theme."
+    },
+    "P177": {
+      "pandal_id": "P177",
+      "pandal_name": "Adarsha Samiti",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Prasanta Pal Studio",
+      "description": "Haridevpur Adarsha Samiti Club's 2026 Durga Puja theme has not been disclosed, and the idol is being made by Prasanta Pal Studio."
+    },
+    "P178": {
+      "pandal_id": "P178",
+      "pandal_name": "Nabin Sathi Club",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Nabin Sathi Club is mentioned as a venue in Balurghat hosting a flag‑raising ceremony for Durga Puja in 2026 and is listed among Kolkata’s Durga Puja pandals."
+    },
+    "P179": {
+      "pandal_id": "P179",
+      "pandal_name": "Sarodiya Sammilani",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Sarodiya Sammilani is a Durga Puja pandal located near Rabindra Sarobar in Kolkata."
+    },
+    "P180": {
+      "pandal_id": "P180",
+      "pandal_name": "Lake Avenue Sebak Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P181": {
+      "pandal_id": "P181",
+      "pandal_name": "Dhakuria Sarbojanin",
+      "theme": "Durga Puja",
+      "artist": "Parimal Paul",
+      "idol_maker": "Parimal Paul",
+      "description": "Dhakuria Sarbojanin Durgotsab featured a Durga Puja theme in 2026 with an idol crafted by Parimal Paul."
+    },
+    "P182": {
+      "pandal_id": "P182",
+      "pandal_name": "Babubagan",
+      "theme": "Doors",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Babubagan's 2026 Durga Puja pandal features a door-themed design with intricate craftsmanship."
+    },
+    "P183": {
+      "pandal_id": "P183",
+      "pandal_name": "Nabapalli Sangha",
+      "theme": "Bhram",
+      "artist": "Sandip Mukherjee & Tapashi Mukherjee",
+      "idol_maker": null,
+      "description": "Nabapalli Sangha's 2026 Durga Puja, organized by Charu Avenue, features the theme 'Bhram' (The Illusion) and is designed by artists Sandip Mukherjee and Tapashi Mukherjee."
+    },
+    "P184": {
+      "pandal_id": "P184",
+      "pandal_name": "Lake Gardens Peoples Association",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Lake Gardens Peoples Association is a celebrated Kolkata Durga Puja committee known for artistic installations and traditional fervor."
+    },
+    "P185": {
+      "pandal_id": "P185",
+      "pandal_name": "Jodhpur Park Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "A video offers a sneak peek into the artistic preparations for the Jodhpur Park Sarbojanin Durga Puja."
+    },
+    "P186": {
+      "pandal_id": "P186",
+      "pandal_name": "Adi Ballygunge Sarbojanin",
+      "theme": "Bhit",
+      "artist": null,
+      "idol_maker": "Nabakumar Pal",
+      "description": "Adi Ballygunge Sarbojanin Durga Puja 2026 features the theme \"Bhit\" and an idol crafted by Nabakumar Pal."
+    },
+    "P187": {
+      "pandal_id": "P187",
+      "pandal_name": "Barisha Sarbojanin",
+      "theme": "rewinds time back to the 1980s",
+      "artist": null,
+      "idol_maker": "Gopeshwar Pal",
+      "description": "Barisha Sarbojanin Durga Puja 2026 features a 1980s retro theme and idols crafted by legendary maker Gopeshwar Pal."
+    },
+    "P188": {
+      "pandal_id": "P188",
+      "pandal_name": "Rabindra Pally Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Rabindra Pally Sarbojanin is a community Durga Puja pandal located in Baghajatin, Kolkata."
+    },
+    "P189": {
+      "pandal_id": "P189",
+      "pandal_name": "Sahapur Sarbojanin",
+      "theme": "Ten Forms. One Divine Power.",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Sahapur Sarbojanin Durga Puja Committee's 2026 theme is \"Ten Forms. One Divine Power.\""
+    },
+    "P190": {
+      "pandal_id": "P190",
+      "pandal_name": "Parnashree Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "In 2026, a dance group from Parnashree Pally performed a synchronized routine in a hall, and the area hosted a Varahi Devi Navaratri Mahotsavam with an auspicious idol."
+    },
+    "P191": {
+      "pandal_id": "P191",
+      "pandal_name": "Naskarpur Sarbojanin",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Naskarpur Sarbojanin, a South Kolkata Durga Puja pandal, has its 2026 theme listed as \"Durga Puja\"."
+    },
+    "P192": {
+      "pandal_id": "P192",
+      "pandal_name": "Behala 29 Pally",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Behala 29 Pally is a Durga Puja pandal in Behala, Kolkata, referenced in social media posts and news articles."
+    },
+    "P193": {
+      "pandal_id": "P193",
+      "pandal_name": "Behala Club",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Behala Club hosts a community Durga Puja in Behala, Kolkata, with a 2026 celebration."
+    },
+    "P194": {
+      "pandal_id": "P194",
+      "pandal_name": "Nandana Yuva Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Nandana Yuva Sangha is noted for combining aesthetic appeal with social concern."
+    },
+    "P195": {
+      "pandal_id": "P195",
+      "pandal_name": "Udayan Pally",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": "Soumyajit Banerjee",
+      "description": "Barisha Udayan Pally Durga Puja pandal in South‑West Kolkata has a 2026 theme of Durga Puja."
+    },
+    "P196": {
+      "pandal_id": "P196",
+      "pandal_name": "Milan Tirtha",
+      "theme": "ঔতিহ্য ও নান্দনিক শিল্পকলার অপূর্ব মেলবন্ধন",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Milan Tirtha's 2026 Durga Puja is themed 'ঔতিহ্য ও নান্দনিক শিল্পকলার অপূর্ব মেলবন্ধন'."
+    },
+    "P197": {
+      "pandal_id": "P197",
+      "pandal_name": "Sunil Nagar Club",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Sunil Nagar Club is a Durga Puja pandal located near VIP Bazar, about 1.2 km away, described as easy going."
+    },
+    "P198": {
+      "pandal_id": "P198",
+      "pandal_name": "Bosepukur Talbagan",
+      "theme": null,
+      "artist": "Shelee and Ivana",
+      "idol_maker": null,
+      "description": "Bosepukur Talbagan Durga Puja combines traditional rituals with modern, thought‑provoking thematic displays, with artist coordination managed by Shelee and Ivana."
+    },
+    "P199": {
+      "pandal_id": "P199",
+      "pandal_name": "Deshbandhu Boys Club",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Deshbandhu Boys Club is a Durga Puja pandal located in VIP Bazar, Kolkata."
+    },
+    "P200": {
+      "pandal_id": "P200",
+      "pandal_name": "R K Chatterjee Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "R K Chatterjee Sarbojanin is a Durga Puja pandal located in VIP Bazar and associated with Rajdanga Noboday Sangha."
+    },
+    "P201": {
+      "pandal_id": "P201",
+      "pandal_name": "Rajdanga Noboday Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Kumartuli",
+      "description": "Rajdanga Noboday Sangha is a 2026 Kolkata Durga Puja pandal featured in listings and selected among the top eight pujas for the Adani Preview, showcasing a Kumartuli-made idol of Maa Durga."
+    },
+    "P202": {
+      "pandal_id": "P202",
+      "pandal_name": "Saraswati Sammilani",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Saraswati Sammilani is mentioned as a Durga Puja pandal in Kolkata."
+    },
+    "P203": {
+      "pandal_id": "P203",
+      "pandal_name": "Santoshpur Avenue South",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Santoshpur Avenue South celebrated its 60th year (Diamond Jubilee) in 2026, featuring Susanta Shibani Paul."
+    },
+    "P204": {
+      "pandal_id": "P204",
+      "pandal_name": "Rajdanga Amra Kojon",
+      "theme": null,
+      "artist": "Purnendu Dey",
+      "idol_maker": null,
+      "description": "Rajdanga Amra Kojon Kalyan Samiti's Durga Puja 2026 was artistically directed by Purnendu Dey."
+    },
+    "P205": {
+      "pandal_id": "P205",
+      "pandal_name": "Purbachal Shakti Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Purbachal Shakti Sangha is a club in South Purbachal, Haltu, that organizes the annual Durga Puja."
+    },
+    "P206": {
+      "pandal_id": "P206",
+      "pandal_name": "Kendua Shanti Sangha",
+      "theme": "Aishwaryi",
+      "artist": "Susanta Shivani Paul",
+      "idol_maker": null,
+      "description": "Kendua Shanti Sangha's 2026 Durga Puja pandal features the theme “Aishwaryi” and the artist Susanta Shivani Paul."
+    },
+    "P207": {
+      "pandal_id": "P207",
+      "pandal_name": "SB Park Sarbojanin",
+      "theme": "Protno kotha",
+      "artist": null,
+      "idol_maker": null,
+      "description": "In 2026, SB Park Sarbojanin in Thakurpukur adopted the theme “Protno kotha”."
+    },
+    "P208": {
+      "pandal_id": "P208",
+      "pandal_name": "Sree Bhumi Sporting Club",
+      "theme": null,
+      "artist": "PRADIP RUDRA PAUL",
+      "idol_maker": null,
+      "description": "Sree Bhumi Sporting Club's 2026 Durga Puja pandal has not announced its theme, and the idol artist is Pradip Rudra Paul."
+    },
+    "P209": {
+      "pandal_id": "P209",
+      "pandal_name": "FD Block",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "FD Block in Salt Lake is showcasing a 2026 Durga Puja pandal with themes such as Nakshikanar Math and Bindu, and artwork by Prasanta/Prashanta Pal."
+    },
+    "P210": {
+      "pandal_id": "P210",
+      "pandal_name": "AE Block",
+      "theme": "Forest Light",
+      "artist": null,
+      "idol_maker": null,
+      "description": "AE Block's 2026 pandal featured the \"Forest Light\" theme."
+    },
+    "P211": {
+      "pandal_id": "P211",
+      "pandal_name": "BJ Block",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "The BJ Block Durga Puja 2026 features a Somnath Temple‑themed pandal and a massive Saraswati idol."
+    },
+    "P212": {
+      "pandal_id": "P212",
+      "pandal_name": "Aswininagar Bandhu Mahal",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Aswininagar Bandhu Mahal Club, a registered member of the Forum for Durgotsab, is promoting its 2026 Durga Puja celebrations."
+    },
+    "P213": {
+      "pandal_id": "P213",
+      "pandal_name": "Rail Pukur United Club",
+      "theme": "Collage",
+      "artist": "Souradeep Mukherjee",
+      "idol_maker": null,
+      "description": "Rail Pukur United Club in Baguiati is celebrating its 73rd Durga Puja in 2026 with the theme 'Collage'."
+    },
+    "P214": {
+      "pandal_id": "P214",
+      "pandal_name": "Chinar Park Adhibasibrinda",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Chinar Park Adhibasibrinda is a Durga Puja pandal located in North Kolkata."
+    },
+    "P215": {
+      "pandal_id": "P215",
+      "pandal_name": "EC Block",
+      "theme": null,
+      "artist": "Samrat Bhattacharjee",
+      "idol_maker": null,
+      "description": "EC Block Residents Association celebrated its 50th year in 2026 with a mythological theme called 'Akkhayani' and featured artwork by Samrat Bhattacharjee."
+    },
+    "P216": {
+      "pandal_id": "P216",
+      "pandal_name": "AK Block",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P217": {
+      "pandal_id": "P217",
+      "pandal_name": "Prafullakanan Paschim Adhibasi Brinda",
+      "theme": null,
+      "artist": null,
+      "idol_maker": "Krishanu Pal",
+      "description": "Prafullakanan Paschim Adhibasi Brinda is a long‑standing community cultural centre in Prafulla Kanan, Kolkata, whose 2026 Durga Puja featured idol work by Krishanu Pal."
+    },
+    "P218": {
+      "pandal_id": "P218",
+      "pandal_name": "Masterda Smriti Sangha",
+      "theme": "Mukti Ore Mukti Kothay Pabi",
+      "artist": "Manas Ray",
+      "idol_maker": "Sonatan Paul",
+      "description": "Masterda Smriti Sangha's 2026 Durga Puja features the theme 'Mukti Ore Mukti Kothay Pabi' with theme artist Manas Ray and idol artist Sonatan Paul."
+    },
+    "P219": {
+      "pandal_id": "P219",
+      "pandal_name": "New Town Sarbojanin",
+      "theme": "Padmabhushan",
+      "artist": null,
+      "idol_maker": "Subrata Mridha",
+      "description": "New Town Sarbojanin Durga Puja 2026 features the Padmabhushan theme and idols crafted by Subrata Mridha."
+    },
+    "P220": {
+      "pandal_id": "P220",
+      "pandal_name": "Salkia Alapani",
+      "theme": "Durga Puja",
+      "artist": null,
+      "idol_maker": null,
+      "description": "Salkia Alapani Club in Howrah's Mali Panchghara is set to showcase a Durga Puja theme for its 2026 pandal."
+    },
+    "P221": {
+      "pandal_id": "P221",
+      "pandal_name": "Bantra Mohila Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": "Bantra Mohila Sangha is a registered member of the Forum for Durgotsab and is participating in Durga Puja 2026."
+    },
+    "P222": {
+      "pandal_id": "P222",
+      "pandal_name": "Olaibibitola Sarbojanin",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    },
+    "P223": {
+      "pandal_id": "P223",
+      "pandal_name": "Kalyani ITI More",
+      "theme": "The Swe Taw Myat Pagoda of Yangon, Myanmar",
+      "artist": null,
+      "idol_maker": "Pradip Rudra Pal",
+      "description": "Kalyani ITI More Durga Puja 2026 features a Myanmar-inspired Buddha Temple theme titled 'The Swe Taw Myat Pagoda of Yangon, Myanmar' with a Durga idol crafted by Pradip Rudra Pal."
+    },
+    "P224": {
+      "pandal_id": "P224",
+      "pandal_name": "Ichapur Shivaji Sangha",
+      "theme": null,
+      "artist": null,
+      "idol_maker": null,
+      "description": null
+    }
+  }
+}

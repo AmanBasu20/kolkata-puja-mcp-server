@@ -1,0 +1,956 @@
+{
+  "generated_at": "2026-10-07",
+  "generated_year": 2026,
+  "selection_version": "2.0",
+  "target_count": 48,
+  "actual_count": 48,
+  "selection_method": {
+    "base_dataset": "pandals_2026.json",
+    "external_2026_evidence": "KolkataKhoj 2026 Pandal Passport / guides plus current 2026 area sources",
+    "planned_route_bonus_used_when_available": true,
+    "no_zero_evidence_fillers": true,
+    "note": "This file is a source-supported enrichment shortlist. Evidence tier A is stronger than tier B; popularity claims should follow the evidence tier."
+  },
+  "regional_counts": {
+    "North Kolkata": 12,
+    "South Kolkata": 16,
+    "Central Kolkata": 8,
+    "East / Salt Lake": 12
+  },
+  "pandals": [
+    {
+      "id": "P052",
+      "name": "Muhammad Ali Park",
+      "region": "Central Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see major pandal",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R001"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/best-durga-puja-pandals-kolkata/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P053",
+      "name": "College Square",
+      "region": "Central Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see major pandal",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R001"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/best-durga-puja-pandals-kolkata/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P050",
+      "name": "Santosh Mitra Square",
+      "region": "Central Kolkata",
+      "priority_score": 10,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see Central grouping"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://www.pujomap.com/p/santosh-mitra-square"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P057",
+      "name": "Janbazar Rajbari",
+      "region": "Central Kolkata",
+      "priority_score": 10,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 heritage must-see"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/durga-puja-pandal-hopping-by-metro/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P054",
+      "name": "Sealdah Athletic Club",
+      "region": "Central Kolkata",
+      "priority_score": 7,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 central metro/route candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/adda/durga-puja-pandal-hopping-by-metro/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P055",
+      "name": "Subodh Mallick Square",
+      "region": "Central Kolkata",
+      "priority_score": 7,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 central metro/route candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/adda/durga-puja-pandal-hopping-by-metro/",
+        "https://www.pujomap.com/p/subodh-mullick-sqr"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P056",
+      "name": "Kapalitola Sarbajanin",
+      "region": "Central Kolkata",
+      "priority_score": 7,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 central metro/route candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/adda/durga-puja-pandal-hopping-by-metro/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P058",
+      "name": "Taltala Sarbojanin",
+      "region": "Central Kolkata",
+      "priority_score": 7,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 central metro/route candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/durga-puja-pandal-hopping-by-metro/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P208",
+      "name": "Sree Bhumi Sporting Club",
+      "region": "East / Salt Lake",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 East major / Sreebhumi",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R004"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/guides/durga-puja/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P209",
+      "name": "FD Block",
+      "region": "East / Salt Lake",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 Salt Lake must-see",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R004"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://www.pujomap.com/p/fd-block-durga-puja"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P210",
+      "name": "AE Block",
+      "region": "East / Salt Lake",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 Salt Lake must-see",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R004"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://www.pujomap.com/p/ae-block-durga-puja-part-1"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P211",
+      "name": "BJ Block",
+      "region": "East / Salt Lake",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 Salt Lake must-see",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R004"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://www.pujomap.com/p/bj-block-durga-puja"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P219",
+      "name": "New Town Sarbojanin",
+      "region": "East / Salt Lake",
+      "priority_score": 10,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 East/New Town candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P212",
+      "name": "Aswininagar Bandhu Mahal",
+      "region": "East / Salt Lake",
+      "priority_score": 7,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 East passport candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P213",
+      "name": "Rail Pukur United Club",
+      "region": "East / Salt Lake",
+      "priority_score": 7,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 East passport candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P214",
+      "name": "Chinar Park Adhibasibrinda",
+      "region": "East / Salt Lake",
+      "priority_score": 7,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 East passport candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P215",
+      "name": "EC Block",
+      "region": "East / Salt Lake",
+      "priority_score": 7,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 Salt Lake candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P216",
+      "name": "AK Block",
+      "region": "East / Salt Lake",
+      "priority_score": 7,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 Salt Lake candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P217",
+      "name": "Prafullakanan Paschim Adhibasi Brinda",
+      "region": "East / Salt Lake",
+      "priority_score": 7,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 East passport candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P218",
+      "name": "Masterda Smriti Sangha",
+      "region": "East / Salt Lake",
+      "priority_score": 7,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 East passport candidate"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P001",
+      "name": "Tala Prattay",
+      "region": "North Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see North",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R004"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P002",
+      "name": "Dumdum Park Bharat Chakra",
+      "region": "North Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see North",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R004"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P004",
+      "name": "Nalin Sarkar Street",
+      "region": "North Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see North",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R001"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P005",
+      "name": "Kashi Bose Lane",
+      "region": "North Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see North",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R001"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P014",
+      "name": "Telengabagan",
+      "region": "North Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see North",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R004"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P016",
+      "name": "Baghbazar Sarbojanin",
+      "region": "North Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see North",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R001"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/best-durga-puja-pandals-kolkata/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P019",
+      "name": "Hatibagan Sarbojonin",
+      "region": "North Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see North",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R001"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/best-durga-puja-pandals-kolkata/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P021",
+      "name": "Sovabazar Rajbari",
+      "region": "North Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see heritage North",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R003"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/best-durga-puja-pandals-kolkata/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P024",
+      "name": "Kumartuli Park",
+      "region": "North Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see North",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R001"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/best-durga-puja-pandals-kolkata/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P029",
+      "name": "Chaltabagan Lohapatty",
+      "region": "North Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see North",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R001"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P003",
+      "name": "Dumdum Park Tarun Dal",
+      "region": "North Kolkata",
+      "priority_score": 9,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 North/Lake Town belt route candidate",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R004"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/guides/durga-puja/",
+        "https://kolkatakhoj.com/adda/durga-puja-pandal-hopping-by-metro/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P023",
+      "name": "Kumartuli Sarbojanin",
+      "region": "North Kolkata",
+      "priority_score": 9,
+      "evidence_tier": "B",
+      "selection_reason": [
+        "2026 major Kumartuli route candidate",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R001"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/durga-puja-pandal-hopping-by-metro/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P082",
+      "name": "Suruchi Sangha",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/guides/durga-puja/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P083",
+      "name": "Chetla Agrani",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/guides/durga-puja/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P084",
+      "name": "Tridhara Sammilani",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/best-durga-puja-pandals-kolkata/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P085",
+      "name": "Ballygunge Cultural",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/durga-puja-2026-pandal-themes/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P091",
+      "name": "66 Pally",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/durga-puja-pandal-hopping-by-metro/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P092",
+      "name": "Badamtala Ashar Sangha",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/durga-puja-pandal-hopping-by-metro/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P093",
+      "name": "Deshapriya Park",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/best-durga-puja-pandals-kolkata/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P096",
+      "name": "Singhi Park",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/best-durga-puja-pandals-kolkata/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P097",
+      "name": "Ekdalia Evergreen",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/durga-puja-2026-pandal-themes/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P098",
+      "name": "Bosepukur Sitala Mandir",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/best-durga-puja-pandals-kolkata/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P100",
+      "name": "Shib Mandir",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/durga-puja-pandal-hopping-by-metro/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P101",
+      "name": "Mudiali",
+      "region": "South Kolkata",
+      "priority_score": 12,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South",
+        "planned_route_coverage"
+      ],
+      "route_count": 1,
+      "must_see_route_count": 0,
+      "planned_routes": [
+        "R002"
+      ],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/",
+        "https://kolkatakhoj.com/adda/best-durga-puja-pandals-kolkata/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P090",
+      "name": "Bakul Bagan",
+      "region": "South Kolkata",
+      "priority_score": 10,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P109",
+      "name": "Barisha Club",
+      "region": "South Kolkata",
+      "priority_score": 10,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P112",
+      "name": "Naktala Udayan Sangha",
+      "region": "South Kolkata",
+      "priority_score": 10,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    },
+    {
+      "id": "P119",
+      "name": "Santoshpur Lake Pally",
+      "region": "South Kolkata",
+      "priority_score": 10,
+      "evidence_tier": "A",
+      "selection_reason": [
+        "2026 top/must-see South"
+      ],
+      "route_count": 0,
+      "must_see_route_count": 0,
+      "planned_routes": [],
+      "evidence_sources": [
+        "https://kolkatakhoj.com/durga-puja-2026/"
+      ],
+      "evidence_status": "source_supported_2026_candidate"
+    }
+  ]
+}
