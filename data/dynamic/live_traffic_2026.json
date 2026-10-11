@@ -1,20 +1,18 @@
 {
   "dataset_name": "Kolkata Live Traffic Advisories",
   "provenance": "Official Kolkata Police Facebook Updates (#kolkatatrafficupdate)",
-  "last_collected_at": "2026-10-11T12:42:09.595373+00:00",
-  "historical_events_count": 4,
+  "last_collected_at": "2026-10-11T13:07:14.567489+00:00",
+  "historical_events_count": 5,
   "latest_state_per_location": {
     "RR Avenue": {
-      "traffic_status": "closed",
-      "cause": "programme",
-      "directions": {
-        "flank": "middle flank"
-      },
-      "raw_clause": "Traffic update:- Due to a programme, southern and middle flank of RR Avenue has been closed for vehicular traffic. #Kolkatatrafficupdate Like Comment",
-      "original_message": "Traffic update:- Due to a programme, southern and middle flank of RR Avenue has been closed for vehicular traffic. #Kolkatatrafficupdate Like Comment",
-      "posted_at": "2026-10-11T10:56:15.811650+00:00",
+      "traffic_status": "normal",
+      "cause": "unknown",
+      "directions": {},
+      "raw_clause": "Traffic update:- RR Avenue has been released for vehicular traffic. #Kolkatatrafficupdate",
+      "original_message": "Traffic update:- RR Avenue has been released for vehicular traffic. #Kolkatatrafficupdate",
+      "posted_at": "2026-10-11T12:44:14.567489+00:00",
       "timestamp_precision": "relative",
-      "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid0EQfR3xwm1c7S92KFJmjjo1cmwLtkFLevmgFapn9yiaibUDV5oKoLCCJfmScrf53Jl"
+      "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid02CxMPVX2giWm1frTPrTiUxZUT9WUEsRmbTwhiKCuDyUQdDDeafBrcvAucsDRUEBpTl"
     },
     "flank of RR Avenue": {
       "traffic_status": "closed",
@@ -40,6 +38,30 @@
     }
   },
   "historical_records": [
+    {
+      "id": "KP-LIVE-FB-pfbid02CxMPVX2giWm1frTPrTiUxZUT9WUEsRmbTwhiKCuDyUQdDDeafBrcvAucsDRUEBpTl",
+      "post_id": "pfbid02CxMPVX2giWm1frTPrTiUxZUT9WUEsRmbTwhiKCuDyUQdDDeafBrcvAucsDRUEBpTl",
+      "locations": [
+        "RR Avenue"
+      ],
+      "clause_states": [
+        {
+          "locations": [
+            "RR Avenue"
+          ],
+          "traffic_status": "normal",
+          "cause": "unknown",
+          "directions": {},
+          "raw_clause": "Traffic update:- RR Avenue has been released for vehicular traffic. #Kolkatatrafficupdate"
+        }
+      ],
+      "message": "Traffic update:- RR Avenue has been released for vehicular traffic. #Kolkatatrafficupdate",
+      "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid02CxMPVX2giWm1frTPrTiUxZUT9WUEsRmbTwhiKCuDyUQdDDeafBrcvAucsDRUEBpTl",
+      "source_page": "KolkataTrafficPolice",
+      "posted_at": "2026-10-11T12:44:14.567489+00:00",
+      "timestamp_precision": "relative",
+      "collected_at": "2026-10-11T13:07:14.567489+00:00"
+    },
     {
       "id": "KP-LIVE-FB-pfbid02KmFoiN9jhe88P1fGHK16hkCMx66EV5Cmf3Lj2hYDtvxXSt44xK2pe8WabJcCKjDVl",
       "post_id": "pfbid02KmFoiN9jhe88P1fGHK16hkCMx66EV5Cmf3Lj2hYDtvxXSt44xK2pe8WabJcCKjDVl",
