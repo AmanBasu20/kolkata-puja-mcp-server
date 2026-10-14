@@ -178,5 +178,14 @@
     "post_datetime": "2026-10-14T08:23:16+00:00",
     "validated_at": "2026-10-14T13:15:17Z",
     "approved_at": null
+  },
+  "d97810236e9fc0c99496867fef94d88afb361d4aebebd9ac95021d2ed49671c0": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image clearly features a Durga idol and the mandap (shrine) structure, including detailed artwork of the goddess and accompanying deities, framed by the pandal's interior architecture.",
+    "post_datetime": "2026-10-14T13:31:12+00:00",
+    "validated_at": "2026-10-14T13:45:25Z",
+    "approved_at": "2026-10-14T13:45:25Z"
   }
 }
