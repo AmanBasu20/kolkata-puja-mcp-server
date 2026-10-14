@@ -15,7 +15,7 @@
     "image_rule": "images must belong to the selected recent Facebook post",
     "collection_method": "scrapebadger_facebook_page_posts_plus_post_details"
   },
-  "last_run": "2026-10-14T18:57:15Z",
+  "last_run": "2026-10-14T20:35:16Z",
   "records": [
     {
       "pandal_id": "P001",
@@ -29,16 +29,16 @@
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/559946623_1239394974901016_6724545440198684146_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=y_3FvlD8CAgQ7kNvwG5y6K2&_nc_oc=AdonbdG-bLuBR9hGh-59hYYNFKlkbHt7tFn8t7u8TUdJmG4EIZojJhWx9eE458N-Dqc&_nc_zt=24&_nc_ht=scontent-hou1-1.xx&_nc_gid=F8iOluAeAoFuHrpIJE-9IQ&_nc_ss=79180&oh=00_AQOy1jPH_RubqLgzTWaU6uFTek6ufgUbbIyRtlkdRg29Cw&oe=6AD5A09C",
+          "url": "https://scontent-den2-1.xx.fbcdn.net/v/t39.30808-1/559946623_1239394974901016_6724545440198684146_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=y_3FvlD8CAgQ7kNvwEnfSZI&_nc_oc=AdocgChHrSQS4KY3GN2X3chg2uEvlHa9Ecm6FDD8Q_FJzj8Fzhw6bgy3kpsZ99NevLA&_nc_zt=24&_nc_ht=scontent-den2-1.xx&_nc_gid=99JH8TX1Eii584MCdkmStA&_nc_ss=79180&oh=00_AQPFTawU3HnWMSy6_81VHynrwfVyh5hXjCF7KDXlre0rWg&oe=6AD5A09C",
           "status": "pending",
           "post_datetime": "2026-10-14T13:53:10+00:00",
           "post_url": "https://facebook.com/reel/1847824542767371",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T18:50:44Z"
+          "last_checked_at": "2026-10-14T20:28:04Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:50:38Z",
+      "last_scraped_at": "2026-10-14T20:27:59Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -54,16 +54,16 @@
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t1.6435-1/51128867_1005677146296923_7544632692814381056_n.jpg?stp=c15.15.770.770a_cp0_dst-jpg_s50x50_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=z6ypmTNiju8Q7kNvwHH2fqt&_nc_oc=Ado7GVHhUo56R4fYgLCUQ0V-lCnM36BRLPbyR3fW0qkUvS5mgIYspaHS2Rmsnuub_pg&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=lQpyK-jRlZsbtEG4IJ-0RQ&_nc_ss=79180&oh=00_AQPVJT8OVssuxpuB_8Zp17Y5ZE9Hg2BglBCPQD-ylQTvYw&oe=6AF75761",
+          "url": "https://scontent-mia3-3.xx.fbcdn.net/v/t1.6435-1/51128867_1005677146296923_7544632692814381056_n.jpg?stp=c15.15.770.770a_cp0_dst-jpg_s50x50_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=z6ypmTNiju8Q7kNvwETzoMZ&_nc_oc=Ado5K44lGIXfEZndoTy9Esh-KKBRDF8QV4E9nAyg_njxlfLJRoe7QXYfTGzX3eIC1Vw&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&_nc_gid=amfr6PVsYgd_X6stMva0Jg&_nc_ss=79180&oh=00_AQN8IvVthZC0m6IHddYtK-SOTX_aoa6Ea-AHtlOp3POsAw&oe=6AF75761",
           "status": "pending",
           "post_datetime": "2026-10-14T15:10:31+00:00",
           "post_url": "https://facebook.com/reel/1594821861627273",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T18:50:52Z"
+          "last_checked_at": "2026-10-14T20:28:17Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:50:48Z",
+      "last_scraped_at": "2026-10-14T20:28:12Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -72,23 +72,23 @@
       "name": "Dumdum Park Tarun Dal",
       "facebook_page": "https://facebook.com/dumdumparktarunsanghaofficial",
       "facebook_verified": true,
-      "latest_update": "আল্ট্রাটেক ৭ ওয়ান্ডারে সেরা ৩০-এ দমদম পার্ক তরুণ সংঘ! . . . #durgapuja #BeniaKotha . . . [ dum dum park tarun sangha, durga puja, benia kotha ]",
-      "latest_announcement": "আল্ট্রাটেক ৭ ওয়ান্ডারে সেরা ৩০-এ দমদম পার্ক তরুণ সংঘ! . . . #durgapuja #BeniaKotha . . . [ dum dum park tarun sangha, durga puja, benia kotha ]",
-      "latest_post_date": "2026-10-14T16:04:11+00:00",
-      "latest_post_url": "https://facebook.com/reel/1110075948181316",
+      "latest_update": "চতুর্থীর রাত বাড়তেই দমদম পার্ক তরুণ সংঘে উপচে পড়া ভিড়, সবাই মুগ্ধ ইতিহাসের পাতায় মোড়া মণ্ডপে! . . . #DurgaPuja . . . [ dum dum park tarun sangha, benia kotha, durga puja 2026 ]",
+      "latest_announcement": "চতুর্থীর রাত বাড়তেই দমদম পার্ক তরুণ সংঘে উপচে পড়া ভিড়, সবাই মুগ্ধ ইতিহাসের পাতায় মোড়া মণ্ডপে! . . . #DurgaPuja . . . [ dum dum park tarun sangha, benia kotha, durga puja 2026 ]",
+      "latest_post_date": "2026-10-14T20:28:12+00:00",
+      "latest_post_url": "https://facebook.com/reel/2137233867216829",
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/345905158_1473911890084253_3552565645781296680_n.jpg?stp=c91.0.1707.1707a_cp0_dst-jpg_s50x50_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ds7OLQ_Q1XkQ7kNvwH1LtQu&_nc_oc=AdpOOrL4Qv2jkCvRzkKEFS93dY2Hd9EKXP4x57kX2MON7sXupZBg1r6Bo6KMhHNFqe0&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=_bTkwMjgpTZ7RIODh687kg&_nc_ss=79180&oh=00_AQOx1rWx9XXJvdSMCsvLYDtd5ljsS9ilc3QdYJyTSst9og&oe=6AD5BB0D",
+          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/345905158_1473911890084253_3552565645781296680_n.jpg?stp=c91.0.1707.1707a_cp0_dst-jpg_s50x50_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ds7OLQ_Q1XkQ7kNvwG0kFo8&_nc_oc=Adrw7XAEZVUXcsEKNwZnCg9rxTNFSYO5YvqqauDQtykUi_CecKrknNBfyc5vod4rgpc&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&_nc_gid=awy40LeYscBPtliZj2jC-g&_nc_ss=79180&oh=00_AQNpVilvNyvjuIXZycl8IlSpYW-bNymZqm1of3_RapoQTg&oe=6AD5BB0D",
           "status": "pending",
-          "post_datetime": "2026-10-14T16:04:11+00:00",
-          "post_url": "https://facebook.com/reel/1110075948181316",
+          "post_datetime": "2026-10-14T20:28:12+00:00",
+          "post_url": "https://facebook.com/reel/2137233867216829",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T18:51:00Z"
+          "last_checked_at": "2026-10-14T20:28:24Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:50:55Z",
+      "last_scraped_at": "2026-10-14T20:28:19Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -104,16 +104,16 @@
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent.fric1-2.fna.fbcdn.net/v/t39.30808-1/309391304_473348424835507_2440024913095063715_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ZcGRL_QaDIAQ7kNvwHgUoAj&_nc_oc=AdqyojHVr8-4VCc4okFHtLR5p_oSIVGSTS0q-M059NBle-V459FXd464pAlz7GfK2vw&_nc_zt=24&_nc_ht=scontent.fric1-2.fna&_nc_gid=s0onqcwOpZbTW4nSTTddCg&_nc_ss=79180&oh=00_AQNetBUM6WOkV6Wo7rH1cxz54TbOBbJV7gRPADR87Yl59A&oe=6AD59356",
+          "url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/309391304_473348424835507_2440024913095063715_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=102&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ZcGRL_QaDIAQ7kNvwFOg54E&_nc_oc=AdoZ_5hREG6zvqKdpXwL56IinQGTj3s9kk4eoz2BDE9ZQsSpwoWOOeNSeP2VJpvYvm4&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=96TGErc_3NO10KBqahvS2g&_nc_ss=79180&oh=00_AQORl_mCKPnINIsmkzELVR6rz-WhkRnJZuG29AyOJy6_Qw&oe=6AD5CB96",
           "status": "pending",
           "post_datetime": "2026-10-14T18:40:02+00:00",
           "post_url": "https://facebook.com/NalinSarkarStreetSarbojoninDurgotsab/videos/2115238685749608",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T18:51:50Z"
+          "last_checked_at": "2026-10-14T20:29:09Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:51:42Z",
+      "last_scraped_at": "2026-10-14T20:29:04Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -129,16 +129,16 @@
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/835677697_1529375992557608_3451974306918448479_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=zDWDIsYCp0IQ7kNvwEEOADC&_nc_oc=Adq0mvOPodoDV9L9O3wwK_RoYAxIyIlzppmsz77ppjDiQQH6tWPpOhNMpLcx6YO2KII&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=DfLw9CbcniLEIPsPTbifOQ&_nc_ss=79180&oh=00_AQOk60bQrWc51ONcb0SFj5w7uYU4h02vAt6PbXmvoaER5Q&oe=6AD5A104",
+          "url": "https://scontent.fhnl3-2.fna.fbcdn.net/v/t39.30808-1/835677697_1529375992557608_3451974306918448479_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=zDWDIsYCp0IQ7kNvwE6dJDN&_nc_oc=AdpUFOIR8Eq8MCllfWEGSEr4fJUxHwBpO7vti3Zv7AUccuC1CdK8Vqz_ThYTauAFdZ0&_nc_zt=24&_nc_ht=scontent.fhnl3-2.fna&_nc_gid=hY2UDPp4te8uxFjwmO-rnA&_nc_ss=79180&oh=00_AQOVYu8kcxmC7B-VXBpOSzvIChx5LKNWbbs7vaWWMLFc5g&oe=6AD5A104",
           "status": "pending",
           "post_datetime": "2026-10-14T16:54:11+00:00",
           "post_url": "https://facebook.com/reel/2069759640334842",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T18:51:58Z"
+          "last_checked_at": "2026-10-14T20:29:25Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:51:53Z",
+      "last_scraped_at": "2026-10-14T20:29:16Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -154,7 +154,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:52:01Z",
+      "last_scraped_at": "2026-10-14T20:29:29Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -170,7 +170,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T18:52:49Z",
+      "last_scraped_at": "2026-10-14T20:30:09Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -186,16 +186,16 @@
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/846377922_1762182595907719_4468825565474054128_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=XP0qMDDk6H8Q7kNvwEyilM_&_nc_oc=AdqxzFN3mbmP9KXmQBg02GTQpA-WuNYoMpj3dA_t7ZyAhJbjZ9ZB-wBLYU0vVRdmJZQ&_nc_zt=24&_nc_ht=scontent-hou1-1.xx&_nc_gid=FI0zNUMVeMmyHE2HfJP88w&_nc_ss=79180&oh=00_AQP6wI_LPe2wlpHdl51QJ6Oqfynh1oDzoKEM2Os4CG9Jhw&oe=6AD5BB5E",
+          "url": "https://scontent.fmem1-1.fna.fbcdn.net/v/t39.30808-1/846377922_1762182595907719_4468825565474054128_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=XP0qMDDk6H8Q7kNvwGwjrbC&_nc_oc=AdqMgRQnxWXZX99f4UD3j9MrTgTygQvvfmoPCL6xvPc1DezX0v9w53MgWap8XKf4aNQ&_nc_zt=24&_nc_ht=scontent.fmem1-1.fna&_nc_gid=gf9iEGz0zwPkt3OPtNYa9w&_nc_ss=79180&oh=00_AQO5kgt_mZa8CMf3SbbPmMJTbKvzatfR1weRyuu1XfgMHA&oe=6AD5BB5E",
           "status": "pending",
           "post_datetime": "2026-10-14T11:25:06+00:00",
           "post_url": "https://facebook.com/reel/1689212085958493",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T18:53:00Z"
+          "last_checked_at": "2026-10-14T20:30:26Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:52:56Z",
+      "last_scraped_at": "2026-10-14T20:30:20Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -211,7 +211,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T18:53:03Z",
+      "last_scraped_at": "2026-10-14T20:30:29Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -226,7 +226,19 @@
       "latest_post_url": "https://facebook.com/permalink.php?story_fbid=pfbid031TjXgv9W2ta5aDF6PJwoEPByUMyBnarYNCRZwXy5DVbEzsGRwWprJSvDYzufx6rbl&id=100069907448030",
       "images": [
         {
-          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/846395541_1404423161897919_3837817791240105680_n.jpg?stp=dst-jpg_tt6&cstp=mx1320x1284&ctp=s590x590&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Z17wxZ5AGtsQ7kNvwH-xbGB&_nc_oc=AdobHgJJF962PC3Tikw23pbvO4W79Og6mi3yFwmpmLKLaZUr-ZV_xCgcvIYZICJLCMo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ll3-44YoLBa4jDDVooUOAg&_nc_ss=79289&oh=00_AQOKU47M7gjMWW-ruFpsDZD7fFMpLvdKIYZUk5koWhZKLg&oe=6AD59E25",
+          "url": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/846395541_1404423161897919_3837817791240105680_n.jpg?stp=dst-jpg_tt6&cstp=mx1320x1284&ctp=s590x590&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OMoxq4eoWrUQ7kNvwE6BUGw&_nc_oc=AdrNf2E-i_PekGQHbGwnfISJBNqwQjEo1gRtG56_Z_eBZY3TRzoG_Da4_Z6Kf6msgoE&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=Kw-nb3O0SwSDGJCZDszcYw&_nc_ss=79289&oh=00_AQMvJbdawPi4gOASVsyeBvThVyyRX4La5AnR1X_qWnToAg&oe=6AD59E25",
+          "local_file": "data/dynamic/facebook_images_2026/P024_1960a98d55dee47b.jpg",
+          "sha256": "1960a98d55dee47b5203c632a595bfcf1ac6a3d9d4466deb6e79f03944f9644e",
+          "source": "scrapebadger",
+          "post_datetime": "2026-10-14T17:49:55+00:00",
+          "post_url": "https://facebook.com/permalink.php?story_fbid=pfbid031TjXgv9W2ta5aDF6PJwoEPByUMyBnarYNCRZwXy5DVbEzsGRwWprJSvDYzufx6rbl&id=100069907448030",
+          "validated_by": "cached_vision",
+          "confidence": 0.85,
+          "reason": "The image shows a ceremonial event (likely a lamp lighting or inauguration) taking place inside a Durga Puja pandal. The background clearly features the interior architecture of the venue, including a large arched structure, ceiling beams, and specific lighting (orange and blue hues) typical of a pandal setting. Although the focus is on the people, the setting is a legitimate part of the pandal.",
+          "approved_at": "2026-10-14T18:53:57Z"
+        },
+        {
+          "url": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/846395541_1404423161897919_3837817791240105680_n.jpg?stp=dst-jpg_tt6&cstp=mx1320x1284&ctp=s590x590&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OMoxq4eoWrUQ7kNvwE6BUGw&_nc_oc=AdrNf2E-i_PekGQHbGwnfISJBNqwQjEo1gRtG56_Z_eBZY3TRzoG_Da4_Z6Kf6msgoE&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=Kw-nb3O0SwSDGJCZDszcYw&_nc_ss=79289&oh=00_AQMvJbdawPi4gOASVsyeBvThVyyRX4La5AnR1X_qWnToAg&oe=6AD59E25",
           "local_file": "data/dynamic/facebook_images_2026/P024_1960a98d55dee47b.jpg",
           "sha256": "1960a98d55dee47b5203c632a595bfcf1ac6a3d9d4466deb6e79f03944f9644e",
           "source": "scrapebadger",
@@ -235,12 +247,36 @@
           "validated_by": "qwen/qwen3.8-27b",
           "confidence": 0.85,
           "reason": "The image shows a ceremonial event (likely a lamp lighting or inauguration) taking place inside a Durga Puja pandal. The background clearly features the interior architecture of the venue, including a large arched structure, ceiling beams, and specific lighting (orange and blue hues) typical of a pandal setting. Although the focus is on the people, the setting is a legitimate part of the pandal.",
-          "approved_at": "2026-10-14T18:53:57Z"
+          "approved_at": "2026-10-14T20:31:21Z"
+        },
+        {
+          "url": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/847978974_1404423791897856_5619895019215883011_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s590x590&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OYwHxhQ5hB8Q7kNvwHwJOsO&_nc_oc=AdrziP04fCopV-X7DQdai42lkt8WtE0aLTUx4yyz2zfi5s7wNumdkpZQj3QfryopnrI&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=Kw-nb3O0SwSDGJCZDszcYw&_nc_ss=79289&oh=00_AQN5hB45UJz3d1MhJ0tth0IMIiRuSDcpcVDGSz0rH506VA&oe=6AD5D205",
+          "local_file": "data/dynamic/facebook_images_2026/P024_212fd9491f3acb4c.jpg",
+          "sha256": "212fd9491f3acb4cba77d7fb80982e9f1b08b537b2e90238afb85e5b6a42f123",
+          "source": "scrapebadger",
+          "post_datetime": "2026-10-14T17:49:55+00:00",
+          "post_url": "https://facebook.com/permalink.php?story_fbid=pfbid031TjXgv9W2ta5aDF6PJwoEPByUMyBnarYNCRZwXy5DVbEzsGRwWprJSvDYzufx6rbl&id=100069907448030",
+          "validated_by": "qwen/qwen3.8-27b",
+          "confidence": 0.95,
+          "reason": "The image clearly features a large, illuminated Durga idol with multiple arms and a lion, set within a decorated pandal structure with blue lighting and architectural elements. Although there are people posing in front of the idol, the idol and the pandal environment are the primary subjects, fitting the criteria for acceptance.",
+          "approved_at": "2026-10-14T20:31:43Z"
+        },
+        {
+          "url": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/846593144_1404423801897855_4877999789465374844_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s590x590&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LH7KobL_PHIQ7kNvwHLbCOx&_nc_oc=AdrywJtoOxLen3D1L4ThekaLPqM87jZAdaNY5OmzcJwBRiIOB8RdL1gk-DTDuVYFCjY&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=Kw-nb3O0SwSDGJCZDszcYw&_nc_ss=79289&oh=00_AQNe0fOcccem7TdKZQ3Mw72mb5ND0AoYs0_S4ylQ4SFdJA&oe=6AD5A340",
+          "local_file": "data/dynamic/facebook_images_2026/P024_2872a08252a2eaeb.jpg",
+          "sha256": "2872a08252a2eaebdaac103c158ce2b978372b2847e9c1a5ef196349c3a54ae7",
+          "source": "scrapebadger",
+          "post_datetime": "2026-10-14T17:49:55+00:00",
+          "post_url": "https://facebook.com/permalink.php?story_fbid=pfbid031TjXgv9W2ta5aDF6PJwoEPByUMyBnarYNCRZwXy5DVbEzsGRwWprJSvDYzufx6rbl&id=100069907448030",
+          "validated_by": "qwen/qwen3.8-27b",
+          "confidence": 0.95,
+          "reason": "The image clearly shows a Durga Puja pandal interior featuring a large, detailed idol of a lion (likely part of the Durga mandap) and a themed architectural background with arches and pillars illuminated in blue light. People are seen visiting the idol, confirming it is a festival venue.",
+          "approved_at": "2026-10-14T20:32:03Z"
         }
       ],
       "pending_images": [],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:53:48Z",
+      "last_scraped_at": "2026-10-14T20:31:12Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -256,16 +292,16 @@
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/327179964_1147500739255099_7021916549925467715_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=JYV4-9nIbSUQ7kNvwEWP4VZ&_nc_oc=AdrS020rCmhmACoZzxv-ttz_cF-2XIL_sRwSMNdI7Xgy3gkJqntbSWBF3s2qV1DfR58&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=9fQ-oB2-_uroFm6GJNthKA&_nc_ss=79180&oh=00_AQNO-RZqiMCEz8h63Fyj4dJEzN921xlYlf8Lrt7TL_gj8Q&oe=6AD5BDF3",
+          "url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/327179964_1147500739255099_7021916549925467715_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=-bDGFNylsL4Q7kNvwHLPMNK&_nc_oc=Adov97w5kASko9UskLucy3cRLIyvJP8-jrlsYrJ1NMTd-nRRXJYMTHWVIhQcpczTbC8&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=sfglSjf1Ay6gCDnRQR0ceA&_nc_ss=79180&oh=00_AQND_Iib1DtsAyVSPbM8dJqw4a854q0JoVg3r6UtFsAoRw&oe=6AD5BDF3",
           "status": "pending",
           "post_datetime": "2026-10-14T14:21:19+00:00",
           "post_url": "https://facebook.com/chaltabagan/videos/1602871284969565",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T18:54:02Z"
+          "last_checked_at": "2026-10-14T20:32:09Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:53:57Z",
+      "last_scraped_at": "2026-10-14T20:32:03Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -281,7 +317,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T18:54:05Z",
+      "last_scraped_at": "2026-10-14T20:32:12Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -297,7 +333,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T18:54:50Z",
+      "last_scraped_at": "2026-10-14T20:32:17Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -306,14 +342,14 @@
       "name": "Sealdah Athletic Club",
       "facebook_page": "https://facebook.com/www.srac.in",
       "facebook_verified": true,
-      "latest_update": null,
-      "latest_announcement": null,
-      "latest_post_date": null,
-      "latest_post_url": null,
+      "latest_update": "Our this years 2026 theme is London Bridge. There will be light show in the bridge along with automatic bridge opening. Our opening ceremony will take place on 16/10/2026. All are invited.🙏🏽",
+      "latest_announcement": "Our this years 2026 theme is London Bridge. There will be light show in the bridge along with automatic bridge opening. Our opening ceremony will take place on 16/10/2026. All are invited.🙏🏽",
+      "latest_post_date": "2026-10-14T19:20:09+00:00",
+      "latest_post_url": "https://facebook.com/www.srac.in/posts/pfbid02fpzyBhXTvdPLZRs9iUMs88wBnkuEuUZRybdqCAQda3VZQAdxedWSDDdyRm2p7J9Bl",
       "images": [],
       "pending_images": [],
-      "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T18:54:56Z",
+      "scrape_status": "success",
+      "last_scraped_at": "2026-10-14T20:32:22Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -329,7 +365,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_dated_post",
-      "last_scraped_at": "2026-10-14T18:55:02Z",
+      "last_scraped_at": "2026-10-14T20:33:09Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -345,7 +381,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T18:55:06Z",
+      "last_scraped_at": "2026-10-14T20:33:13Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -361,7 +397,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T18:55:12Z",
+      "last_scraped_at": "2026-10-14T20:33:18Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -377,7 +413,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T18:55:52Z",
+      "last_scraped_at": "2026-10-14T20:33:20Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -386,23 +422,23 @@
       "name": "Tridhara Sammilani",
       "facebook_page": "https://facebook.com/Tridharaakalbodhan",
       "facebook_verified": true,
-      "latest_update": "https://www.zee24ghanta.com/photos/badaler-bangla-kartik-maharaj-inaugurates-tridhara-sammilani-durga-puja-surasur-theme-750911",
-      "latest_announcement": "https://www.zee24ghanta.com/photos/badaler-bangla-kartik-maharaj-inaugurates-tridhara-sammilani-durga-puja-surasur-theme-750911",
-      "latest_post_date": "2026-10-14T15:23:06+00:00",
-      "latest_post_url": "https://facebook.com/Tridharaakalbodhan/posts/pfbid036xxP4YsqVy4GdDefgJo6SG9odREvu7CYe5ERJBUmgHadDo22p64tDGgh9uV2aYzDl",
+      "latest_update": null,
+      "latest_announcement": null,
+      "latest_post_date": "2026-10-14T19:30:02+00:00",
+      "latest_post_url": "https://facebook.com/Tridharaakalbodhan/videos/953799121129370",
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/843353617_1596686819155177_3736756941465447787_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ZF8_3WS4PQAQ7kNvwGNGywR&_nc_oc=Adr-QqoNWiH1fERMCa4A5J4yFwQat178YzyYhogSkYZ5c77HIDP7yETCXnWSRJUAjnc&_nc_zt=24&_nc_ht=scontent-mia3-1.xx&_nc_gid=Zv7ovxUdZFwsUZckrulgdw&_nc_ss=79180&oh=00_AQMsj-VvJbeOivAQiepro5TWuggJujdGjeW9yEBMsLGtoQ&oe=6AD593D4",
+          "url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/843353617_1596686819155177_3736756941465447787_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ZF8_3WS4PQAQ7kNvwGz6RVM&_nc_oc=AdqA8cUWsfes9xUc5gG7jtHE22lx_rdbf3IrT-4Q-XsOGK6mWp72nfyb3J4XuMEziCk&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=rqEAmaxA6XTpdlZahgFmyQ&_nc_ss=79180&oh=00_AQNqLfUZ3S1Pti_rMMSwHaOm16VkO0NENSKXmVbvPNzxDA&oe=6AD5CC14",
           "status": "pending",
-          "post_datetime": "2026-10-14T15:23:06+00:00",
-          "post_url": "https://facebook.com/Tridharaakalbodhan/posts/pfbid036xxP4YsqVy4GdDefgJo6SG9odREvu7CYe5ERJBUmgHadDo22p64tDGgh9uV2aYzDl",
+          "post_datetime": "2026-10-14T19:30:02+00:00",
+          "post_url": "https://facebook.com/Tridharaakalbodhan/videos/953799121129370",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T18:56:02Z"
+          "last_checked_at": "2026-10-14T20:34:12Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:55:57Z",
+      "last_scraped_at": "2026-10-14T20:33:28Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -418,16 +454,16 @@
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/843523114_1556545156509755_8721252825672355310_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=KB2NkwYgJkUQ7kNvwGOLd6V&_nc_oc=Adp1e_jFX4cWYmiPnPIW3BA2YDWWmHdfnBwBzpP_y_gZrPtTtFheuPv1KC2Q3PhxeHk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=rKLZhmoOVGQmvG9r5Meqtg&_nc_ss=79180&oh=00_AQNvrBByqyYOB7Rvlff_rZ1HbK6Gf_MLGW3H2uQ9dSvBgg&oe=6AD5BF1F",
+          "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/843523114_1556545156509755_8721252825672355310_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=KB2NkwYgJkUQ7kNvwHTdEzY&_nc_oc=Adr09mXeO9rHE1BnbfPvOsrEUhWsqy1UcLU5iq3_UTLpcfwsMPyiHP6HZLUdqPfpAeo&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=_e3lnW0dUETBhTXevTPccA&_nc_ss=79180&oh=00_AQN_PZO9a0IIKIcBqdMWSX5Dui9qcZKkbP2lv2YxCD3CGg&oe=6AD5BF1F",
           "status": "pending",
           "post_datetime": "2026-10-14T17:26:14+00:00",
           "post_url": "https://facebook.com/BCA1951/videos/1096769629664176",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T18:56:37Z"
+          "last_checked_at": "2026-10-14T20:34:20Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:56:05Z",
+      "last_scraped_at": "2026-10-14T20:34:15Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -443,16 +479,16 @@
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/742031592_1461627169341810_8938176683633028823_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=itTDddFuLuUQ7kNvwH_ZdMn&_nc_oc=AdotankVzGx3eMwAR2YxWStSshRjP7w0ti6Loq_UVxLA6QdnEykRKwLK644Hh69T23U&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&_nc_gid=EupeE0bXTLSkI7o6aPE4RQ&_nc_ss=79180&oh=00_AQMtRXezhdC8Utuo3wmONmbLPSNx191_AiqI0utheyS-vw&oe=6AD5A243",
+          "url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/742031592_1461627169341810_8938176683633028823_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=itTDddFuLuUQ7kNvwFNOPdg&_nc_oc=AdpTQ8cIhEZbs5JIhhwugtTT8yYJKoEq78XYPgSMBebloud27VRzX7FkZFST9vjiQMs&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=8p7qqML9hJcAv7E9JDbLGQ&_nc_ss=79180&oh=00_AQNO6X_2Qtj5tY3JNFjgfBSI5dz-qLR-Pu3tQarcXugnxA&oe=6AD5A243",
           "status": "pending",
           "post_datetime": "2026-10-14T15:45:48+00:00",
           "post_url": "https://facebook.com/bakulbagan/posts/pfbid02wxvyFoF7tiNHLQJsdiKYNu9sH3q9Z8Mmc7k2AFFrAFbtVfeRhkon5dzWLTw9yX72l",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T18:56:58Z"
+          "last_checked_at": "2026-10-14T20:34:28Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:56:53Z",
+      "last_scraped_at": "2026-10-14T20:34:24Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -476,9 +512,9 @@
           "last_checked_at": "2026-10-14T18:57:10Z"
         }
       ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T18:57:01Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-14T20:35:16Z",
+      "last_error": "budget_exhausted",
       "freshness_window_days": 1
     },
     {

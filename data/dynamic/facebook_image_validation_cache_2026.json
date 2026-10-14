@@ -194,7 +194,43 @@
     "confidence": 0.85,
     "reason": "The image shows a ceremonial event (likely a lamp lighting or inauguration) taking place inside a Durga Puja pandal. The background clearly features the interior architecture of the venue, including a large arched structure, ceiling beams, and specific lighting (orange and blue hues) typical of a pandal setting. Although the focus is on the people, the setting is a legitimate part of the pandal.",
     "post_datetime": "2026-10-14T17:49:55+00:00",
-    "validated_at": "2026-10-14T18:53:57Z",
-    "approved_at": "2026-10-14T18:53:57Z"
+    "validated_at": "2026-10-14T20:31:21Z",
+    "approved_at": "2026-10-14T20:31:21Z"
+  },
+  "5a02e78e39bbb08810216f03067b87c04fd970ce79c9f8b5c249146352e179f0": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.9,
+    "reason": "The image is a candid photograph of a crowd and a specific event (likely a VIP visit or inauguration) at the venue. It does not feature the Durga idol, pandal architecture, theme installations, or decorations, falling under the category of a generic event photo rather than a pandal showcase.",
+    "post_datetime": "2026-10-14T17:49:55+00:00",
+    "validated_at": "2026-10-14T20:31:22Z",
+    "approved_at": null
+  },
+  "212fd9491f3acb4cba77d7fb80982e9f1b08b537b2e90238afb85e5b6a42f123": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image clearly features a large, illuminated Durga idol with multiple arms and a lion, set within a decorated pandal structure with blue lighting and architectural elements. Although there are people posing in front of the idol, the idol and the pandal environment are the primary subjects, fitting the criteria for acceptance.",
+    "post_datetime": "2026-10-14T17:49:55+00:00",
+    "validated_at": "2026-10-14T20:31:43Z",
+    "approved_at": "2026-10-14T20:31:43Z"
+  },
+  "2872a08252a2eaebdaac103c158ce2b978372b2847e9c1a5ef196349c3a54ae7": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image clearly shows a Durga Puja pandal interior featuring a large, detailed idol of a lion (likely part of the Durga mandap) and a themed architectural background with arches and pillars illuminated in blue light. People are seen visiting the idol, confirming it is a festival venue.",
+    "post_datetime": "2026-10-14T17:49:55+00:00",
+    "validated_at": "2026-10-14T20:32:03Z",
+    "approved_at": "2026-10-14T20:32:03Z"
+  },
+  "8ffac92d66cdb14c1f161e45eed0f835ee6a700fb85498f628f53dc898a87043": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a purely text-based digital flyer/announcement for the Durga Puja committee. It features a stock photo of London (Tower Bridge) and a digital illustration of the goddess, but does not show a photograph of the actual pandal, idol, or venue architecture.",
+    "post_datetime": "2026-10-14T19:20:09+00:00",
+    "validated_at": "2026-10-14T20:33:09Z",
+    "approved_at": null
   }
 }
