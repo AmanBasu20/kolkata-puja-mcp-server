@@ -15,30 +15,30 @@
     "image_rule": "images must belong to the selected recent Facebook post",
     "collection_method": "scrapebadger_facebook_page_posts_plus_post_details"
   },
-  "last_run": "2026-10-14T13:51:16Z",
+  "last_run": "2026-10-14T18:57:15Z",
   "records": [
     {
       "pandal_id": "P001",
       "name": "Tala Prattay",
       "facebook_page": "https://facebook.com/talaprattoy",
       "facebook_verified": true,
-      "latest_update": "শুভ চতুর্থী। #chaturthi #subhochaturthi #talaprattoy2026 #talaprattoy #DurgaPuja2026",
-      "latest_announcement": "শুভ চতুর্থী। #chaturthi #subhochaturthi #talaprattoy2026 #talaprattoy #DurgaPuja2026",
-      "latest_post_date": "2026-10-14T13:15:21+00:00",
-      "latest_post_url": "https://facebook.com/reel/2133924337202538",
+      "latest_update": "Experience the journey of the soul! We are now open.... #talaprattoy2026 #biyojon #durgapuja2026 #kolkata",
+      "latest_announcement": "Experience the journey of the soul! We are now open.... #talaprattoy2026 #biyojon #durgapuja2026 #kolkata",
+      "latest_post_date": "2026-10-14T13:53:10+00:00",
+      "latest_post_url": "https://facebook.com/reel/1847824542767371",
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/559946623_1239394974901016_6724545440198684146_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=y_3FvlD8CAgQ7kNvwGsl4_x&_nc_oc=AdqxFyxqgQAHQMf4tB1mOjRhR83O4p8P4Kl3OtEbrpAZ5QxSRKW7B7Ityby_dbONvd0&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=DiTFJJKu56g6UrbN8b8kzg&_nc_ss=79180&oh=00_AQNMrdQO4JyvWtncjLd3GIHBonbzo6obAT_v8qIoWTgtaQ&oe=6AD5685C",
+          "url": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/559946623_1239394974901016_6724545440198684146_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=y_3FvlD8CAgQ7kNvwG5y6K2&_nc_oc=AdonbdG-bLuBR9hGh-59hYYNFKlkbHt7tFn8t7u8TUdJmG4EIZojJhWx9eE458N-Dqc&_nc_zt=24&_nc_ht=scontent-hou1-1.xx&_nc_gid=F8iOluAeAoFuHrpIJE-9IQ&_nc_ss=79180&oh=00_AQOy1jPH_RubqLgzTWaU6uFTek6ufgUbbIyRtlkdRg29Cw&oe=6AD5A09C",
           "status": "pending",
-          "post_datetime": "2026-10-14T13:15:21+00:00",
-          "post_url": "https://facebook.com/reel/2133924337202538",
+          "post_datetime": "2026-10-14T13:53:10+00:00",
+          "post_url": "https://facebook.com/reel/1847824542767371",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T13:44:57Z"
+          "last_checked_at": "2026-10-14T18:50:44Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T13:44:52Z",
+      "last_scraped_at": "2026-10-14T18:50:38Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -47,27 +47,23 @@
       "name": "Dumdum Park Bharat Chakra",
       "facebook_page": "https://facebook.com/dumdumparkbharatchakraclub",
       "facebook_verified": true,
-      "latest_update": "ART in the Pandal, MAGIC in the FRAME 🫶🏻 . . . Dumdum Park BharatChakra Durga Puja 2026 Dum Dum Park Bharat Chakra Club Theme- বঙ্গের রথ কথা Artist- @manaash_das07 . . . Model- Nikon z6ii [28-75 f2.8] . . . Follow Anurag Photography for more 🫶🏻 . . . #bharatchakra #kolkata #durgapuja2026 #creativity #art",
-      "latest_announcement": "ART in the Pandal, MAGIC in the FRAME 🫶🏻 . . . Dumdum Park BharatChakra Durga Puja 2026 Dum Dum Park Bharat Chakra Club Theme- বঙ্গের রথ কথা Artist- @manaash_das07 . . . Model- Nikon z6ii [28-75 f2.8] . . . Follow Anurag Photography for more 🫶🏻 . . . #bharatchakra #kolkata #durgapuja2026 #creativity #art",
-      "latest_post_date": "2026-10-14T13:31:12+00:00",
-      "latest_post_url": "https://facebook.com/dreamboy.anurag.9/posts/pfbid0e9UdFB5zAP2qj28RNfNLmVXMeRWadSGAZPowKVZykBncBLgnqX4KVoexwei7PXiRl",
-      "images": [
+      "latest_update": "#DumDumParkBharatChakra #bongerrathkotha #durgapujo2026",
+      "latest_announcement": "#DumDumParkBharatChakra #bongerrathkotha #durgapujo2026",
+      "latest_post_date": "2026-10-14T15:10:31+00:00",
+      "latest_post_url": "https://facebook.com/reel/1594821861627273",
+      "images": [],
+      "pending_images": [
         {
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/845102103_2683780408685666_1648530191423789378_n.jpg?stp=dst-jpg_tt6&cstp=mx1362x2048&ctp=p526x296&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=EusFHmnHd_AQ7kNvwGzOwqY&_nc_oc=AdoSERuaocBNwKdp-7bZ5j-iHqYKr284ja4eInTtrW9cAhmwKFp_ciK6cqCfai_ZBNQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=QkF51v2vFDKFx1rcKoFyvg&_nc_ss=79289&oh=00_AQMYpJ385qHWuXOUyl_1NJeX7bGMyWhdEkjnpawvH2_5og&oe=6AD561D3",
-          "local_file": "data/dynamic/facebook_images_2026/P002_d97810236e9fc0c9.jpg",
-          "sha256": "d97810236e9fc0c99496867fef94d88afb361d4aebebd9ac95021d2ed49671c0",
-          "source": "scrapebadger",
-          "post_datetime": "2026-10-14T13:31:12+00:00",
-          "post_url": "https://facebook.com/dreamboy.anurag.9/posts/pfbid0e9UdFB5zAP2qj28RNfNLmVXMeRWadSGAZPowKVZykBncBLgnqX4KVoexwei7PXiRl",
-          "validated_by": "qwen/qwen3.8-27b",
-          "confidence": 0.95,
-          "reason": "The image clearly features a Durga idol and the mandap (shrine) structure, including detailed artwork of the goddess and accompanying deities, framed by the pandal's interior architecture.",
-          "approved_at": "2026-10-14T13:45:25Z"
+          "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t1.6435-1/51128867_1005677146296923_7544632692814381056_n.jpg?stp=c15.15.770.770a_cp0_dst-jpg_s50x50_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=z6ypmTNiju8Q7kNvwHH2fqt&_nc_oc=Ado7GVHhUo56R4fYgLCUQ0V-lCnM36BRLPbyR3fW0qkUvS5mgIYspaHS2Rmsnuub_pg&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=lQpyK-jRlZsbtEG4IJ-0RQ&_nc_ss=79180&oh=00_AQPVJT8OVssuxpuB_8Zp17Y5ZE9Hg2BglBCPQD-ylQTvYw&oe=6AF75761",
+          "status": "pending",
+          "post_datetime": "2026-10-14T15:10:31+00:00",
+          "post_url": "https://facebook.com/reel/1594821861627273",
+          "reason": "Image too small",
+          "last_checked_at": "2026-10-14T18:50:52Z"
         }
       ],
-      "pending_images": [],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T13:44:59Z",
+      "last_scraped_at": "2026-10-14T18:50:48Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -76,23 +72,23 @@
       "name": "Dumdum Park Tarun Dal",
       "facebook_page": "https://facebook.com/dumdumparktarunsanghaofficial",
       "facebook_verified": true,
-      "latest_update": "আলো-ছায়ার মায়ায় জীবন্ত ইতিহাস, শিল্পের প্রতি ভাঁজে বাংলার অতীতের অনুরণন। 'বেনিয়া কথা' শুধু মণ্ডপসজ্জা নয়, বাঙালির ঐতিহ্য ও বাণিজ্যের উদ্‌যাপন। . . . #durgapuja #beniakotha #durgapujaart . . . [ Dum Dum Park Tarun Sangha, Benia Kotha, Banijye Bosote Laxmi, Benia Kotha, Durga Puja, Durga Puja Art]",
-      "latest_announcement": "আলো-ছায়ার মায়ায় জীবন্ত ইতিহাস, শিল্পের প্রতি ভাঁজে বাংলার অতীতের অনুরণন। 'বেনিয়া কথা' শুধু মণ্ডপসজ্জা নয়, বাঙালির ঐতিহ্য ও বাণিজ্যের উদ্‌যাপন। . . . #durgapuja #beniakotha #durgapujaart . . . [ Dum Dum Park Tarun Sangha, Benia Kotha, Banijye Bosote Laxmi, Benia Kotha, Durga Puja, Durga Puja Art]",
-      "latest_post_date": "2026-10-14T11:06:16+00:00",
-      "latest_post_url": "https://facebook.com/reel/1769536264350355",
+      "latest_update": "আল্ট্রাটেক ৭ ওয়ান্ডারে সেরা ৩০-এ দমদম পার্ক তরুণ সংঘ! . . . #durgapuja #BeniaKotha . . . [ dum dum park tarun sangha, durga puja, benia kotha ]",
+      "latest_announcement": "আল্ট্রাটেক ৭ ওয়ান্ডারে সেরা ৩০-এ দমদম পার্ক তরুণ সংঘ! . . . #durgapuja #BeniaKotha . . . [ dum dum park tarun sangha, durga puja, benia kotha ]",
+      "latest_post_date": "2026-10-14T16:04:11+00:00",
+      "latest_post_url": "https://facebook.com/reel/1110075948181316",
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/345905158_1473911890084253_3552565645781296680_n.jpg?stp=c91.0.1707.1707a_cp0_dst-jpg_s50x50_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ds7OLQ_Q1XkQ7kNvwFKtWRG&_nc_oc=AdoMwqRN0JZN6JkFdyVkAGGgQkPOfqmqpS8w_VXhfzQ6L1kflD5GEhIHlYXb0XuttfM&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&_nc_gid=yjmrkQWwFu-IPaHEPeRjuA&_nc_ss=79180&oh=00_AQNJe9J8i7H0mOhphxekNaK-L1GTLFCEPFTpY5fMYU8q4g&oe=6AD54A8D",
+          "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/345905158_1473911890084253_3552565645781296680_n.jpg?stp=c91.0.1707.1707a_cp0_dst-jpg_s50x50_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ds7OLQ_Q1XkQ7kNvwH1LtQu&_nc_oc=AdpOOrL4Qv2jkCvRzkKEFS93dY2Hd9EKXP4x57kX2MON7sXupZBg1r6Bo6KMhHNFqe0&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=_bTkwMjgpTZ7RIODh687kg&_nc_ss=79180&oh=00_AQOx1rWx9XXJvdSMCsvLYDtd5ljsS9ilc3QdYJyTSst9og&oe=6AD5BB0D",
           "status": "pending",
-          "post_datetime": "2026-10-14T11:06:16+00:00",
-          "post_url": "https://facebook.com/reel/1769536264350355",
+          "post_datetime": "2026-10-14T16:04:11+00:00",
+          "post_url": "https://facebook.com/reel/1110075948181316",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T13:45:30Z"
+          "last_checked_at": "2026-10-14T18:51:00Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T13:45:25Z",
+      "last_scraped_at": "2026-10-14T18:50:55Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -101,14 +97,23 @@
       "name": "Nalin Sarkar Street",
       "facebook_page": "https://facebook.com/NalinSarkarStreetSarbojoninDurgotsab",
       "facebook_verified": true,
-      "latest_update": "Friendzz Media And Entertainment",
-      "latest_announcement": "Friendzz Media And Entertainment",
-      "latest_post_date": "2026-10-13T20:57:44+00:00",
-      "latest_post_url": "https://facebook.com/NalinSarkarStreetSarbojoninDurgotsab/posts/pfbid02zmYaFa3YEaCuKGJzktRJ2CYTPNcph7THaiBQkwezJvSo5rF9eTygh5TUTNGUAzMKl",
+      "latest_update": "Nalin Sarkar Street Sarbojanin",
+      "latest_announcement": "Nalin Sarkar Street Sarbojanin",
+      "latest_post_date": "2026-10-14T18:40:02+00:00",
+      "latest_post_url": "https://facebook.com/NalinSarkarStreetSarbojoninDurgotsab/videos/2115238685749608",
       "images": [],
-      "pending_images": [],
+      "pending_images": [
+        {
+          "url": "https://scontent.fric1-2.fna.fbcdn.net/v/t39.30808-1/309391304_473348424835507_2440024913095063715_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ZcGRL_QaDIAQ7kNvwHgUoAj&_nc_oc=AdqyojHVr8-4VCc4okFHtLR5p_oSIVGSTS0q-M059NBle-V459FXd464pAlz7GfK2vw&_nc_zt=24&_nc_ht=scontent.fric1-2.fna&_nc_gid=s0onqcwOpZbTW4nSTTddCg&_nc_ss=79180&oh=00_AQNetBUM6WOkV6Wo7rH1cxz54TbOBbJV7gRPADR87Yl59A&oe=6AD59356",
+          "status": "pending",
+          "post_datetime": "2026-10-14T18:40:02+00:00",
+          "post_url": "https://facebook.com/NalinSarkarStreetSarbojoninDurgotsab/videos/2115238685749608",
+          "reason": "Image too small",
+          "last_checked_at": "2026-10-14T18:51:50Z"
+        }
+      ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T13:45:59Z",
+      "last_scraped_at": "2026-10-14T18:51:42Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -117,23 +122,23 @@
       "name": "Kashi Bose Lane",
       "facebook_page": "https://facebook.com/kashiboselanedurgapujasamity",
       "facebook_verified": true,
-      "latest_update": null,
-      "latest_announcement": null,
-      "latest_post_date": "2026-10-13T21:41:50+00:00",
-      "latest_post_url": "https://facebook.com/kashiboselanedurgapujasamity/posts/pfbid0n2CC8jPUc77wMtEFmLxjFjgXRYMzAD8AwDRzbBu8sVKeCaHrMbTZKYPimb7hu3unl",
+      "latest_update": "A moment of pride and honour for Kashi Bose Lane Durga Puja as the Hon’ble Chief Minister of West Bengal inaugurated our Puja this year. We are deeply honoured by his presence and grateful for this special moment in our Durga Puja celebrations. #kashiboselane #durgapuja2026 #aadim #maadurga",
+      "latest_announcement": "A moment of pride and honour for Kashi Bose Lane Durga Puja as the Hon’ble Chief Minister of West Bengal inaugurated our Puja this year. We are deeply honoured by his presence and grateful for this special moment in our Durga Puja celebrations. #kashiboselane #durgapuja2026 #aadim #maadurga",
+      "latest_post_date": "2026-10-14T16:54:11+00:00",
+      "latest_post_url": "https://facebook.com/reel/2069759640334842",
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/835677697_1529375992557608_3451974306918448479_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=zDWDIsYCp0IQ7kNvwEMIgsg&_nc_oc=Adqll6UnZPAUjXMzmOITU5tNxHtL4j2Xh2m6tc_-PJIH_7fhTw39zeBjpLZlVapARRQ&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&_nc_gid=CFHHHXeqXUQSD48CYDtEAw&_nc_ss=79180&oh=00_AQMuVYN8siJwGXdMdrbjbhpTQcnXSIoXftzcnZA3MsTbyg&oe=6AD568C4",
+          "url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/835677697_1529375992557608_3451974306918448479_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=zDWDIsYCp0IQ7kNvwEEOADC&_nc_oc=Adq0mvOPodoDV9L9O3wwK_RoYAxIyIlzppmsz77ppjDiQQH6tWPpOhNMpLcx6YO2KII&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=DfLw9CbcniLEIPsPTbifOQ&_nc_ss=79180&oh=00_AQOk60bQrWc51ONcb0SFj5w7uYU4h02vAt6PbXmvoaER5Q&oe=6AD5A104",
           "status": "pending",
-          "post_datetime": "2026-10-13T21:41:50+00:00",
-          "post_url": "https://facebook.com/kashiboselanedurgapujasamity/posts/pfbid0n2CC8jPUc77wMtEFmLxjFjgXRYMzAD8AwDRzbBu8sVKeCaHrMbTZKYPimb7hu3unl",
+          "post_datetime": "2026-10-14T16:54:11+00:00",
+          "post_url": "https://facebook.com/reel/2069759640334842",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T13:46:12Z"
+          "last_checked_at": "2026-10-14T18:51:58Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T13:46:07Z",
+      "last_scraped_at": "2026-10-14T18:51:53Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -149,7 +154,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T13:46:29Z",
+      "last_scraped_at": "2026-10-14T18:52:01Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -158,23 +163,14 @@
       "name": "Baghbazar Sarbojanin",
       "facebook_page": "https://facebook.com/BaghbazarSarbojaninDurgotsavExhibition",
       "facebook_verified": true,
-      "latest_update": "|| বছর ঘুরে আসছে উমা ফিরছে বাপের বাড়ি শঙ্খ, প্রদীপ, উলুরধ্বনি মাকে বরণ করি! ১৪ই অক্টোবর, ২০২৬ সন্ধ্যা ৬ ঘটিকায় আমাদের মাতৃমন্ডপের শুভ উদ্বোধন অনুষ্ঠানে সকলকে জানাই সাদর আমন্ত্রণ বাগবাজার সার্ব্বজনীন দুর্গোৎসব ও প্রদর্শনী ১০৮তম বর্ষ ||",
-      "latest_announcement": "|| বছর ঘুরে আসছে উমা ফিরছে বাপের বাড়ি শঙ্খ, প্রদীপ, উলুরধ্বনি মাকে বরণ করি! ১৪ই অক্টোবর, ২০২৬ সন্ধ্যা ৬ ঘটিকায় আমাদের মাতৃমন্ডপের শুভ উদ্বোধন অনুষ্ঠানে সকলকে জানাই সাদর আমন্ত্রণ বাগবাজার সার্ব্বজনীন দুর্গোৎসব ও প্রদর্শনী ১০৮তম বর্ষ ||",
-      "latest_post_date": "2026-10-13T18:22:19+00:00",
-      "latest_post_url": "https://facebook.com/BaghbazarSarbojaninDurgotsavExhibition/posts/pfbid0V4kqyhzxdncetqx2Lvff3TwZsVu4AMSTQt1ZAKtb97vjUhFdrx6iCsSjL7DyUc7Dl",
+      "latest_update": null,
+      "latest_announcement": null,
+      "latest_post_date": null,
+      "latest_post_url": null,
       "images": [],
-      "pending_images": [
-        {
-          "url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/308015796_456043363224052_2198845259161749740_n.jpg?stp=c128.0.768.768a_cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ZFsgUTbMxWkQ7kNvwH0ZkId&_nc_oc=Adqi0a45uBfCXP6_garxCPZbL2yDMjTzg24F0i1mTXNxYZwW-zhDL0lGg0mpYEVe6qc&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&_nc_gid=UHZ57p56MwQYmNoROb1MKA&_nc_ss=79180&oh=00_AQM-0vJ3TTCy3oGUwdw-tc0BaaK_T_WcLPdiVJ_YmkcHUw&oe=6AD55BDF",
-          "status": "pending",
-          "post_datetime": "2026-10-13T18:22:19+00:00",
-          "post_url": "https://facebook.com/BaghbazarSarbojaninDurgotsavExhibition/posts/pfbid0V4kqyhzxdncetqx2Lvff3TwZsVu4AMSTQt1ZAKtb97vjUhFdrx6iCsSjL7DyUc7Dl",
-          "reason": "Image too small",
-          "last_checked_at": "2026-10-14T13:47:12Z"
-        }
-      ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T13:47:04Z",
+      "pending_images": [],
+      "scrape_status": "success_no_recent_post",
+      "last_scraped_at": "2026-10-14T18:52:49Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -190,16 +186,16 @@
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/846377922_1762182595907719_4468825565474054128_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=XP0qMDDk6H8Q7kNvwEEmwEP&_nc_oc=Adr-29shxS0GjMt06yT2U-mRquWpOxfqzLfGNgIdJ-_BavAFFDDDWlrx2GV0LR2dRYo&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=RvQbds_dTc8z2Exw0KrGCg&_nc_ss=79180&oh=00_AQMPQSqXGK-ml8ggxMMI-1TzOyQjmTsMjmlRl6cLAt0chw&oe=6AD54ADE",
+          "url": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/846377922_1762182595907719_4468825565474054128_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=XP0qMDDk6H8Q7kNvwEyilM_&_nc_oc=AdqxzFN3mbmP9KXmQBg02GTQpA-WuNYoMpj3dA_t7ZyAhJbjZ9ZB-wBLYU0vVRdmJZQ&_nc_zt=24&_nc_ht=scontent-hou1-1.xx&_nc_gid=FI0zNUMVeMmyHE2HfJP88w&_nc_ss=79180&oh=00_AQP6wI_LPe2wlpHdl51QJ6Oqfynh1oDzoKEM2Os4CG9Jhw&oe=6AD5BB5E",
           "status": "pending",
           "post_datetime": "2026-10-14T11:25:06+00:00",
           "post_url": "https://facebook.com/reel/1689212085958493",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T13:47:35Z"
+          "last_checked_at": "2026-10-14T18:53:00Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T13:47:15Z",
+      "last_scraped_at": "2026-10-14T18:52:56Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -215,7 +211,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T13:48:01Z",
+      "last_scraped_at": "2026-10-14T18:53:03Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -224,23 +220,27 @@
       "name": "Kumartuli Park",
       "facebook_page": "https://facebook.com/p/Kumartuli-Park-Sarbojanin-Durgaotsab-Committee-100069907448030",
       "facebook_verified": true,
-      "latest_update": null,
-      "latest_announcement": null,
-      "latest_post_date": "2026-10-14T08:46:50+00:00",
-      "latest_post_url": "https://facebook.com/reel/1811816106518901",
-      "images": [],
-      "pending_images": [
+      "latest_update": "শুভ চতুর্থীর সন্ধ্যা! আজকের প্যান্ডেল উদ্বোধনের দৃশ্যটি সত্যিই খুব মনোরম ও হৃদয়ছোঁয়া ছিল। আমাদের এই বিশেষ অনুষ্ঠানে উপস্থিত ছিলেন আমাদের সভাপতি #শ্রী_অজয়_ঘোষ, আইইএম সল্টলেক (IEM SALTLAKE ) এর উপাচার্য এবং এয়ারপোর্ট অথরিটির কমিশনার শ্রীমতী #আরতি_সাক্সেনা, আই.আর.এস। তবে আমাদের সবচেয়ে মূল্যবান অতিথি হলেন আপনারা—যাদের জন্য আমাদের এই সৃষ্টি এবং যারা আমাদের এই উদযাপনে প্রাণ এনে দেন। সকলকে জানাই শুভ পুজো!",
+      "latest_announcement": "শুভ চতুর্থীর সন্ধ্যা! আজকের প্যান্ডেল উদ্বোধনের দৃশ্যটি সত্যিই খুব মনোরম ও হৃদয়ছোঁয়া ছিল। আমাদের এই বিশেষ অনুষ্ঠানে উপস্থিত ছিলেন আমাদের সভাপতি #শ্রী_অজয়_ঘোষ, আইইএম সল্টলেক (IEM SALTLAKE ) এর উপাচার্য এবং এয়ারপোর্ট অথরিটির কমিশনার শ্রীমতী #আরতি_সাক্সেনা, আই.আর.এস। তবে আমাদের সবচেয়ে মূল্যবান অতিথি হলেন আপনারা—যাদের জন্য আমাদের এই সৃষ্টি এবং যারা আমাদের এই উদযাপনে প্রাণ এনে দেন। সকলকে জানাই শুভ পুজো!",
+      "latest_post_date": "2026-10-14T17:49:55+00:00",
+      "latest_post_url": "https://facebook.com/permalink.php?story_fbid=pfbid031TjXgv9W2ta5aDF6PJwoEPByUMyBnarYNCRZwXy5DVbEzsGRwWprJSvDYzufx6rbl&id=100069907448030",
+      "images": [
         {
-          "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/799172796_1371693901837512_679703619753385565_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=101&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=tk8a0f11ub0Q7kNvwHYuNNf&_nc_oc=AdpSWo7YbWI_4WLhEeEJJa9Wq-UGYcEeyDcuC7AJE2PRxC8RUH7GFL4nBY_JX0fzIkM&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=EJ2XmQSu95YPRhYALvJIvw&_nc_ss=79180&oh=00_AQOtA_ff0yd1MQ1yBmZamk2eWlwbIOP37QQmCVzrOEjjEA&oe=6AD55ABB",
-          "status": "pending",
-          "post_datetime": "2026-10-14T08:46:50+00:00",
-          "post_url": "https://facebook.com/reel/1811816106518901",
-          "reason": "Image too small",
-          "last_checked_at": "2026-10-14T13:48:13Z"
+          "url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/846395541_1404423161897919_3837817791240105680_n.jpg?stp=dst-jpg_tt6&cstp=mx1320x1284&ctp=s590x590&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Z17wxZ5AGtsQ7kNvwH-xbGB&_nc_oc=AdobHgJJF962PC3Tikw23pbvO4W79Og6mi3yFwmpmLKLaZUr-ZV_xCgcvIYZICJLCMo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ll3-44YoLBa4jDDVooUOAg&_nc_ss=79289&oh=00_AQOKU47M7gjMWW-ruFpsDZD7fFMpLvdKIYZUk5koWhZKLg&oe=6AD59E25",
+          "local_file": "data/dynamic/facebook_images_2026/P024_1960a98d55dee47b.jpg",
+          "sha256": "1960a98d55dee47b5203c632a595bfcf1ac6a3d9d4466deb6e79f03944f9644e",
+          "source": "scrapebadger",
+          "post_datetime": "2026-10-14T17:49:55+00:00",
+          "post_url": "https://facebook.com/permalink.php?story_fbid=pfbid031TjXgv9W2ta5aDF6PJwoEPByUMyBnarYNCRZwXy5DVbEzsGRwWprJSvDYzufx6rbl&id=100069907448030",
+          "validated_by": "qwen/qwen3.8-27b",
+          "confidence": 0.85,
+          "reason": "The image shows a ceremonial event (likely a lamp lighting or inauguration) taking place inside a Durga Puja pandal. The background clearly features the interior architecture of the venue, including a large arched structure, ceiling beams, and specific lighting (orange and blue hues) typical of a pandal setting. Although the focus is on the people, the setting is a legitimate part of the pandal.",
+          "approved_at": "2026-10-14T18:53:57Z"
         }
       ],
+      "pending_images": [],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T13:48:05Z",
+      "last_scraped_at": "2026-10-14T18:53:48Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -251,12 +251,21 @@
       "facebook_verified": true,
       "latest_update": null,
       "latest_announcement": null,
-      "latest_post_date": "2026-10-14T06:25:56+00:00",
-      "latest_post_url": "https://facebook.com/chaltabagan/posts/pfbid0NNjUsdRi8y8nyG2Y4VXQzri8oZC4WSrCkohYAFJt78wNMbTiuzmq6q4QtfPDuCykl",
+      "latest_post_date": "2026-10-14T14:21:19+00:00",
+      "latest_post_url": "https://facebook.com/chaltabagan/videos/1602871284969565",
       "images": [],
-      "pending_images": [],
+      "pending_images": [
+        {
+          "url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/327179964_1147500739255099_7021916549925467715_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=JYV4-9nIbSUQ7kNvwEWP4VZ&_nc_oc=AdrS020rCmhmACoZzxv-ttz_cF-2XIL_sRwSMNdI7Xgy3gkJqntbSWBF3s2qV1DfR58&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=9fQ-oB2-_uroFm6GJNthKA&_nc_ss=79180&oh=00_AQNO-RZqiMCEz8h63Fyj4dJEzN921xlYlf8Lrt7TL_gj8Q&oe=6AD5BDF3",
+          "status": "pending",
+          "post_datetime": "2026-10-14T14:21:19+00:00",
+          "post_url": "https://facebook.com/chaltabagan/videos/1602871284969565",
+          "reason": "Image too small",
+          "last_checked_at": "2026-10-14T18:54:02Z"
+        }
+      ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T13:48:17Z",
+      "last_scraped_at": "2026-10-14T18:53:57Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -272,7 +281,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T13:49:03Z",
+      "last_scraped_at": "2026-10-14T18:54:05Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -288,7 +297,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T13:49:08Z",
+      "last_scraped_at": "2026-10-14T18:54:50Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -304,7 +313,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T13:49:15Z",
+      "last_scraped_at": "2026-10-14T18:54:56Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -320,7 +329,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_dated_post",
-      "last_scraped_at": "2026-10-14T13:49:19Z",
+      "last_scraped_at": "2026-10-14T18:55:02Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -336,7 +345,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T13:49:34Z",
+      "last_scraped_at": "2026-10-14T18:55:06Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -352,7 +361,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T13:50:06Z",
+      "last_scraped_at": "2026-10-14T18:55:12Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -368,7 +377,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T13:50:13Z",
+      "last_scraped_at": "2026-10-14T18:55:52Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -377,27 +386,23 @@
       "name": "Tridhara Sammilani",
       "facebook_page": "https://facebook.com/Tridharaakalbodhan",
       "facebook_verified": true,
-      "latest_update": "কার্তিক মহারাজের হাত ধরে শুভ উদ্বোধন হলো ত্রিধারা সম্মিলনীর দুর্গাপূজার। এখন থেকে মণ্ডপ, দর্শনার্থীদের জন্য খোলা থাকবে। #tridhara #inauguration #durgapuja2026 #durgapujakolkata",
-      "latest_announcement": "কার্তিক মহারাজের হাত ধরে শুভ উদ্বোধন হলো ত্রিধারা সম্মিলনীর দুর্গাপূজার। এখন থেকে মণ্ডপ, দর্শনার্থীদের জন্য খোলা থাকবে। #tridhara #inauguration #durgapuja2026 #durgapujakolkata",
-      "latest_post_date": "2026-10-13T20:23:14+00:00",
-      "latest_post_url": "https://facebook.com/Tridharaakalbodhan/posts/pfbid08ND7NYZPEMJD6yTJvG1m4Cz8MV5ojf7QKDasHrprxtHqEW9wy6Xfg5Y3vkmDuvhxl",
-      "images": [
+      "latest_update": "https://www.zee24ghanta.com/photos/badaler-bangla-kartik-maharaj-inaugurates-tridhara-sammilani-durga-puja-surasur-theme-750911",
+      "latest_announcement": "https://www.zee24ghanta.com/photos/badaler-bangla-kartik-maharaj-inaugurates-tridhara-sammilani-durga-puja-surasur-theme-750911",
+      "latest_post_date": "2026-10-14T15:23:06+00:00",
+      "latest_post_url": "https://facebook.com/Tridharaakalbodhan/posts/pfbid036xxP4YsqVy4GdDefgJo6SG9odREvu7CYe5ERJBUmgHadDo22p64tDGgh9uV2aYzDl",
+      "images": [],
+      "pending_images": [
         {
-          "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t51.82787-15/846430296_17947408146345455_2587275401093254644_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x1024&ctp=s590x590&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OzFzAnA6MOsQ7kNvwHSJbd3&_nc_oc=AdorINLUaZi68Z7Xo4hRexhz0DPl8cVRu3d0JgEYFPtYg6nzWVuDbBQ8qfvjnP4A9ss&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-9YPLgjpr6JEluNtZr2L9g&_nc_ss=79289&oh=00_AQO58xg3BKLL7uIIUu8eqLZOTVg5teAX9IOgYke6cksC9w&oe=6AD561EB",
-          "local_file": "data/dynamic/facebook_images_2026/P084_e4a3771c1f7d0813.jpg",
-          "sha256": "e4a3771c1f7d0813eef58382b40f2bda06642b106df0db33a78457792ad7a6e6",
-          "source": "scrapebadger",
-          "post_datetime": "2026-10-13T20:23:14+00:00",
-          "post_url": "https://facebook.com/Tridharaakalbodhan/posts/pfbid08ND7NYZPEMJD6yTJvG1m4Cz8MV5ojf7QKDasHrprxtHqEW9wy6Xfg5Y3vkmDuvhxl",
-          "validated_by": "cached_vision",
-          "confidence": 0.95,
-          "reason": "The image clearly shows a Durga Puja idol (Maa Durga riding a lion) and the surrounding mandap decorations, including a large snake motif and a priest performing a ritual (lighting a lamp). This is a direct view of the puja venue and idol.",
-          "approved_at": "2026-10-14T13:14:25Z"
+          "url": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/843353617_1596686819155177_3736756941465447787_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ZF8_3WS4PQAQ7kNvwGNGywR&_nc_oc=Adr-QqoNWiH1fERMCa4A5J4yFwQat178YzyYhogSkYZ5c77HIDP7yETCXnWSRJUAjnc&_nc_zt=24&_nc_ht=scontent-mia3-1.xx&_nc_gid=Zv7ovxUdZFwsUZckrulgdw&_nc_ss=79180&oh=00_AQMsj-VvJbeOivAQiepro5TWuggJujdGjeW9yEBMsLGtoQ&oe=6AD593D4",
+          "status": "pending",
+          "post_datetime": "2026-10-14T15:23:06+00:00",
+          "post_url": "https://facebook.com/Tridharaakalbodhan/posts/pfbid036xxP4YsqVy4GdDefgJo6SG9odREvu7CYe5ERJBUmgHadDo22p64tDGgh9uV2aYzDl",
+          "reason": "Image too small",
+          "last_checked_at": "2026-10-14T18:56:02Z"
         }
       ],
-      "pending_images": [],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T13:50:18Z",
+      "last_scraped_at": "2026-10-14T18:55:57Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -406,14 +411,23 @@
       "name": "Ballygunge Cultural",
       "facebook_page": "https://facebook.com/BCA1951",
       "facebook_verified": true,
-      "latest_update": null,
-      "latest_announcement": null,
-      "latest_post_date": null,
-      "latest_post_url": null,
+      "latest_update": "শুভ চতুর্থী..কলকাতা র প্রাণের পুজোতে কবে আসবেন ?? #pranerpujo #শুভচতুর্থী #durgapuja #durgapujavibes",
+      "latest_announcement": "শুভ চতুর্থী..কলকাতা র প্রাণের পুজোতে কবে আসবেন ?? #pranerpujo #শুভচতুর্থী #durgapuja #durgapujavibes",
+      "latest_post_date": "2026-10-14T17:26:14+00:00",
+      "latest_post_url": "https://facebook.com/BCA1951/videos/1096769629664176",
       "images": [],
-      "pending_images": [],
-      "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T13:50:37Z",
+      "pending_images": [
+        {
+          "url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/843523114_1556545156509755_8721252825672355310_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=KB2NkwYgJkUQ7kNvwGOLd6V&_nc_oc=Adp1e_jFX4cWYmiPnPIW3BA2YDWWmHdfnBwBzpP_y_gZrPtTtFheuPv1KC2Q3PhxeHk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=rKLZhmoOVGQmvG9r5Meqtg&_nc_ss=79180&oh=00_AQNvrBByqyYOB7Rvlff_rZ1HbK6Gf_MLGW3H2uQ9dSvBgg&oe=6AD5BF1F",
+          "status": "pending",
+          "post_datetime": "2026-10-14T17:26:14+00:00",
+          "post_url": "https://facebook.com/BCA1951/videos/1096769629664176",
+          "reason": "Image too small",
+          "last_checked_at": "2026-10-14T18:56:37Z"
+        }
+      ],
+      "scrape_status": "success",
+      "last_scraped_at": "2026-10-14T18:56:05Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -422,15 +436,24 @@
       "name": "Bakul Bagan",
       "facebook_page": "https://facebook.com/bakulbagan",
       "facebook_verified": true,
-      "latest_update": "|| Bakul Bagan Sarbojanin Durgotsab || Participant Shree Rsh Group শারদ উচ্ছ্বাস ২০২৬",
-      "latest_announcement": "|| Bakul Bagan Sarbojanin Durgotsab || Participant Shree Rsh Group শারদ উচ্ছ্বাস ২০২৬",
-      "latest_post_date": "2026-10-14T08:23:16+00:00",
-      "latest_post_url": "https://facebook.com/bakulbagan/posts/pfbid02xPcULNB5sAUtFnbyHxb2y6CbFvvdBjy7qbBmXifSeXrWC8BPt66JLTZ6UNV3seo7l",
+      "latest_update": "Chaturthir adda Bakul Bagan Sarbojanin Durgotsab #durgapuja #BakulBagan #ExploreMore #kolkatadiaries #StreetStyle #Adda #bangalitradition",
+      "latest_announcement": "Chaturthir adda Bakul Bagan Sarbojanin Durgotsab #durgapuja #BakulBagan #ExploreMore #kolkatadiaries #StreetStyle #Adda #bangalitradition",
+      "latest_post_date": "2026-10-14T15:45:48+00:00",
+      "latest_post_url": "https://facebook.com/bakulbagan/posts/pfbid02wxvyFoF7tiNHLQJsdiKYNu9sH3q9Z8Mmc7k2AFFrAFbtVfeRhkon5dzWLTw9yX72l",
       "images": [],
-      "pending_images": [],
-      "scrape_status": "stale",
-      "last_scraped_at": "2026-10-14T13:51:16Z",
-      "last_error": "Local ScrapeBadger budget exhausted",
+      "pending_images": [
+        {
+          "url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/742031592_1461627169341810_8938176683633028823_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=itTDddFuLuUQ7kNvwH_ZdMn&_nc_oc=AdotankVzGx3eMwAR2YxWStSshRjP7w0ti6Loq_UVxLA6QdnEykRKwLK644Hh69T23U&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&_nc_gid=EupeE0bXTLSkI7o6aPE4RQ&_nc_ss=79180&oh=00_AQMtRXezhdC8Utuo3wmONmbLPSNx191_AiqI0utheyS-vw&oe=6AD5A243",
+          "status": "pending",
+          "post_datetime": "2026-10-14T15:45:48+00:00",
+          "post_url": "https://facebook.com/bakulbagan/posts/pfbid02wxvyFoF7tiNHLQJsdiKYNu9sH3q9Z8Mmc7k2AFFrAFbtVfeRhkon5dzWLTw9yX72l",
+          "reason": "Image too small",
+          "last_checked_at": "2026-10-14T18:56:58Z"
+        }
+      ],
+      "scrape_status": "success",
+      "last_scraped_at": "2026-10-14T18:56:53Z",
+      "last_error": null,
       "freshness_window_days": 1
     },
     {
@@ -438,15 +461,24 @@
       "name": "66 Pally",
       "facebook_page": "https://facebook.com/66pallyClub",
       "facebook_verified": true,
-      "latest_update": null,
-      "latest_announcement": null,
-      "latest_post_date": null,
-      "latest_post_url": null,
+      "latest_update": "Thank you for the appreciation.! Todays Story",
+      "latest_announcement": "Thank you for the appreciation.! Todays Story",
+      "latest_post_date": "2026-10-14T12:54:28+00:00",
+      "latest_post_url": "https://facebook.com/66pallyClub/posts/pfbid0RSXY5a8oXJvfamnfPrinvaeQYfkM4yLkUvvMHN7yLoPahp3a1xwSbaXcw8pLD1ezl",
       "images": [],
-      "pending_images": [],
-      "scrape_status": "stale",
-      "last_scraped_at": "2026-10-14T13:15:28Z",
-      "last_error": "budget_exhausted",
+      "pending_images": [
+        {
+          "url": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/801582062_1505549951611836_7848371613105344561_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=101&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=e5HKf4VB31YQ7kNvwFsjNDO&_nc_oc=AdqFSx6HKVZ8cz4uTPGi9pWBm3qGRBVkfoOdddtupU4vJMiI4Go5mVuW9BMojTn3zm0&_nc_zt=24&_nc_ht=scontent-hou1-1.xx&_nc_gid=80MpOXBdlmh_RIoO3KOOBw&_nc_ss=79180&oh=00_AQPjbUnCMRLIPhUzRoXOKsIvsvrP55Ujnp7q4fdJBpFIQg&oe=6AD5B829",
+          "status": "pending",
+          "post_datetime": "2026-10-14T12:54:28+00:00",
+          "post_url": "https://facebook.com/66pallyClub/posts/pfbid0RSXY5a8oXJvfamnfPrinvaeQYfkM4yLkUvvMHN7yLoPahp3a1xwSbaXcw8pLD1ezl",
+          "reason": "Image too small",
+          "last_checked_at": "2026-10-14T18:57:10Z"
+        }
+      ],
+      "scrape_status": "success",
+      "last_scraped_at": "2026-10-14T18:57:01Z",
+      "last_error": null,
       "freshness_window_days": 1
     },
     {
@@ -460,9 +492,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:02Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-14T18:57:15Z",
+      "last_error": "Local ScrapeBadger budget exhausted",
       "freshness_window_days": 1
     },
     {

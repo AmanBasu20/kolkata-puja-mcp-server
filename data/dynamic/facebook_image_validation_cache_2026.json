@@ -187,5 +187,14 @@
     "post_datetime": "2026-10-14T13:31:12+00:00",
     "validated_at": "2026-10-14T13:45:25Z",
     "approved_at": "2026-10-14T13:45:25Z"
+  },
+  "1960a98d55dee47b5203c632a595bfcf1ac6a3d9d4466deb6e79f03944f9644e": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.85,
+    "reason": "The image shows a ceremonial event (likely a lamp lighting or inauguration) taking place inside a Durga Puja pandal. The background clearly features the interior architecture of the venue, including a large arched structure, ceiling beams, and specific lighting (orange and blue hues) typical of a pandal setting. Although the focus is on the people, the setting is a legitimate part of the pandal.",
+    "post_datetime": "2026-10-14T17:49:55+00:00",
+    "validated_at": "2026-10-14T18:53:57Z",
+    "approved_at": "2026-10-14T18:53:57Z"
   }
 }
