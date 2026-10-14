@@ -88,5 +88,95 @@
     "post_datetime": "2026-10-11T06:39:12+00:00",
     "validated_at": "2026-10-11T10:59:45Z",
     "approved_at": "2026-10-11T10:59:45Z"
+  },
+  "6fb931602e2b42c8df6ec7cc80953937cd4b0bbc747c7533fae217ac9d1624cc": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a promotional poster or flyer containing text overlays, logos, and social media handles, rather than a direct photograph of the pandal.",
+    "post_datetime": "2026-10-14T09:01:26+00:00",
+    "validated_at": "2026-10-14T13:08:05Z",
+    "approved_at": null
+  },
+  "e74297a04eb3d0db3978ccd2b55e489ec19528b31bfc0ec1b13970169551afa0": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital promotional poster or flyer featuring logos (Friendzzz, Silverscreen) and Bengali text, not a photograph of a pandal or venue.",
+    "post_datetime": "2026-10-13T20:57:44+00:00",
+    "validated_at": "2026-10-14T13:09:29Z",
+    "approved_at": null
+  },
+  "39f2f151927c7bd60ca879998d0b522c07908f8e4e2e9536934159bbe6f37987": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital certificate of participation, not a photograph of a pandal, idol, or venue.",
+    "post_datetime": "2026-10-14T08:12:32+00:00",
+    "validated_at": "2026-10-14T13:10:07Z",
+    "approved_at": null
+  },
+  "62a3684e6d247fad41927ecbd039d16a328dc0ebd76160f7410fb9e35297d518": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image shows a promotional poster or banner for the Durga Puja event, featuring text, logos, and sponsor information, rather than a photograph of the actual pandal, idol, or venue.",
+    "post_datetime": "2026-10-14T06:25:56+00:00",
+    "validated_at": "2026-10-14T13:12:03Z",
+    "approved_at": null
+  },
+  "7b0fe35dca8a191af1116dcbd71f7901a6193499333eb6ab8fad966e23df199f": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital poster or flyer listing the 'Top 50 Club List' for an award ceremony, not a photograph of a Durga Puja pandal or venue.",
+    "post_datetime": "2026-10-14T06:25:56+00:00",
+    "validated_at": "2026-10-14T13:12:04Z",
+    "approved_at": null
+  },
+  "563cbe55df19bba33030d57d213c7e922148e965e442d43b02775fecd30ecc95": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a promotional poster or flyer listing a 'Top 40' ranking of Durga Puja pandals and displaying sponsor logos, not a photograph of a pandal or venue.",
+    "post_datetime": "2026-10-14T06:25:56+00:00",
+    "validated_at": "2026-10-14T13:12:24Z",
+    "approved_at": null
+  },
+  "49de9f51391cd0d5b88d16374e06ee66d623429952543b3cf767ec849e08a552": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a digital poster or flyer listing 95 Puja Committees, not a photograph of a pandal, idol, or venue.",
+    "post_datetime": "2026-10-14T06:25:56+00:00",
+    "validated_at": "2026-10-14T13:12:43Z",
+    "approved_at": null
+  },
+  "7af8069633951d4f0690edac94b194dfcfb8667f90dd77a1476efd03bbaad594": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image shows a printed invitation card or flyer for the Durga Puja, not a photograph of the pandal, idol, or venue.",
+    "post_datetime": "2026-10-14T06:25:56+00:00",
+    "validated_at": "2026-10-14T13:13:03Z",
+    "approved_at": null
+  },
+  "e4a3771c1f7d0813eef58382b40f2bda06642b106df0db33a78457792ad7a6e6": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image clearly shows a Durga Puja idol (Maa Durga riding a lion) and the surrounding mandap decorations, including a large snake motif and a priest performing a ritual (lighting a lamp). This is a direct view of the puja venue and idol.",
+    "post_datetime": "2026-10-13T20:23:14+00:00",
+    "validated_at": "2026-10-14T13:14:25Z",
+    "approved_at": "2026-10-14T13:14:25Z"
+  },
+  "cf1c522b1a82a77d5c4f2b70d256fb5a3cd66b2e663591e9db3495df9d18f5d3": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a promotional poster or flyer listing a 'Top 40' Durga Puja ranking, featuring sponsor logos and text, not a photograph of a pandal.",
+    "post_datetime": "2026-10-14T08:23:16+00:00",
+    "validated_at": "2026-10-14T13:15:17Z",
+    "approved_at": null
   }
 }
