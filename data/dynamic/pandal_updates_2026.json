@@ -26,7 +26,11 @@
       "latest_announcement": null,
       "latest_post_date": null,
       "latest_post_url": null,
-      "images": [],
+      "images": [
+        {
+          "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6dApOfbEMqkTBqygyN9ixsEtJ7jHEOPkXOi5fVMx9Rw&s=10"
+        }
+      ],
       "pending_images": [],
       "scrape_status": "success_no_recent_post",
       "last_scraped_at": "2026-10-13T09:57:31Z",
