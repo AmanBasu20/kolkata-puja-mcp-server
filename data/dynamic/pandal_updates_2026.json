@@ -15,7 +15,7 @@
     "image_rule": "images must belong to the selected recent Facebook post",
     "collection_method": "scrapebadger_facebook_page_posts_plus_post_details"
   },
-  "last_run": "2026-10-15T00:51:54Z",
+  "last_run": "2026-10-15T07:03:52Z",
   "records": [
     {
       "pandal_id": "P001",
@@ -37,9 +37,9 @@
           "last_checked_at": "2026-10-15T00:51:35Z"
         }
       ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-15T00:51:21Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:27Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -62,9 +62,9 @@
           "last_checked_at": "2026-10-15T00:51:51Z"
         }
       ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-15T00:51:42Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:27Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -88,8 +88,8 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-15T00:51:54Z",
-      "last_error": "{'error': 'insufficient_credits', 'message': \"You've run out of API credits. Please purchase more credits to continue using the API.\", 'credits_balance': 0, 'subscription_credits_balance': 0, 'help': 'Visit your dashboard to purchase additional credits or upgrade your plan.'}",
+      "last_scraped_at": "2026-10-15T06:53:27Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -112,9 +112,9 @@
           "last_checked_at": "2026-10-14T20:29:09Z"
         }
       ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:29:04Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:27Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -137,9 +137,9 @@
           "last_checked_at": "2026-10-14T20:29:25Z"
         }
       ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:29:16Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:28Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -153,9 +153,9 @@
       "latest_post_url": "https://facebook.com/telengabagansarbojonin/posts/pfbid02QA3ZY8WLwfcPNSVhcSDq8rtCHHtKPwVA7Xe7Xxx8csBpGGeE22f2A1vumLZ4gWMAl",
       "images": [],
       "pending_images": [],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:29:29Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:28Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -169,9 +169,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T20:30:09Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:28Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -194,9 +194,9 @@
           "last_checked_at": "2026-10-14T20:30:26Z"
         }
       ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:30:20Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:28Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -210,9 +210,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T20:30:29Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:28Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -275,9 +275,9 @@
         }
       ],
       "pending_images": [],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:31:12Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:28Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -300,9 +300,9 @@
           "last_checked_at": "2026-10-14T20:32:09Z"
         }
       ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:32:03Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:28Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -316,9 +316,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T20:32:12Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:28Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -332,9 +332,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T20:32:17Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:29Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -348,9 +348,9 @@
       "latest_post_url": "https://facebook.com/www.srac.in/posts/pfbid02fpzyBhXTvdPLZRs9iUMs88wBnkuEuUZRybdqCAQda3VZQAdxedWSDDdyRm2p7J9Bl",
       "images": [],
       "pending_images": [],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:32:22Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:29Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -364,9 +364,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "success_no_dated_post",
-      "last_scraped_at": "2026-10-14T20:33:09Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:29Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -380,9 +380,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T20:33:13Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:29Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -396,9 +396,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T20:33:18Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:29Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -412,9 +412,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "success_no_recent_post",
-      "last_scraped_at": "2026-10-14T20:33:20Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:29Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -437,9 +437,9 @@
           "last_checked_at": "2026-10-14T20:34:12Z"
         }
       ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:33:28Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:29Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -462,9 +462,9 @@
           "last_checked_at": "2026-10-14T20:34:20Z"
         }
       ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:34:15Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:29Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -487,9 +487,9 @@
           "last_checked_at": "2026-10-14T20:34:28Z"
         }
       ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:34:24Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:53:29Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -513,8 +513,8 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-14T20:35:16Z",
-      "last_error": "budget_exhausted",
+      "last_scraped_at": "2026-10-15T06:54:32Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -529,8 +529,8 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-14T18:57:15Z",
-      "last_error": "Local ScrapeBadger budget exhausted",
+      "last_scraped_at": "2026-10-15T06:55:34Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -544,9 +544,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:02Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:56:36Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -560,9 +560,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:02Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:57:38Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -576,9 +576,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:02Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:58:41Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -592,9 +592,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:02Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T06:59:43Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -608,9 +608,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:02Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T07:00:45Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -624,9 +624,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:02Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T07:01:47Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -640,9 +640,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:02Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T07:02:49Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -656,9 +656,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:02Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T07:03:52Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -672,9 +672,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:02Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T07:03:52Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -688,9 +688,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:03Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T07:03:52Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -704,9 +704,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:03Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T07:03:52Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -720,9 +720,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:03Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T07:03:52Z",
+      "last_error": "{\"detail\":\"Invalid or expired API key.\"}",
       "freshness_window_days": 1
     },
     {
@@ -736,9 +736,9 @@
       "latest_post_url": null,
       "images": [],
       "pending_images": [],
-      "scrape_status": "error",
-      "last_scraped_at": "2026-10-11T11:00:03Z",
-      "last_error": "You've run out of API credits. Please purchase more credits to continue using the API.",
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T07:03:52Z",
+      "last_error": "Local ScrapeBadger budget exhausted",
       "freshness_window_days": 1
     },
     {
