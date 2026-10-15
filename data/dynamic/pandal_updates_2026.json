@@ -15,7 +15,7 @@
     "image_rule": "images must belong to the selected recent Facebook post",
     "collection_method": "scrapebadger_facebook_page_posts_plus_post_details"
   },
-  "last_run": "2026-10-14T20:35:16Z",
+  "last_run": "2026-10-15T00:51:54Z",
   "records": [
     {
       "pandal_id": "P001",
@@ -29,16 +29,16 @@
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-den2-1.xx.fbcdn.net/v/t39.30808-1/559946623_1239394974901016_6724545440198684146_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=y_3FvlD8CAgQ7kNvwEnfSZI&_nc_oc=AdocgChHrSQS4KY3GN2X3chg2uEvlHa9Ecm6FDD8Q_FJzj8Fzhw6bgy3kpsZ99NevLA&_nc_zt=24&_nc_ht=scontent-den2-1.xx&_nc_gid=99JH8TX1Eii584MCdkmStA&_nc_ss=79180&oh=00_AQPFTawU3HnWMSy6_81VHynrwfVyh5hXjCF7KDXlre0rWg&oe=6AD5A09C",
+          "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/559946623_1239394974901016_6724545440198684146_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=y_3FvlD8CAgQ7kNvwFWbOvO&_nc_oc=AdrbEJl0DegYeiPYkRhBqRywf36Hdf5Vw7emB_fBjOmZ8QFpGBB5S2gD9BuPuzjy4qI&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=l-lvNe_Jw6QGnUDtQ_jQZw&_nc_ss=79180&oh=00_AQPO6incfz4PUnmmNEUuYj0KgSA_9Zh0PqDPmaBUbroI9A&oe=6AD6111C",
           "status": "pending",
           "post_datetime": "2026-10-14T13:53:10+00:00",
           "post_url": "https://facebook.com/reel/1847824542767371",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T20:28:04Z"
+          "last_checked_at": "2026-10-15T00:51:35Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:27:59Z",
+      "last_scraped_at": "2026-10-15T00:51:21Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -54,16 +54,16 @@
       "images": [],
       "pending_images": [
         {
-          "url": "https://scontent-mia3-3.xx.fbcdn.net/v/t1.6435-1/51128867_1005677146296923_7544632692814381056_n.jpg?stp=c15.15.770.770a_cp0_dst-jpg_s50x50_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=z6ypmTNiju8Q7kNvwETzoMZ&_nc_oc=Ado5K44lGIXfEZndoTy9Esh-KKBRDF8QV4E9nAyg_njxlfLJRoe7QXYfTGzX3eIC1Vw&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&_nc_gid=amfr6PVsYgd_X6stMva0Jg&_nc_ss=79180&oh=00_AQN8IvVthZC0m6IHddYtK-SOTX_aoa6Ea-AHtlOp3POsAw&oe=6AF75761",
+          "url": "https://scontent.fhyw1-1.fna.fbcdn.net/v/t1.6435-1/51128867_1005677146296923_7544632692814381056_n.jpg?stp=c15.15.770.770a_cp0_dst-jpg_s50x50_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=z6ypmTNiju8Q7kNvwECD_cS&_nc_oc=AdqP15-y37QklDyK-hwAZgdLo5p5QMcqDvHZuMddzbMltzX23VUXiR8y1xeQgYFJXLU&_nc_zt=24&_nc_ht=scontent.fhyw1-1.fna&_nc_gid=vrc0g37K0c2PhuGJyM0LSA&_nc_ss=79180&oh=00_AQMA6RlxfsQcjciOWY4pl2S94hJV6raD_MW7o5zlVKuJnw&oe=6AF78FA1",
           "status": "pending",
           "post_datetime": "2026-10-14T15:10:31+00:00",
           "post_url": "https://facebook.com/reel/1594821861627273",
           "reason": "Image too small",
-          "last_checked_at": "2026-10-14T20:28:17Z"
+          "last_checked_at": "2026-10-15T00:51:51Z"
         }
       ],
       "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:28:12Z",
+      "last_scraped_at": "2026-10-15T00:51:42Z",
       "last_error": null,
       "freshness_window_days": 1
     },
@@ -87,9 +87,9 @@
           "last_checked_at": "2026-10-14T20:28:24Z"
         }
       ],
-      "scrape_status": "success",
-      "last_scraped_at": "2026-10-14T20:28:19Z",
-      "last_error": null,
+      "scrape_status": "stale",
+      "last_scraped_at": "2026-10-15T00:51:54Z",
+      "last_error": "{'error': 'insufficient_credits', 'message': \"You've run out of API credits. Please purchase more credits to continue using the API.\", 'credits_balance': 0, 'subscription_credits_balance': 0, 'help': 'Visit your dashboard to purchase additional credits or upgrade your plan.'}",
       "freshness_window_days": 1
     },
     {
