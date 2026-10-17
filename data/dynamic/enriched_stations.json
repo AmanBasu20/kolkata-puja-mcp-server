@@ -8,15 +8,15 @@
     "osm_id": 5421528426,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 8.2,
-      "peak_congestion_pct": 16.0,
-      "avg_speed_kmph": 20.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 22.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:03+05:30"
+      "measured_at": "2026-10-18T05:12:59+05:30"
     }
   },
   {
@@ -28,15 +28,15 @@
     "osm_id": 5421528503,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 7.9,
-      "peak_congestion_pct": 30.8,
-      "avg_speed_kmph": 25.2,
+      "avg_congestion_pct": 4.6,
+      "peak_congestion_pct": 23.1,
+      "avg_speed_kmph": 26.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:05+05:30"
+      "measured_at": "2026-10-18T05:13:01+05:30"
     }
   },
   {
@@ -48,15 +48,15 @@
     "osm_id": 5421533465,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 2.3,
-      "peak_congestion_pct": 4.5,
-      "avg_speed_kmph": 24.0,
+      "avg_congestion_pct": 7.1,
+      "peak_congestion_pct": 14.3,
+      "avg_speed_kmph": 25.5,
       "road_segments": 2,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
-      "road_closure_nearby": true,
-      "measured_at": "2026-10-18T04:38:06+05:30"
+      "road_closure_nearby": false,
+      "measured_at": "2026-10-18T05:13:02+05:30"
     }
   },
   {
@@ -76,7 +76,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:08+05:30"
+      "measured_at": "2026-10-18T05:13:04+05:30"
     }
   },
   {
@@ -96,7 +96,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:10+05:30"
+      "measured_at": "2026-10-18T05:13:05+05:30"
     }
   },
   {
@@ -116,7 +116,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:11+05:30"
+      "measured_at": "2026-10-18T05:13:07+05:30"
     }
   },
   {
@@ -128,15 +128,15 @@
     "osm_id": 5421536497,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.2,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 22.5,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 24.5,
       "road_segments": 2,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:13+05:30"
+      "measured_at": "2026-10-18T05:13:08+05:30"
     }
   },
   {
@@ -156,7 +156,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:14+05:30"
+      "measured_at": "2026-10-18T05:13:10+05:30"
     }
   },
   {
@@ -168,15 +168,15 @@
     "osm_id": 5421538365,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.2,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 20.3,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 21.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:16+05:30"
+      "measured_at": "2026-10-18T05:13:11+05:30"
     }
   },
   {
@@ -188,15 +188,15 @@
     "osm_id": 5421539684,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 18.1,
-      "peak_congestion_pct": 60.0,
-      "avg_speed_kmph": 18.8,
+      "avg_congestion_pct": 15.9,
+      "peak_congestion_pct": 50.0,
+      "avg_speed_kmph": 19.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:18+05:30"
+      "measured_at": "2026-10-18T05:13:13+05:30"
     }
   },
   {
@@ -208,15 +208,15 @@
     "osm_id": 5421540159,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.2,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 22.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 24.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:19+05:30"
+      "measured_at": "2026-10-18T05:13:14+05:30"
     }
   },
   {
@@ -228,15 +228,15 @@
     "osm_id": 5421541284,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 3.1,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 18.0,
+      "avg_congestion_pct": 1.7,
+      "peak_congestion_pct": 6.7,
+      "avg_speed_kmph": 18.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-18T04:38:21+05:30"
+      "measured_at": "2026-10-18T05:13:16+05:30"
     }
   },
   {
@@ -248,15 +248,15 @@
     "osm_id": 5421542551,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 12.2,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 19.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 22.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:22+05:30"
+      "measured_at": "2026-10-18T05:13:17+05:30"
     }
   },
   {
@@ -268,15 +268,15 @@
     "osm_id": 5421543288,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.2,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 22.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 23.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:24+05:30"
+      "measured_at": "2026-10-18T05:13:19+05:30"
     }
   },
   {
@@ -288,15 +288,15 @@
     "osm_id": 5421543316,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.2,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 22.0,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 23.5,
       "road_segments": 2,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:25+05:30"
+      "measured_at": "2026-10-18T05:13:21+05:30"
     }
   },
   {
@@ -308,15 +308,15 @@
     "osm_id": 5421545051,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.2,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 22.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 23.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:27+05:30"
+      "measured_at": "2026-10-18T05:13:22+05:30"
     }
   },
   {
@@ -328,15 +328,15 @@
     "osm_id": 5421545390,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.2,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 22.0,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 23.5,
       "road_segments": 2,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:28+05:30"
+      "measured_at": "2026-10-18T05:13:24+05:30"
     }
   },
   {
@@ -348,15 +348,15 @@
     "osm_id": 5421546475,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.2,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 22.0,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 23.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:30+05:30"
+      "measured_at": "2026-10-18T05:13:25+05:30"
     }
   },
   {
@@ -368,15 +368,15 @@
     "osm_id": 5421546940,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.2,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 19.3,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 20.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:32+05:30"
+      "measured_at": "2026-10-18T05:13:27+05:30"
     }
   },
   {
@@ -388,15 +388,15 @@
     "osm_id": 5421546974,
     "area_busyness": "Busy",
     "area_busyness_detail": {
-      "avg_congestion_pct": 51.2,
-      "peak_congestion_pct": 73.7,
-      "avg_speed_kmph": 11.7,
+      "avg_congestion_pct": 37.5,
+      "peak_congestion_pct": 53.8,
+      "avg_speed_kmph": 15.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
-      "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:33+05:30"
+      "road_closure_nearby": true,
+      "measured_at": "2026-10-18T05:13:28+05:30"
     }
   },
   {
@@ -408,15 +408,15 @@
     "osm_id": 5421548359,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.0,
-      "peak_congestion_pct": 0.0,
-      "avg_speed_kmph": 24.0,
+      "avg_congestion_pct": 10.3,
+      "peak_congestion_pct": 12.0,
+      "avg_speed_kmph": 21.5,
       "road_segments": 2,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:35+05:30"
+      "measured_at": "2026-10-18T05:13:30+05:30"
     }
   },
   {
@@ -436,7 +436,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:36+05:30"
+      "measured_at": "2026-10-18T05:13:31+05:30"
     }
   },
   {
@@ -456,7 +456,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:38+05:30"
+      "measured_at": "2026-10-18T05:13:33+05:30"
     }
   },
   {
@@ -476,7 +476,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:39+05:30"
+      "measured_at": "2026-10-18T05:13:34+05:30"
     }
   },
   {
@@ -496,7 +496,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:41+05:30"
+      "measured_at": "2026-10-18T05:13:36+05:30"
     }
   },
   {
@@ -516,7 +516,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-18T04:38:42+05:30"
+      "measured_at": "2026-10-18T05:13:37+05:30"
     }
   },
   {
@@ -536,7 +536,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:44+05:30"
+      "measured_at": "2026-10-18T05:13:39+05:30"
     }
   },
   {
@@ -556,7 +556,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:46+05:30"
+      "measured_at": "2026-10-18T05:13:41+05:30"
     }
   },
   {
@@ -576,7 +576,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:47+05:30"
+      "measured_at": "2026-10-18T05:13:42+05:30"
     }
   },
   {
@@ -596,7 +596,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:49+05:30"
+      "measured_at": "2026-10-18T05:13:44+05:30"
     }
   },
   {
@@ -608,15 +608,15 @@
     "osm_id": 8475640176,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.0,
-      "peak_congestion_pct": 0.0,
-      "avg_speed_kmph": 45.0,
+      "avg_congestion_pct": 7.0,
+      "peak_congestion_pct": 14.0,
+      "avg_speed_kmph": 42.0,
       "road_segments": 2,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:50+05:30"
+      "measured_at": "2026-10-18T05:13:45+05:30"
     }
   },
   {
@@ -628,15 +628,15 @@
     "osm_id": 9321290815,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.6,
-      "peak_congestion_pct": 13.8,
-      "avg_speed_kmph": 24.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 26.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:52+05:30"
+      "measured_at": "2026-10-18T05:13:47+05:30"
     }
   },
   {
@@ -648,15 +648,15 @@
     "osm_id": 9321292345,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 3.4,
-      "peak_congestion_pct": 13.8,
-      "avg_speed_kmph": 24.0,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 25.0,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:53+05:30"
+      "measured_at": "2026-10-18T05:13:48+05:30"
     }
   },
   {
@@ -668,15 +668,15 @@
     "osm_id": 9884790401,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.0,
-      "peak_congestion_pct": 0.0,
-      "avg_speed_kmph": 22.3,
+      "avg_congestion_pct": 2.9,
+      "peak_congestion_pct": 8.7,
+      "avg_speed_kmph": 21.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:55+05:30"
+      "measured_at": "2026-10-18T05:13:50+05:30"
     }
   },
   {
@@ -696,7 +696,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:57+05:30"
+      "measured_at": "2026-10-18T05:13:51+05:30"
     }
   },
   {
@@ -708,15 +708,15 @@
     "osm_id": 10296539469,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.9,
-      "peak_congestion_pct": 13.8,
-      "avg_speed_kmph": 28.0,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 30.0,
       "road_segments": 2,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:38:58+05:30"
+      "measured_at": "2026-10-18T05:13:53+05:30"
     }
   },
   {
@@ -728,15 +728,15 @@
     "osm_id": 10296539474,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.9,
-      "peak_congestion_pct": 13.8,
-      "avg_speed_kmph": 28.0,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 30.0,
       "road_segments": 2,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:00+05:30"
+      "measured_at": "2026-10-18T05:13:54+05:30"
     }
   },
   {
@@ -748,15 +748,15 @@
     "osm_id": 10296539476,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.6,
-      "peak_congestion_pct": 13.8,
-      "avg_speed_kmph": 25.0,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 26.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:01+05:30"
+      "measured_at": "2026-10-18T05:13:56+05:30"
     }
   },
   {
@@ -768,15 +768,15 @@
     "osm_id": 10296539478,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.9,
-      "peak_congestion_pct": 13.8,
-      "avg_speed_kmph": 28.0,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 30.0,
       "road_segments": 2,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:03+05:30"
+      "measured_at": "2026-10-18T05:13:58+05:30"
     }
   },
   {
@@ -796,7 +796,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:04+05:30"
+      "measured_at": "2026-10-18T05:13:59+05:30"
     }
   },
   {
@@ -816,7 +816,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:06+05:30"
+      "measured_at": "2026-10-18T05:14:01+05:30"
     }
   },
   {
@@ -836,7 +836,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:08+05:30"
+      "measured_at": "2026-10-18T05:14:02+05:30"
     }
   },
   {
@@ -856,7 +856,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:09+05:30"
+      "measured_at": "2026-10-18T05:14:04+05:30"
     }
   },
   {
@@ -876,7 +876,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:11+05:30"
+      "measured_at": "2026-10-18T05:14:05+05:30"
     }
   },
   {
@@ -888,15 +888,15 @@
     "osm_id": 11699268224,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.0,
-      "peak_congestion_pct": 0.0,
-      "avg_speed_kmph": 22.3,
+      "avg_congestion_pct": 3.5,
+      "peak_congestion_pct": 10.5,
+      "avg_speed_kmph": 21.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:12+05:30"
+      "measured_at": "2026-10-18T05:14:07+05:30"
     }
   },
   {
@@ -916,7 +916,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:14+05:30"
+      "measured_at": "2026-10-18T05:14:08+05:30"
     }
   },
   {
@@ -928,15 +928,15 @@
     "osm_id": 11699268226,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.6,
-      "peak_congestion_pct": 13.8,
-      "avg_speed_kmph": 37.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 39.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:15+05:30"
+      "measured_at": "2026-10-18T05:14:10+05:30"
     }
   },
   {
@@ -956,7 +956,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:17+05:30"
+      "measured_at": "2026-10-18T05:14:12+05:30"
     }
   },
   {
@@ -976,7 +976,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:19+05:30"
+      "measured_at": "2026-10-18T05:14:13+05:30"
     }
   },
   {
@@ -996,7 +996,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:20+05:30"
+      "measured_at": "2026-10-18T05:14:15+05:30"
     }
   },
   {
@@ -1016,7 +1016,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:22+05:30"
+      "measured_at": "2026-10-18T05:14:16+05:30"
     }
   },
   {
@@ -1028,15 +1028,15 @@
     "osm_id": 13088491840,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.0,
-      "peak_congestion_pct": 0.0,
-      "avg_speed_kmph": 25.0,
+      "avg_congestion_pct": 12.0,
+      "peak_congestion_pct": 12.0,
+      "avg_speed_kmph": 22.0,
       "road_segments": 1,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:23+05:30"
+      "measured_at": "2026-10-18T05:14:18+05:30"
     }
   },
   {
@@ -1048,15 +1048,15 @@
     "osm_id": 13088491871,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.0,
-      "peak_congestion_pct": 0.0,
-      "avg_speed_kmph": 24.0,
+      "avg_congestion_pct": 10.3,
+      "peak_congestion_pct": 12.0,
+      "avg_speed_kmph": 21.5,
       "road_segments": 2,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:25+05:30"
+      "measured_at": "2026-10-18T05:14:19+05:30"
     }
   },
   {
@@ -1076,7 +1076,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:26+05:30"
+      "measured_at": "2026-10-18T05:14:21+05:30"
     }
   },
   {
@@ -1096,7 +1096,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:28+05:30"
+      "measured_at": "2026-10-18T05:14:22+05:30"
     }
   },
   {
@@ -1116,7 +1116,7 @@
       "points_ok": 5,
       "radius_m": 100,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-18T04:39:29+05:30"
+      "measured_at": "2026-10-18T05:14:24+05:30"
     }
   }
 ]
