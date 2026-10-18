@@ -7,17 +7,17 @@
     "zone": "North Kolkata",
     "latitude": 22.60892,
     "longitude": 88.38227,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 17.1,
-      "peak_congestion_pct": 30.0,
-      "avg_speed_kmph": 19.6,
+      "avg_congestion_pct": 3.2,
+      "peak_congestion_pct": 16.0,
+      "avg_speed_kmph": 22.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:21+05:30"
+      "measured_at": "2026-10-19T01:16:49+05:30"
     }
   },
   {
@@ -30,15 +30,15 @@
     "longitude": 88.4146,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 12.5,
+      "avg_congestion_pct": 9.9,
       "peak_congestion_pct": 16.0,
-      "avg_speed_kmph": 23.3,
+      "avg_speed_kmph": 23.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:22+05:30"
+      "measured_at": "2026-10-19T01:16:51+05:30"
     }
   },
   {
@@ -51,15 +51,15 @@
     "longitude": 88.418626,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 29.1,
-      "peak_congestion_pct": 47.1,
-      "avg_speed_kmph": 16.8,
+      "avg_congestion_pct": 15.4,
+      "peak_congestion_pct": 52.9,
+      "avg_speed_kmph": 19.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:24+05:30"
+      "measured_at": "2026-10-19T01:16:53+05:30"
     }
   },
   {
@@ -72,15 +72,15 @@
     "longitude": 88.3734,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 23.0,
-      "peak_congestion_pct": 71.4,
-      "avg_speed_kmph": 13.4,
+      "avg_congestion_pct": 21.0,
+      "peak_congestion_pct": 65.4,
+      "avg_speed_kmph": 14.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:25+05:30"
+      "measured_at": "2026-10-19T01:16:54+05:30"
     }
   },
   {
@@ -93,15 +93,15 @@
     "longitude": 88.3725,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 30.9,
-      "peak_congestion_pct": 71.4,
-      "avg_speed_kmph": 14.5,
+      "avg_congestion_pct": 28.2,
+      "peak_congestion_pct": 65.4,
+      "avg_speed_kmph": 15.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:27+05:30"
+      "measured_at": "2026-10-19T01:16:55+05:30"
     }
   },
   {
@@ -114,15 +114,15 @@
     "longitude": 88.36294,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 23.1,
-      "peak_congestion_pct": 62.5,
-      "avg_speed_kmph": 15.0,
+      "avg_congestion_pct": 19.1,
+      "peak_congestion_pct": 64.0,
+      "avg_speed_kmph": 16.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:28+05:30"
+      "measured_at": "2026-10-19T01:16:57+05:30"
     }
   },
   {
@@ -135,15 +135,15 @@
     "longitude": 88.39413,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 3.7,
-      "peak_congestion_pct": 11.1,
-      "avg_speed_kmph": 18.0,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 18.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:43:29+05:30"
+      "measured_at": "2026-10-19T01:16:58+05:30"
     }
   },
   {
@@ -156,15 +156,15 @@
     "longitude": 88.38639,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.6,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 20.3,
+      "avg_congestion_pct": 4.0,
+      "peak_congestion_pct": 12.0,
+      "avg_speed_kmph": 22.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:43:30+05:30"
+      "measured_at": "2026-10-19T01:16:59+05:30"
     }
   },
   {
@@ -177,15 +177,15 @@
     "longitude": 88.38639,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.6,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 20.3,
+      "avg_congestion_pct": 4.0,
+      "peak_congestion_pct": 12.0,
+      "avg_speed_kmph": 22.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:43:30+05:30"
+      "measured_at": "2026-10-19T01:16:59+05:30"
     }
   },
   {
@@ -198,15 +198,15 @@
     "longitude": 88.42976,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.1,
-      "peak_congestion_pct": 17.4,
-      "avg_speed_kmph": 25.0,
+      "avg_congestion_pct": 8.2,
+      "peak_congestion_pct": 16.0,
+      "avg_speed_kmph": 25.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:43:32+05:30"
+      "measured_at": "2026-10-19T01:17:01+05:30"
     }
   },
   {
@@ -219,15 +219,15 @@
     "longitude": 88.416405,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 22.8,
-      "peak_congestion_pct": 47.1,
+      "avg_congestion_pct": 22.3,
+      "peak_congestion_pct": 52.9,
       "avg_speed_kmph": 19.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:33+05:30"
+      "measured_at": "2026-10-19T01:17:02+05:30"
     }
   },
   {
@@ -240,15 +240,15 @@
     "longitude": 88.38639,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.6,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 20.3,
+      "avg_congestion_pct": 4.0,
+      "peak_congestion_pct": 12.0,
+      "avg_speed_kmph": 22.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:43:33+05:30"
+      "measured_at": "2026-10-19T01:17:02+05:30"
     }
   },
   {
@@ -261,15 +261,15 @@
     "longitude": 88.38639,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.6,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 20.3,
+      "avg_congestion_pct": 4.0,
+      "peak_congestion_pct": 12.0,
+      "avg_speed_kmph": 22.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:43:33+05:30"
+      "measured_at": "2026-10-19T01:17:02+05:30"
     }
   },
   {
@@ -280,17 +280,17 @@
     "zone": "North Kolkata",
     "latitude": 22.594185,
     "longitude": 88.385177,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 12.5,
-      "peak_congestion_pct": 13.6,
-      "avg_speed_kmph": 19.0,
+      "avg_congestion_pct": 18.9,
+      "peak_congestion_pct": 38.9,
+      "avg_speed_kmph": 21.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:35+05:30"
+      "measured_at": "2026-10-19T01:17:04+05:30"
     }
   },
   {
@@ -303,15 +303,15 @@
     "longitude": 88.38639,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.6,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 20.3,
+      "avg_congestion_pct": 4.0,
+      "peak_congestion_pct": 12.0,
+      "avg_speed_kmph": 22.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:43:35+05:30"
+      "measured_at": "2026-10-19T01:17:04+05:30"
     }
   },
   {
@@ -324,15 +324,15 @@
     "longitude": 88.36613,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.0,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 13.3,
+      "avg_congestion_pct": 14.4,
+      "peak_congestion_pct": 27.3,
+      "avg_speed_kmph": 13.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:36+05:30"
+      "measured_at": "2026-10-19T01:17:05+05:30"
     }
   },
   {
@@ -345,15 +345,15 @@
     "longitude": 88.3725,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 30.9,
-      "peak_congestion_pct": 71.4,
-      "avg_speed_kmph": 14.5,
+      "avg_congestion_pct": 28.2,
+      "peak_congestion_pct": 65.4,
+      "avg_speed_kmph": 15.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:36+05:30"
+      "measured_at": "2026-10-19T01:17:05+05:30"
     }
   },
   {
@@ -366,15 +366,15 @@
     "longitude": 88.373418,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 23.0,
-      "peak_congestion_pct": 71.4,
-      "avg_speed_kmph": 13.4,
+      "avg_congestion_pct": 21.0,
+      "peak_congestion_pct": 65.4,
+      "avg_speed_kmph": 14.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:38+05:30"
+      "measured_at": "2026-10-19T01:17:07+05:30"
     }
   },
   {
@@ -385,17 +385,17 @@
     "zone": "North Kolkata",
     "latitude": 22.594386,
     "longitude": 88.372,
-    "area_busyness": "Busy",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 37.9,
-      "peak_congestion_pct": 71.4,
-      "avg_speed_kmph": 15.8,
+      "avg_congestion_pct": 34.6,
+      "peak_congestion_pct": 65.4,
+      "avg_speed_kmph": 17.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:40+05:30"
+      "measured_at": "2026-10-19T01:17:08+05:30"
     }
   },
   {
@@ -408,15 +408,15 @@
     "longitude": 88.3725,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 30.9,
-      "peak_congestion_pct": 71.4,
-      "avg_speed_kmph": 14.5,
+      "avg_congestion_pct": 28.2,
+      "peak_congestion_pct": 65.4,
+      "avg_speed_kmph": 15.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:40+05:30"
+      "measured_at": "2026-10-19T01:17:08+05:30"
     }
   },
   {
@@ -427,17 +427,17 @@
     "zone": "North Kolkata",
     "latitude": 22.59588,
     "longitude": 88.3652,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 7.5,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 15.5,
+      "avg_congestion_pct": 18.6,
+      "peak_congestion_pct": 45.5,
+      "avg_speed_kmph": 14.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:41+05:30"
+      "measured_at": "2026-10-19T01:17:09+05:30"
     }
   },
   {
@@ -448,17 +448,17 @@
     "zone": "North Kolkata",
     "latitude": 22.5997,
     "longitude": 88.36619,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 16.6,
-      "peak_congestion_pct": 35.0,
-      "avg_speed_kmph": 14.6,
+      "avg_congestion_pct": 13.9,
+      "peak_congestion_pct": 27.3,
+      "avg_speed_kmph": 15.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:42+05:30"
+      "measured_at": "2026-10-19T01:17:11+05:30"
     }
   },
   {
@@ -471,15 +471,15 @@
     "longitude": 88.361466,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.2,
-      "peak_congestion_pct": 21.4,
-      "avg_speed_kmph": 14.3,
+      "avg_congestion_pct": 2.6,
+      "peak_congestion_pct": 7.7,
+      "avg_speed_kmph": 15.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:44+05:30"
+      "measured_at": "2026-10-19T01:17:12+05:30"
     }
   },
   {
@@ -492,15 +492,15 @@
     "longitude": 88.361466,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.2,
-      "peak_congestion_pct": 21.4,
-      "avg_speed_kmph": 14.3,
+      "avg_congestion_pct": 2.6,
+      "peak_congestion_pct": 7.7,
+      "avg_speed_kmph": 15.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:44+05:30"
+      "measured_at": "2026-10-19T01:17:12+05:30"
     }
   },
   {
@@ -511,17 +511,17 @@
     "zone": "North Kolkata",
     "latitude": 22.59588,
     "longitude": 88.3652,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 7.5,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 15.5,
+      "avg_congestion_pct": 18.6,
+      "peak_congestion_pct": 45.5,
+      "avg_speed_kmph": 14.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:44+05:30"
+      "measured_at": "2026-10-19T01:17:12+05:30"
     }
   },
   {
@@ -534,15 +534,15 @@
     "longitude": 88.35705,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 23.9,
+      "avg_congestion_pct": 16.0,
       "peak_congestion_pct": 33.3,
-      "avg_speed_kmph": 8.2,
+      "avg_speed_kmph": 9.0,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:45+05:30"
+      "measured_at": "2026-10-19T01:17:14+05:30"
     }
   },
   {
@@ -555,15 +555,15 @@
     "longitude": 88.36294,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 23.1,
-      "peak_congestion_pct": 62.5,
-      "avg_speed_kmph": 15.0,
+      "avg_congestion_pct": 19.1,
+      "peak_congestion_pct": 64.0,
+      "avg_speed_kmph": 16.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:45+05:30"
+      "measured_at": "2026-10-19T01:17:14+05:30"
     }
   },
   {
@@ -574,17 +574,17 @@
     "zone": "North Kolkata",
     "latitude": 22.58539,
     "longitude": 88.36513,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 12.9,
-      "peak_congestion_pct": 38.1,
-      "avg_speed_kmph": 19.0,
+      "avg_congestion_pct": 22.0,
+      "peak_congestion_pct": 33.3,
+      "avg_speed_kmph": 17.0,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:43:47+05:30"
+      "measured_at": "2026-10-19T01:17:16+05:30"
     }
   },
   {
@@ -597,15 +597,15 @@
     "longitude": 88.36294,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 23.1,
-      "peak_congestion_pct": 62.5,
-      "avg_speed_kmph": 15.0,
+      "avg_congestion_pct": 19.1,
+      "peak_congestion_pct": 64.0,
+      "avg_speed_kmph": 16.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:47+05:30"
+      "measured_at": "2026-10-19T01:17:16+05:30"
     }
   },
   {
@@ -618,15 +618,15 @@
     "longitude": 88.36294,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 23.1,
-      "peak_congestion_pct": 62.5,
-      "avg_speed_kmph": 15.0,
+      "avg_congestion_pct": 19.1,
+      "peak_congestion_pct": 64.0,
+      "avg_speed_kmph": 16.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:47+05:30"
+      "measured_at": "2026-10-19T01:17:16+05:30"
     }
   },
   {
@@ -639,15 +639,15 @@
     "longitude": 88.364903,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 23.6,
-      "peak_congestion_pct": 66.7,
-      "avg_speed_kmph": 15.8,
+      "avg_congestion_pct": 21.5,
+      "peak_congestion_pct": 65.4,
+      "avg_speed_kmph": 16.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:48+05:30"
+      "measured_at": "2026-10-19T01:17:17+05:30"
     }
   },
   {
@@ -658,17 +658,17 @@
     "zone": "North Kolkata",
     "latitude": 22.59588,
     "longitude": 88.3652,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 7.5,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 15.5,
+      "avg_congestion_pct": 18.6,
+      "peak_congestion_pct": 45.5,
+      "avg_speed_kmph": 14.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:48+05:30"
+      "measured_at": "2026-10-19T01:17:17+05:30"
     }
   },
   {
@@ -679,17 +679,17 @@
     "zone": "North Kolkata",
     "latitude": 22.585847,
     "longitude": 88.359567,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.6,
-      "peak_congestion_pct": 21.4,
-      "avg_speed_kmph": 18.5,
+      "avg_congestion_pct": 15.2,
+      "peak_congestion_pct": 18.2,
+      "avg_speed_kmph": 17.0,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:50+05:30"
+      "measured_at": "2026-10-19T01:17:19+05:30"
     }
   },
   {
@@ -702,15 +702,15 @@
     "longitude": 88.36294,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 23.1,
-      "peak_congestion_pct": 62.5,
-      "avg_speed_kmph": 15.0,
+      "avg_congestion_pct": 19.1,
+      "peak_congestion_pct": 64.0,
+      "avg_speed_kmph": 16.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:50+05:30"
+      "measured_at": "2026-10-19T01:17:19+05:30"
     }
   },
   {
@@ -721,17 +721,17 @@
     "zone": "North Kolkata",
     "latitude": 22.59579,
     "longitude": 88.38444,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.1,
-      "peak_congestion_pct": 15.8,
-      "avg_speed_kmph": 17.6,
+      "avg_congestion_pct": 17.5,
+      "peak_congestion_pct": 38.9,
+      "avg_speed_kmph": 18.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:52+05:30"
+      "measured_at": "2026-10-19T01:17:20+05:30"
     }
   },
   {
@@ -752,7 +752,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:43:53+05:30"
+      "measured_at": "2026-10-19T01:17:22+05:30"
     }
   },
   {
@@ -765,15 +765,15 @@
     "longitude": 88.35746,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.2,
-      "peak_congestion_pct": 9.1,
-      "avg_speed_kmph": 13.8,
+      "avg_congestion_pct": 4.3,
+      "peak_congestion_pct": 17.4,
+      "avg_speed_kmph": 13.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:55+05:30"
+      "measured_at": "2026-10-19T01:17:23+05:30"
     }
   },
   {
@@ -786,15 +786,15 @@
     "longitude": 88.36936,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 20.1,
+      "avg_congestion_pct": 17.6,
       "peak_congestion_pct": 62.5,
-      "avg_speed_kmph": 15.4,
+      "avg_speed_kmph": 16.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:43:56+05:30"
+      "measured_at": "2026-10-19T01:17:25+05:30"
     }
   },
   {
@@ -805,17 +805,17 @@
     "zone": "North Kolkata",
     "latitude": 22.60293,
     "longitude": 88.36752,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 22.1,
-      "peak_congestion_pct": 60.0,
-      "avg_speed_kmph": 12.8,
+      "avg_congestion_pct": 11.7,
+      "peak_congestion_pct": 30.0,
+      "avg_speed_kmph": 13.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:58+05:30"
+      "measured_at": "2026-10-19T01:17:26+05:30"
     }
   },
   {
@@ -828,15 +828,15 @@
     "longitude": 88.36877,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 12.4,
-      "peak_congestion_pct": 30.0,
-      "avg_speed_kmph": 16.8,
+      "avg_congestion_pct": 11.6,
+      "peak_congestion_pct": 26.3,
+      "avg_speed_kmph": 17.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:43:59+05:30"
+      "measured_at": "2026-10-19T01:17:28+05:30"
     }
   },
   {
@@ -849,15 +849,15 @@
     "longitude": 88.37914,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 8.8,
-      "peak_congestion_pct": 17.4,
-      "avg_speed_kmph": 18.0,
+      "avg_congestion_pct": 12.3,
+      "peak_congestion_pct": 38.9,
+      "avg_speed_kmph": 19.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:01+05:30"
+      "measured_at": "2026-10-19T01:17:29+05:30"
     }
   },
   {
@@ -870,15 +870,15 @@
     "longitude": 88.39027,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 1.3,
-      "peak_congestion_pct": 6.7,
-      "avg_speed_kmph": 21.6,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 21.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:02+05:30"
+      "measured_at": "2026-10-19T01:17:31+05:30"
     }
   },
   {
@@ -891,15 +891,15 @@
     "longitude": 88.360589,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 17.5,
-      "peak_congestion_pct": 38.1,
-      "avg_speed_kmph": 13.8,
+      "avg_congestion_pct": 16.2,
+      "peak_congestion_pct": 33.3,
+      "avg_speed_kmph": 14.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:04+05:30"
+      "measured_at": "2026-10-19T01:17:32+05:30"
     }
   },
   {
@@ -912,15 +912,15 @@
     "longitude": 88.384277,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.7,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 19.5,
+      "avg_congestion_pct": 13.3,
+      "peak_congestion_pct": 38.9,
+      "avg_speed_kmph": 20.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:06+05:30"
+      "measured_at": "2026-10-19T01:17:34+05:30"
     }
   },
   {
@@ -933,15 +933,15 @@
     "longitude": 88.38639,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.6,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 20.3,
+      "avg_congestion_pct": 4.0,
+      "peak_congestion_pct": 12.0,
+      "avg_speed_kmph": 22.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:06+05:30"
+      "measured_at": "2026-10-19T01:17:34+05:30"
     }
   },
   {
@@ -954,15 +954,15 @@
     "longitude": 88.384909,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.8,
-      "peak_congestion_pct": 13.6,
-      "avg_speed_kmph": 19.2,
+      "avg_congestion_pct": 3.7,
+      "peak_congestion_pct": 9.1,
+      "avg_speed_kmph": 19.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:07+05:30"
+      "measured_at": "2026-10-19T01:17:35+05:30"
     }
   },
   {
@@ -975,15 +975,15 @@
     "longitude": 88.38639,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.6,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 20.3,
+      "avg_congestion_pct": 4.0,
+      "peak_congestion_pct": 12.0,
+      "avg_speed_kmph": 22.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:07+05:30"
+      "measured_at": "2026-10-19T01:17:35+05:30"
     }
   },
   {
@@ -996,15 +996,15 @@
     "longitude": 88.38639,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.6,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 20.3,
+      "avg_congestion_pct": 4.0,
+      "peak_congestion_pct": 12.0,
+      "avg_speed_kmph": 22.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:07+05:30"
+      "measured_at": "2026-10-19T01:17:35+05:30"
     }
   },
   {
@@ -1017,15 +1017,15 @@
     "longitude": 88.3929,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.9,
-      "peak_congestion_pct": 15.8,
-      "avg_speed_kmph": 17.5,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 19.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
-      "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:08+05:30"
+      "road_closure_nearby": false,
+      "measured_at": "2026-10-19T01:17:37+05:30"
     }
   },
   {
@@ -1038,15 +1038,15 @@
     "longitude": 88.36133,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 9.3,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 18.6,
+      "avg_congestion_pct": 9.6,
+      "peak_congestion_pct": 18.2,
+      "avg_speed_kmph": 18.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:10+05:30"
+      "measured_at": "2026-10-19T01:17:38+05:30"
     }
   },
   {
@@ -1059,15 +1059,15 @@
     "longitude": 88.35874,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.0,
-      "peak_congestion_pct": 23.1,
-      "avg_speed_kmph": 16.8,
+      "avg_congestion_pct": 6.1,
+      "peak_congestion_pct": 16.7,
+      "avg_speed_kmph": 17.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:11+05:30"
+      "measured_at": "2026-10-19T01:17:39+05:30"
     }
   },
   {
@@ -1080,15 +1080,15 @@
     "longitude": 88.36133,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 9.3,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 18.6,
+      "avg_congestion_pct": 9.6,
+      "peak_congestion_pct": 18.2,
+      "avg_speed_kmph": 18.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:11+05:30"
+      "measured_at": "2026-10-19T01:17:39+05:30"
     }
   },
   {
@@ -1101,15 +1101,15 @@
     "longitude": 88.361571,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.7,
-      "peak_congestion_pct": 28.6,
-      "avg_speed_kmph": 13.0,
+      "avg_congestion_pct": 5.3,
+      "peak_congestion_pct": 19.0,
+      "avg_speed_kmph": 14.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:12+05:30"
+      "measured_at": "2026-10-19T01:17:40+05:30"
     }
   },
   {
@@ -1122,15 +1122,15 @@
     "longitude": 88.36133,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 9.3,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 18.6,
+      "avg_congestion_pct": 9.6,
+      "peak_congestion_pct": 18.2,
+      "avg_speed_kmph": 18.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:12+05:30"
+      "measured_at": "2026-10-19T01:17:40+05:30"
     }
   },
   {
@@ -1143,15 +1143,15 @@
     "longitude": 88.35874,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.0,
-      "peak_congestion_pct": 23.1,
-      "avg_speed_kmph": 16.8,
+      "avg_congestion_pct": 6.1,
+      "peak_congestion_pct": 16.7,
+      "avg_speed_kmph": 17.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:12+05:30"
+      "measured_at": "2026-10-19T01:17:40+05:30"
     }
   },
   {
@@ -1164,7 +1164,7 @@
     "longitude": 88.363596,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 18.0,
+      "avg_congestion_pct": 17.0,
       "peak_congestion_pct": 25.0,
       "avg_speed_kmph": 15.0,
       "road_segments": 5,
@@ -1172,7 +1172,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:14+05:30"
+      "measured_at": "2026-10-19T01:17:42+05:30"
     }
   },
   {
@@ -1185,15 +1185,15 @@
     "longitude": 88.35416,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.9,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 21.8,
+      "avg_congestion_pct": 9.2,
+      "peak_congestion_pct": 18.2,
+      "avg_speed_kmph": 21.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:15+05:30"
+      "measured_at": "2026-10-19T01:17:43+05:30"
     }
   },
   {
@@ -1206,15 +1206,15 @@
     "longitude": 88.36217,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.3,
-      "peak_congestion_pct": 17.4,
-      "avg_speed_kmph": 19.0,
+      "avg_congestion_pct": 2.2,
+      "peak_congestion_pct": 8.7,
+      "avg_speed_kmph": 19.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:17+05:30"
+      "measured_at": "2026-10-19T01:17:45+05:30"
     }
   },
   {
@@ -1227,15 +1227,15 @@
     "longitude": 88.3522,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 9.0,
-      "peak_congestion_pct": 26.7,
-      "avg_speed_kmph": 18.0,
+      "avg_congestion_pct": 13.8,
+      "peak_congestion_pct": 28.6,
+      "avg_speed_kmph": 16.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:18+05:30"
+      "measured_at": "2026-10-19T01:17:46+05:30"
     }
   },
   {
@@ -1248,7 +1248,7 @@
     "longitude": 88.34629,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 8.8,
+      "avg_congestion_pct": 9.3,
       "peak_congestion_pct": 25.0,
       "avg_speed_kmph": 16.0,
       "road_segments": 5,
@@ -1256,7 +1256,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:20+05:30"
+      "measured_at": "2026-10-19T01:17:48+05:30"
     }
   },
   {
@@ -1269,15 +1269,15 @@
     "longitude": 88.34305,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 8.7,
-      "peak_congestion_pct": 21.1,
-      "avg_speed_kmph": 18.2,
+      "avg_congestion_pct": 9.5,
+      "peak_congestion_pct": 26.3,
+      "avg_speed_kmph": 17.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:21+05:30"
+      "measured_at": "2026-10-19T01:17:49+05:30"
     }
   },
   {
@@ -1288,17 +1288,17 @@
     "zone": "South Kolkata",
     "latitude": 22.5326,
     "longitude": 88.34544,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 12.8,
+      "avg_congestion_pct": 15.0,
       "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 15.7,
+      "avg_speed_kmph": 15.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:23+05:30"
+      "measured_at": "2026-10-19T01:17:51+05:30"
     }
   },
   {
@@ -1311,15 +1311,15 @@
     "longitude": 88.350167,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 5.0,
+      "avg_congestion_pct": 8.1,
       "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 17.2,
+      "avg_speed_kmph": 16.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:24+05:30"
+      "measured_at": "2026-10-19T01:17:52+05:30"
     }
   },
   {
@@ -1332,15 +1332,15 @@
     "longitude": 88.34971,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 28.6,
-      "peak_congestion_pct": 59.3,
-      "avg_speed_kmph": 13.3,
+      "avg_congestion_pct": 30.5,
+      "peak_congestion_pct": 63.0,
+      "avg_speed_kmph": 12.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:26+05:30"
+      "measured_at": "2026-10-19T01:17:54+05:30"
     }
   },
   {
@@ -1353,15 +1353,15 @@
     "longitude": 88.34367,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 20.1,
-      "peak_congestion_pct": 38.1,
-      "avg_speed_kmph": 14.0,
+      "avg_congestion_pct": 19.4,
+      "peak_congestion_pct": 28.6,
+      "avg_speed_kmph": 14.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:28+05:30"
+      "measured_at": "2026-10-19T01:17:55+05:30"
     }
   },
   {
@@ -1374,15 +1374,15 @@
     "longitude": 88.341944,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.3,
-      "peak_congestion_pct": 21.7,
-      "avg_speed_kmph": 18.8,
+      "avg_congestion_pct": 5.2,
+      "peak_congestion_pct": 20.8,
+      "avg_speed_kmph": 20.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:29+05:30"
+      "measured_at": "2026-10-19T01:17:57+05:30"
     }
   },
   {
@@ -1395,15 +1395,15 @@
     "longitude": 88.346402,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.7,
-      "peak_congestion_pct": 21.7,
+      "avg_congestion_pct": 13.6,
+      "peak_congestion_pct": 20.8,
       "avg_speed_kmph": 15.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:31+05:30"
+      "measured_at": "2026-10-19T01:17:58+05:30"
     }
   },
   {
@@ -1416,15 +1416,15 @@
     "longitude": 88.37101,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.8,
+      "avg_congestion_pct": 5.0,
       "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 17.2,
+      "avg_speed_kmph": 17.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:32+05:30"
+      "measured_at": "2026-10-19T01:18:00+05:30"
     }
   },
   {
@@ -1437,15 +1437,15 @@
     "longitude": 88.36941,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.8,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 17.6,
+      "avg_congestion_pct": 13.2,
+      "peak_congestion_pct": 40.9,
+      "avg_speed_kmph": 16.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:34+05:30"
+      "measured_at": "2026-10-19T01:18:01+05:30"
     }
   },
   {
@@ -1458,15 +1458,15 @@
     "longitude": 88.391128,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 2.7,
-      "peak_congestion_pct": 13.6,
-      "avg_speed_kmph": 20.6,
+      "avg_congestion_pct": 1.8,
+      "peak_congestion_pct": 9.1,
+      "avg_speed_kmph": 20.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:35+05:30"
+      "measured_at": "2026-10-19T01:18:03+05:30"
     }
   },
   {
@@ -1487,7 +1487,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:37+05:30"
+      "measured_at": "2026-10-19T01:18:05+05:30"
     }
   },
   {
@@ -1508,7 +1508,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:38+05:30"
+      "measured_at": "2026-10-19T01:18:06+05:30"
     }
   },
   {
@@ -1529,7 +1529,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:40+05:30"
+      "measured_at": "2026-10-19T01:18:08+05:30"
     }
   },
   {
@@ -1542,15 +1542,15 @@
     "longitude": 88.32512,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.0,
-      "peak_congestion_pct": 20.0,
-      "avg_speed_kmph": 19.2,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 20.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:41+05:30"
+      "measured_at": "2026-10-19T01:18:09+05:30"
     }
   },
   {
@@ -1563,15 +1563,15 @@
     "longitude": 88.3266,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 5.5,
-      "peak_congestion_pct": 27.3,
-      "avg_speed_kmph": 21.2,
+      "avg_congestion_pct": 1.8,
+      "peak_congestion_pct": 9.1,
+      "avg_speed_kmph": 22.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:43+05:30"
+      "measured_at": "2026-10-19T01:18:11+05:30"
     }
   },
   {
@@ -1584,15 +1584,15 @@
     "longitude": 88.34584,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.2,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 24.0,
+      "avg_congestion_pct": 14.9,
+      "peak_congestion_pct": 34.8,
+      "avg_speed_kmph": 21.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:44+05:30"
+      "measured_at": "2026-10-19T01:18:12+05:30"
     }
   },
   {
@@ -1603,17 +1603,17 @@
     "zone": "South Kolkata",
     "latitude": 22.53565,
     "longitude": 88.35211,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 8.8,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 17.8,
+      "avg_congestion_pct": 15.7,
+      "peak_congestion_pct": 33.3,
+      "avg_speed_kmph": 16.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:46+05:30"
+      "measured_at": "2026-10-19T01:18:14+05:30"
     }
   },
   {
@@ -1634,7 +1634,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:48+05:30"
+      "measured_at": "2026-10-19T01:18:15+05:30"
     }
   },
   {
@@ -1655,7 +1655,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:48+05:30"
+      "measured_at": "2026-10-19T01:18:15+05:30"
     }
   },
   {
@@ -1668,15 +1668,15 @@
     "longitude": 88.348923,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 26.0,
-      "peak_congestion_pct": 38.1,
-      "avg_speed_kmph": 14.0,
+      "avg_congestion_pct": 21.0,
+      "peak_congestion_pct": 28.6,
+      "avg_speed_kmph": 15.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:49+05:30"
+      "measured_at": "2026-10-19T01:18:17+05:30"
     }
   },
   {
@@ -1689,15 +1689,15 @@
     "longitude": 88.35485,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.3,
-      "peak_congestion_pct": 26.1,
-      "avg_speed_kmph": 17.5,
+      "avg_congestion_pct": 12.8,
+      "peak_congestion_pct": 29.6,
+      "avg_speed_kmph": 17.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:51+05:30"
+      "measured_at": "2026-10-19T01:18:18+05:30"
     }
   },
   {
@@ -1710,15 +1710,15 @@
     "longitude": 88.33418,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 3.8,
-      "peak_congestion_pct": 15.4,
-      "avg_speed_kmph": 20.5,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 21.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:52+05:30"
+      "measured_at": "2026-10-19T01:18:20+05:30"
     }
   },
   {
@@ -1731,15 +1731,15 @@
     "longitude": 88.33719,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 14.6,
-      "peak_congestion_pct": 40.9,
-      "avg_speed_kmph": 15.0,
+      "avg_congestion_pct": 10.8,
+      "peak_congestion_pct": 38.1,
+      "avg_speed_kmph": 16.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:54+05:30"
+      "measured_at": "2026-10-19T01:18:21+05:30"
     }
   },
   {
@@ -1752,15 +1752,15 @@
     "longitude": 88.35535,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 30.9,
-      "peak_congestion_pct": 100.0,
-      "avg_speed_kmph": 2.8,
+      "avg_congestion_pct": 30.7,
+      "peak_congestion_pct": 83.3,
+      "avg_speed_kmph": 2.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:55+05:30"
+      "measured_at": "2026-10-19T01:18:23+05:30"
     }
   },
   {
@@ -1773,15 +1773,15 @@
     "longitude": 88.35582,
     "area_busyness": "Busy",
     "area_busyness_detail": {
-      "avg_congestion_pct": 53.5,
-      "peak_congestion_pct": 100.0,
-      "avg_speed_kmph": 9.2,
+      "avg_congestion_pct": 45.2,
+      "peak_congestion_pct": 83.3,
+      "avg_speed_kmph": 10.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:44:57+05:30"
+      "measured_at": "2026-10-19T01:18:24+05:30"
     }
   },
   {
@@ -1794,15 +1794,15 @@
     "longitude": 88.31739,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.4,
-      "peak_congestion_pct": 41.7,
-      "avg_speed_kmph": 23.0,
+      "avg_congestion_pct": 7.6,
+      "peak_congestion_pct": 30.4,
+      "avg_speed_kmph": 23.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:44:58+05:30"
+      "measured_at": "2026-10-19T01:18:26+05:30"
     }
   },
   {
@@ -1815,15 +1815,15 @@
     "longitude": 88.344,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 30.9,
-      "peak_congestion_pct": 38.1,
-      "avg_speed_kmph": 13.3,
+      "avg_congestion_pct": 25.9,
+      "peak_congestion_pct": 28.6,
+      "avg_speed_kmph": 14.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:00+05:30"
+      "measured_at": "2026-10-19T01:18:27+05:30"
     }
   },
   {
@@ -1836,15 +1836,15 @@
     "longitude": 88.34363,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 29.1,
-      "peak_congestion_pct": 38.1,
-      "avg_speed_kmph": 15.0,
+      "avg_congestion_pct": 25.9,
+      "peak_congestion_pct": 27.3,
+      "avg_speed_kmph": 16.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:01+05:30"
+      "measured_at": "2026-10-19T01:18:29+05:30"
     }
   },
   {
@@ -1855,17 +1855,17 @@
     "zone": "South Kolkata",
     "latitude": 22.52415,
     "longitude": 88.34647,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 19.2,
-      "peak_congestion_pct": 33.3,
-      "avg_speed_kmph": 16.4,
+      "avg_congestion_pct": 13.1,
+      "peak_congestion_pct": 24.0,
+      "avg_speed_kmph": 18.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:02+05:30"
+      "measured_at": "2026-10-19T01:18:30+05:30"
     }
   },
   {
@@ -1878,15 +1878,15 @@
     "longitude": 88.34795,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 21.4,
-      "peak_congestion_pct": 33.3,
-      "avg_speed_kmph": 14.4,
+      "avg_congestion_pct": 30.3,
+      "peak_congestion_pct": 71.4,
+      "avg_speed_kmph": 9.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:04+05:30"
+      "measured_at": "2026-10-19T01:18:31+05:30"
     }
   },
   {
@@ -1899,15 +1899,15 @@
     "longitude": 88.34286,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 18.6,
-      "peak_congestion_pct": 40.9,
-      "avg_speed_kmph": 11.5,
+      "avg_congestion_pct": 21.6,
+      "peak_congestion_pct": 50.0,
+      "avg_speed_kmph": 10.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:06+05:30"
+      "measured_at": "2026-10-19T01:18:33+05:30"
     }
   },
   {
@@ -1920,15 +1920,15 @@
     "longitude": 88.34416,
     "area_busyness": "Busy",
     "area_busyness_detail": {
-      "avg_congestion_pct": 36.8,
-      "peak_congestion_pct": 57.1,
-      "avg_speed_kmph": 13.5,
+      "avg_congestion_pct": 38.8,
+      "peak_congestion_pct": 55.0,
+      "avg_speed_kmph": 13.0,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:07+05:30"
+      "measured_at": "2026-10-19T01:18:34+05:30"
     }
   },
   {
@@ -1941,15 +1941,15 @@
     "longitude": 88.3535,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.6,
-      "peak_congestion_pct": 29.2,
-      "avg_speed_kmph": 14.3,
+      "avg_congestion_pct": 12.3,
+      "peak_congestion_pct": 25.0,
+      "avg_speed_kmph": 14.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:09+05:30"
+      "measured_at": "2026-10-19T01:18:36+05:30"
     }
   },
   {
@@ -1962,15 +1962,15 @@
     "longitude": 88.36209,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 33.1,
-      "peak_congestion_pct": 61.1,
-      "avg_speed_kmph": 9.5,
+      "avg_congestion_pct": 19.5,
+      "peak_congestion_pct": 52.9,
+      "avg_speed_kmph": 12.0,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:10+05:30"
+      "measured_at": "2026-10-19T01:18:38+05:30"
     }
   },
   {
@@ -1981,17 +1981,17 @@
     "zone": "South Kolkata",
     "latitude": 22.51951,
     "longitude": 88.36059,
-    "area_busyness": "Busy",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 44.2,
-      "peak_congestion_pct": 100.0,
-      "avg_speed_kmph": 6.8,
+      "avg_congestion_pct": 21.5,
+      "peak_congestion_pct": 83.3,
+      "avg_speed_kmph": 11.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:12+05:30"
+      "measured_at": "2026-10-19T01:18:39+05:30"
     }
   },
   {
@@ -2004,15 +2004,15 @@
     "longitude": 88.36301,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 34.5,
-      "peak_congestion_pct": 70.0,
-      "avg_speed_kmph": 8.6,
+      "avg_congestion_pct": 30.4,
+      "peak_congestion_pct": 52.9,
+      "avg_speed_kmph": 9.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:13+05:30"
+      "measured_at": "2026-10-19T01:18:41+05:30"
     }
   },
   {
@@ -2025,15 +2025,15 @@
     "longitude": 88.36596,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.4,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 11.2,
+      "avg_congestion_pct": 8.0,
+      "peak_congestion_pct": 16.7,
+      "avg_speed_kmph": 12.0,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:15+05:30"
+      "measured_at": "2026-10-19T01:18:42+05:30"
     }
   },
   {
@@ -2046,15 +2046,15 @@
     "longitude": 88.34584,
     "area_busyness": "Busy",
     "area_busyness_detail": {
-      "avg_congestion_pct": 39.6,
-      "peak_congestion_pct": 57.1,
-      "avg_speed_kmph": 13.8,
+      "avg_congestion_pct": 36.1,
+      "peak_congestion_pct": 55.0,
+      "avg_speed_kmph": 14.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:16+05:30"
+      "measured_at": "2026-10-19T01:18:43+05:30"
     }
   },
   {
@@ -2067,15 +2067,15 @@
     "longitude": 88.34584,
     "area_busyness": "Busy",
     "area_busyness_detail": {
-      "avg_congestion_pct": 39.6,
-      "peak_congestion_pct": 57.1,
-      "avg_speed_kmph": 13.8,
+      "avg_congestion_pct": 36.1,
+      "peak_congestion_pct": 55.0,
+      "avg_speed_kmph": 14.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:16+05:30"
+      "measured_at": "2026-10-19T01:18:43+05:30"
     }
   },
   {
@@ -2088,15 +2088,15 @@
     "longitude": 88.34549,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 25.6,
-      "peak_congestion_pct": 30.8,
-      "avg_speed_kmph": 15.8,
+      "avg_congestion_pct": 21.6,
+      "peak_congestion_pct": 29.2,
+      "avg_speed_kmph": 16.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:18+05:30"
+      "measured_at": "2026-10-19T01:18:45+05:30"
     }
   },
   {
@@ -2109,15 +2109,15 @@
     "longitude": 88.34663,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 31.1,
-      "peak_congestion_pct": 62.5,
-      "avg_speed_kmph": 15.2,
+      "avg_congestion_pct": 23.1,
+      "peak_congestion_pct": 39.1,
+      "avg_speed_kmph": 16.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:19+05:30"
+      "measured_at": "2026-10-19T01:18:46+05:30"
     }
   },
   {
@@ -2130,15 +2130,15 @@
     "longitude": 88.36323,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.6,
-      "peak_congestion_pct": 21.4,
-      "avg_speed_kmph": 21.0,
+      "avg_congestion_pct": 11.5,
+      "peak_congestion_pct": 25.0,
+      "avg_speed_kmph": 20.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:21+05:30"
+      "measured_at": "2026-10-19T01:18:48+05:30"
     }
   },
   {
@@ -2151,15 +2151,15 @@
     "longitude": 88.32038,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.5,
-      "peak_congestion_pct": 46.2,
-      "avg_speed_kmph": 19.6,
+      "avg_congestion_pct": 11.6,
+      "peak_congestion_pct": 52.0,
+      "avg_speed_kmph": 19.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:22+05:30"
+      "measured_at": "2026-10-19T01:18:49+05:30"
     }
   },
   {
@@ -2172,15 +2172,15 @@
     "longitude": 88.31739,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.4,
-      "peak_congestion_pct": 41.7,
-      "avg_speed_kmph": 23.0,
+      "avg_congestion_pct": 7.6,
+      "peak_congestion_pct": 30.4,
+      "avg_speed_kmph": 23.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:22+05:30"
+      "measured_at": "2026-10-19T01:18:49+05:30"
     }
   },
   {
@@ -2193,15 +2193,15 @@
     "longitude": 88.31739,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.4,
-      "peak_congestion_pct": 41.7,
-      "avg_speed_kmph": 23.0,
+      "avg_congestion_pct": 7.6,
+      "peak_congestion_pct": 30.4,
+      "avg_speed_kmph": 23.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:22+05:30"
+      "measured_at": "2026-10-19T01:18:49+05:30"
     }
   },
   {
@@ -2212,17 +2212,17 @@
     "zone": "South Kolkata",
     "latitude": 22.49477,
     "longitude": 88.34509,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 15.9,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 18.0,
+      "avg_congestion_pct": 5.2,
+      "peak_congestion_pct": 20.8,
+      "avg_speed_kmph": 20.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:23+05:30"
+      "measured_at": "2026-10-19T01:18:50+05:30"
     }
   },
   {
@@ -2233,17 +2233,17 @@
     "zone": "South Kolkata",
     "latitude": 22.48136,
     "longitude": 88.33731,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 18.8,
-      "peak_congestion_pct": 35.3,
-      "avg_speed_kmph": 15.0,
+      "avg_congestion_pct": 9.4,
+      "peak_congestion_pct": 17.6,
+      "avg_speed_kmph": 16.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:25+05:30"
+      "measured_at": "2026-10-19T01:18:51+05:30"
     }
   },
   {
@@ -2256,15 +2256,15 @@
     "longitude": 88.33753,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.3,
-      "peak_congestion_pct": 35.3,
-      "avg_speed_kmph": 18.2,
+      "avg_congestion_pct": 5.7,
+      "peak_congestion_pct": 17.6,
+      "avg_speed_kmph": 19.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:26+05:30"
+      "measured_at": "2026-10-19T01:18:53+05:30"
     }
   },
   {
@@ -2275,17 +2275,17 @@
     "zone": "South Kolkata",
     "latitude": 22.49477,
     "longitude": 88.34509,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 15.9,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 18.0,
+      "avg_congestion_pct": 5.2,
+      "peak_congestion_pct": 20.8,
+      "avg_speed_kmph": 20.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:26+05:30"
+      "measured_at": "2026-10-19T01:18:53+05:30"
     }
   },
   {
@@ -2298,15 +2298,15 @@
     "longitude": 88.346,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.8,
-      "peak_congestion_pct": 35.3,
-      "avg_speed_kmph": 17.3,
+      "avg_congestion_pct": 5.9,
+      "peak_congestion_pct": 17.6,
+      "avg_speed_kmph": 18.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:27+05:30"
+      "measured_at": "2026-10-19T01:18:54+05:30"
     }
   },
   {
@@ -2319,15 +2319,15 @@
     "longitude": 88.3609,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 12.7,
-      "peak_congestion_pct": 19.0,
-      "avg_speed_kmph": 18.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 22.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:29+05:30"
+      "measured_at": "2026-10-19T01:18:55+05:30"
     }
   },
   {
@@ -2338,17 +2338,17 @@
     "zone": "South Kolkata",
     "latitude": 22.47435,
     "longitude": 88.36653,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 15.7,
-      "peak_congestion_pct": 22.7,
-      "avg_speed_kmph": 18.0,
+      "avg_congestion_pct": 4.2,
+      "peak_congestion_pct": 16.7,
+      "avg_speed_kmph": 20.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:30+05:30"
+      "measured_at": "2026-10-19T01:18:57+05:30"
     }
   },
   {
@@ -2359,17 +2359,17 @@
     "zone": "South Kolkata",
     "latitude": 22.46947,
     "longitude": 88.37001,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 16.7,
-      "peak_congestion_pct": 22.7,
-      "avg_speed_kmph": 18.7,
+      "avg_congestion_pct": 1.4,
+      "peak_congestion_pct": 4.2,
+      "avg_speed_kmph": 22.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:32+05:30"
+      "measured_at": "2026-10-19T01:18:58+05:30"
     }
   },
   {
@@ -2382,15 +2382,15 @@
     "longitude": 88.38092,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 15.9,
-      "peak_congestion_pct": 46.7,
-      "avg_speed_kmph": 18.4,
+      "avg_congestion_pct": 15.7,
+      "peak_congestion_pct": 53.3,
+      "avg_speed_kmph": 18.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:33+05:30"
+      "measured_at": "2026-10-19T01:19:00+05:30"
     }
   },
   {
@@ -2401,17 +2401,17 @@
     "zone": "South Kolkata",
     "latitude": 22.46425,
     "longitude": 88.38046,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 16.9,
-      "peak_congestion_pct": 60.0,
-      "avg_speed_kmph": 16.0,
+      "avg_congestion_pct": 13.5,
+      "peak_congestion_pct": 46.7,
+      "avg_speed_kmph": 16.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:35+05:30"
+      "measured_at": "2026-10-19T01:19:01+05:30"
     }
   },
   {
@@ -2422,17 +2422,17 @@
     "zone": "South Kolkata",
     "latitude": 22.46425,
     "longitude": 88.38046,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 16.9,
-      "peak_congestion_pct": 60.0,
-      "avg_speed_kmph": 16.0,
+      "avg_congestion_pct": 13.5,
+      "peak_congestion_pct": 46.7,
+      "avg_speed_kmph": 16.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:35+05:30"
+      "measured_at": "2026-10-19T01:19:01+05:30"
     }
   },
   {
@@ -2443,17 +2443,17 @@
     "zone": "South Kolkata",
     "latitude": 22.46425,
     "longitude": 88.38046,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 16.9,
-      "peak_congestion_pct": 60.0,
-      "avg_speed_kmph": 16.0,
+      "avg_congestion_pct": 13.5,
+      "peak_congestion_pct": 46.7,
+      "avg_speed_kmph": 16.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:35+05:30"
+      "measured_at": "2026-10-19T01:19:01+05:30"
     }
   },
   {
@@ -2466,15 +2466,15 @@
     "longitude": 88.39154,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 20.1,
-      "peak_congestion_pct": 60.0,
-      "avg_speed_kmph": 21.4,
+      "avg_congestion_pct": 21.8,
+      "peak_congestion_pct": 46.7,
+      "avg_speed_kmph": 20.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:36+05:30"
+      "measured_at": "2026-10-19T01:19:03+05:30"
     }
   },
   {
@@ -2487,15 +2487,15 @@
     "longitude": 88.38277,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.0,
-      "peak_congestion_pct": 40.0,
-      "avg_speed_kmph": 19.5,
+      "avg_congestion_pct": 8.3,
+      "peak_congestion_pct": 33.3,
+      "avg_speed_kmph": 19.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:37+05:30"
+      "measured_at": "2026-10-19T01:19:04+05:30"
     }
   },
   {
@@ -2508,15 +2508,15 @@
     "longitude": 88.37845,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 24.0,
-      "peak_congestion_pct": 40.0,
-      "avg_speed_kmph": 18.0,
+      "avg_congestion_pct": 20.4,
+      "peak_congestion_pct": 33.3,
+      "avg_speed_kmph": 18.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:39+05:30"
+      "measured_at": "2026-10-19T01:19:06+05:30"
     }
   },
   {
@@ -2529,15 +2529,15 @@
     "longitude": 88.3981,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.2,
-      "peak_congestion_pct": 26.1,
-      "avg_speed_kmph": 20.6,
+      "avg_congestion_pct": 11.7,
+      "peak_congestion_pct": 34.8,
+      "avg_speed_kmph": 20.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:40+05:30"
+      "measured_at": "2026-10-19T01:19:07+05:30"
     }
   },
   {
@@ -2558,7 +2558,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:42+05:30"
+      "measured_at": "2026-10-19T01:19:09+05:30"
     }
   },
   {
@@ -2571,15 +2571,15 @@
     "longitude": 88.36891,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.2,
+      "avg_congestion_pct": 7.5,
       "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 17.4,
+      "avg_speed_kmph": 18.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:44+05:30"
+      "measured_at": "2026-10-19T01:19:10+05:30"
     }
   },
   {
@@ -2592,15 +2592,15 @@
     "longitude": 88.32492,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 7.6,
-      "peak_congestion_pct": 19.0,
-      "avg_speed_kmph": 16.4,
+      "avg_congestion_pct": 4.7,
+      "peak_congestion_pct": 23.5,
+      "avg_speed_kmph": 17.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:45+05:30"
+      "measured_at": "2026-10-19T01:19:12+05:30"
     }
   },
   {
@@ -2613,15 +2613,15 @@
     "longitude": 88.31143,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 5.8,
+      "avg_congestion_pct": 5.7,
       "peak_congestion_pct": 11.1,
-      "avg_speed_kmph": 16.0,
+      "avg_speed_kmph": 16.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:47+05:30"
+      "measured_at": "2026-10-19T01:19:13+05:30"
     }
   },
   {
@@ -2642,7 +2642,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:48+05:30"
+      "measured_at": "2026-10-19T01:19:15+05:30"
     }
   },
   {
@@ -2655,15 +2655,15 @@
     "longitude": 88.32276,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 12.9,
-      "peak_congestion_pct": 40.9,
-      "avg_speed_kmph": 21.2,
+      "avg_congestion_pct": 7.8,
+      "peak_congestion_pct": 26.1,
+      "avg_speed_kmph": 22.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:50+05:30"
+      "measured_at": "2026-10-19T01:19:16+05:30"
     }
   },
   {
@@ -2676,15 +2676,15 @@
     "longitude": 88.32215,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 23.0,
-      "peak_congestion_pct": 46.2,
-      "avg_speed_kmph": 17.8,
+      "avg_congestion_pct": 20.4,
+      "peak_congestion_pct": 52.0,
+      "avg_speed_kmph": 18.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:51+05:30"
+      "measured_at": "2026-10-19T01:19:18+05:30"
     }
   },
   {
@@ -2697,15 +2697,15 @@
     "longitude": 88.32036,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.5,
-      "peak_congestion_pct": 46.2,
-      "avg_speed_kmph": 21.2,
+      "avg_congestion_pct": 13.0,
+      "peak_congestion_pct": 52.0,
+      "avg_speed_kmph": 20.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:53+05:30"
+      "measured_at": "2026-10-19T01:19:19+05:30"
     }
   },
   {
@@ -2726,7 +2726,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:55+05:30"
+      "measured_at": "2026-10-19T01:19:21+05:30"
     }
   },
   {
@@ -2739,15 +2739,15 @@
     "longitude": 88.31423,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.0,
-      "peak_congestion_pct": 20.0,
-      "avg_speed_kmph": 21.8,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 22.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:56+05:30"
+      "measured_at": "2026-10-19T01:19:23+05:30"
     }
   },
   {
@@ -2760,15 +2760,15 @@
     "longitude": 88.31534,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.2,
-      "peak_congestion_pct": 20.0,
-      "avg_speed_kmph": 21.8,
+      "avg_congestion_pct": 1.1,
+      "peak_congestion_pct": 5.6,
+      "avg_speed_kmph": 22.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:45:58+05:30"
+      "measured_at": "2026-10-19T01:19:24+05:30"
     }
   },
   {
@@ -2789,7 +2789,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:45:59+05:30"
+      "measured_at": "2026-10-19T01:19:26+05:30"
     }
   },
   {
@@ -2802,15 +2802,15 @@
     "longitude": 88.311,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.0,
-      "peak_congestion_pct": 0.0,
-      "avg_speed_kmph": 23.8,
+      "avg_congestion_pct": 1.2,
+      "peak_congestion_pct": 5.9,
+      "avg_speed_kmph": 23.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:01+05:30"
+      "measured_at": "2026-10-19T01:19:27+05:30"
     }
   },
   {
@@ -2823,15 +2823,15 @@
     "longitude": 88.32158,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 7.8,
-      "peak_congestion_pct": 20.0,
-      "avg_speed_kmph": 16.5,
+      "avg_congestion_pct": 2.9,
+      "peak_congestion_pct": 5.9,
+      "avg_speed_kmph": 17.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:03+05:30"
+      "measured_at": "2026-10-19T01:19:29+05:30"
     }
   },
   {
@@ -2844,15 +2844,15 @@
     "longitude": 88.3178,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.6,
-      "peak_congestion_pct": 41.7,
-      "avg_speed_kmph": 17.8,
+      "avg_congestion_pct": 8.9,
+      "peak_congestion_pct": 39.1,
+      "avg_speed_kmph": 18.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:04+05:30"
+      "measured_at": "2026-10-19T01:19:30+05:30"
     }
   },
   {
@@ -2865,15 +2865,15 @@
     "longitude": 88.37488,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 9.1,
-      "peak_congestion_pct": 20.8,
-      "avg_speed_kmph": 20.5,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 22.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:06+05:30"
+      "measured_at": "2026-10-19T01:19:32+05:30"
     }
   },
   {
@@ -2884,17 +2884,17 @@
     "zone": "South Kolkata",
     "latitude": 22.47305,
     "longitude": 88.36919,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 20.9,
-      "peak_congestion_pct": 22.7,
-      "avg_speed_kmph": 17.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 22.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:07+05:30"
+      "measured_at": "2026-10-19T01:19:33+05:30"
     }
   },
   {
@@ -2905,17 +2905,17 @@
     "zone": "South Kolkata",
     "latitude": 22.52745,
     "longitude": 88.34515,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 15.2,
-      "peak_congestion_pct": 36.0,
-      "avg_speed_kmph": 17.0,
+      "avg_congestion_pct": 12.2,
+      "peak_congestion_pct": 28.0,
+      "avg_speed_kmph": 17.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:09+05:30"
+      "measured_at": "2026-10-19T01:19:35+05:30"
     }
   },
   {
@@ -2928,15 +2928,15 @@
     "longitude": 88.34954,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 28.5,
-      "peak_congestion_pct": 38.1,
-      "avg_speed_kmph": 13.2,
+      "avg_congestion_pct": 24.1,
+      "peak_congestion_pct": 28.6,
+      "avg_speed_kmph": 14.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:10+05:30"
+      "measured_at": "2026-10-19T01:19:36+05:30"
     }
   },
   {
@@ -2949,15 +2949,15 @@
     "longitude": 88.35152,
     "area_busyness": "Busy",
     "area_busyness_detail": {
-      "avg_congestion_pct": 37.0,
+      "avg_congestion_pct": 37.5,
       "peak_congestion_pct": 100.0,
-      "avg_speed_kmph": 13.2,
+      "avg_speed_kmph": 13.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:12+05:30"
+      "measured_at": "2026-10-19T01:19:38+05:30"
     }
   },
   {
@@ -2970,15 +2970,15 @@
     "longitude": 88.34614,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.9,
-      "peak_congestion_pct": 30.4,
-      "avg_speed_kmph": 17.0,
+      "avg_congestion_pct": 9.6,
+      "peak_congestion_pct": 20.8,
+      "avg_speed_kmph": 18.0,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:13+05:30"
+      "measured_at": "2026-10-19T01:19:39+05:30"
     }
   },
   {
@@ -2991,15 +2991,15 @@
     "longitude": 88.34108,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.9,
-      "peak_congestion_pct": 30.4,
-      "avg_speed_kmph": 16.5,
+      "avg_congestion_pct": 9.6,
+      "peak_congestion_pct": 20.8,
+      "avg_speed_kmph": 17.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:15+05:30"
+      "measured_at": "2026-10-19T01:19:41+05:30"
     }
   },
   {
@@ -3010,17 +3010,17 @@
     "zone": "South Kolkata",
     "latitude": 22.52255,
     "longitude": 88.36601,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 24.2,
-      "peak_congestion_pct": 55.6,
-      "avg_speed_kmph": 13.0,
+      "avg_congestion_pct": 3.5,
+      "peak_congestion_pct": 17.4,
+      "avg_speed_kmph": 17.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:17+05:30"
+      "measured_at": "2026-10-19T01:19:42+05:30"
     }
   },
   {
@@ -3033,15 +3033,15 @@
     "longitude": 88.34591,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 17.2,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 14.8,
+      "avg_congestion_pct": 27.7,
+      "peak_congestion_pct": 69.2,
+      "avg_speed_kmph": 14.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:18+05:30"
+      "measured_at": "2026-10-19T01:19:44+05:30"
     }
   },
   {
@@ -3052,17 +3052,17 @@
     "zone": "South Kolkata",
     "latitude": 22.52188,
     "longitude": 88.37097,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 15.7,
+      "avg_congestion_pct": 5.8,
       "peak_congestion_pct": 23.1,
-      "avg_speed_kmph": 16.0,
+      "avg_speed_kmph": 17.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:20+05:30"
+      "measured_at": "2026-10-19T01:19:46+05:30"
     }
   },
   {
@@ -3075,15 +3075,15 @@
     "longitude": 88.34745,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 25.3,
-      "peak_congestion_pct": 54.5,
-      "avg_speed_kmph": 11.6,
+      "avg_congestion_pct": 29.0,
+      "peak_congestion_pct": 57.1,
+      "avg_speed_kmph": 11.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:21+05:30"
+      "measured_at": "2026-10-19T01:19:47+05:30"
     }
   },
   {
@@ -3104,7 +3104,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:23+05:30"
+      "measured_at": "2026-10-19T01:19:49+05:30"
     }
   },
   {
@@ -3117,15 +3117,15 @@
     "longitude": 88.37334,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.3,
-      "peak_congestion_pct": 21.7,
-      "avg_speed_kmph": 19.2,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 20.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:24+05:30"
+      "measured_at": "2026-10-19T01:19:50+05:30"
     }
   },
   {
@@ -3138,15 +3138,15 @@
     "longitude": 88.38536,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 8.3,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 20.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 22.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:26+05:30"
+      "measured_at": "2026-10-19T01:19:52+05:30"
     }
   },
   {
@@ -3167,7 +3167,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:28+05:30"
+      "measured_at": "2026-10-19T01:19:53+05:30"
     }
   },
   {
@@ -3178,17 +3178,17 @@
     "zone": "South Kolkata",
     "latitude": 22.52045,
     "longitude": 88.33788,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 16.4,
-      "peak_congestion_pct": 30.8,
-      "avg_speed_kmph": 16.2,
+      "avg_congestion_pct": 13.0,
+      "peak_congestion_pct": 23.1,
+      "avg_speed_kmph": 17.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:29+05:30"
+      "measured_at": "2026-10-19T01:19:55+05:30"
     }
   },
   {
@@ -3201,15 +3201,15 @@
     "longitude": 88.34179,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 5.4,
-      "peak_congestion_pct": 21.7,
-      "avg_speed_kmph": 12.8,
+      "avg_congestion_pct": 8.3,
+      "peak_congestion_pct": 20.8,
+      "avg_speed_kmph": 12.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:31+05:30"
+      "measured_at": "2026-10-19T01:19:56+05:30"
     }
   },
   {
@@ -3222,15 +3222,15 @@
     "longitude": 88.35348,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 28.2,
-      "peak_congestion_pct": 47.6,
-      "avg_speed_kmph": 13.8,
+      "avg_congestion_pct": 25.8,
+      "peak_congestion_pct": 50.0,
+      "avg_speed_kmph": 14.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:32+05:30"
+      "measured_at": "2026-10-19T01:19:58+05:30"
     }
   },
   {
@@ -3243,15 +3243,15 @@
     "longitude": 88.35812,
     "area_busyness": "Busy",
     "area_busyness_detail": {
-      "avg_congestion_pct": 37.7,
+      "avg_congestion_pct": 42.4,
       "peak_congestion_pct": 54.5,
-      "avg_speed_kmph": 13.8,
+      "avg_speed_kmph": 12.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:34+05:30"
+      "measured_at": "2026-10-19T01:19:59+05:30"
     }
   },
   {
@@ -3262,17 +3262,17 @@
     "zone": "South Kolkata",
     "latitude": 22.51735,
     "longitude": 88.36675,
-    "area_busyness": "Busy",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 39.7,
-      "peak_congestion_pct": 80.0,
-      "avg_speed_kmph": 13.4,
+      "avg_congestion_pct": 18.8,
+      "peak_congestion_pct": 52.9,
+      "avg_speed_kmph": 17.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:35+05:30"
+      "measured_at": "2026-10-19T01:20:01+05:30"
     }
   },
   {
@@ -3285,15 +3285,15 @@
     "longitude": 88.34649,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 20.3,
+      "avg_congestion_pct": 21.7,
       "peak_congestion_pct": 54.5,
-      "avg_speed_kmph": 13.2,
+      "avg_speed_kmph": 13.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:37+05:30"
+      "measured_at": "2026-10-19T01:20:02+05:30"
     }
   },
   {
@@ -3306,15 +3306,15 @@
     "longitude": 88.34771,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 24.7,
+      "avg_congestion_pct": 25.0,
       "peak_congestion_pct": 54.5,
-      "avg_speed_kmph": 10.2,
+      "avg_speed_kmph": 10.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:38+05:30"
+      "measured_at": "2026-10-19T01:20:04+05:30"
     }
   },
   {
@@ -3327,15 +3327,15 @@
     "longitude": 88.34986,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 31.0,
-      "peak_congestion_pct": 62.5,
-      "avg_speed_kmph": 11.0,
+      "avg_congestion_pct": 25.8,
+      "peak_congestion_pct": 54.5,
+      "avg_speed_kmph": 12.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:40+05:30"
+      "measured_at": "2026-10-19T01:20:05+05:30"
     }
   },
   {
@@ -3348,15 +3348,15 @@
     "longitude": 88.356,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 30.4,
-      "peak_congestion_pct": 70.0,
-      "avg_speed_kmph": 9.6,
+      "avg_congestion_pct": 31.7,
+      "peak_congestion_pct": 81.8,
+      "avg_speed_kmph": 9.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:41+05:30"
+      "measured_at": "2026-10-19T01:20:07+05:30"
     }
   },
   {
@@ -3369,15 +3369,15 @@
     "longitude": 88.34465,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 30.8,
-      "peak_congestion_pct": 38.5,
-      "avg_speed_kmph": 15.0,
+      "avg_congestion_pct": 24.0,
+      "peak_congestion_pct": 26.3,
+      "avg_speed_kmph": 17.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:43+05:30"
+      "measured_at": "2026-10-19T01:20:08+05:30"
     }
   },
   {
@@ -3388,17 +3388,17 @@
     "zone": "South Kolkata",
     "latitude": 22.47086,
     "longitude": 88.37849,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 15.0,
-      "peak_congestion_pct": 21.7,
-      "avg_speed_kmph": 14.5,
+      "avg_congestion_pct": 3.8,
+      "peak_congestion_pct": 7.7,
+      "avg_speed_kmph": 18.0,
       "road_segments": 2,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:44+05:30"
+      "measured_at": "2026-10-19T01:20:10+05:30"
     }
   },
   {
@@ -3411,15 +3411,15 @@
     "longitude": 88.37857,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.1,
-      "peak_congestion_pct": 8.3,
-      "avg_speed_kmph": 19.6,
+      "avg_congestion_pct": 1.5,
+      "peak_congestion_pct": 7.7,
+      "avg_speed_kmph": 20.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:46+05:30"
+      "measured_at": "2026-10-19T01:20:12+05:30"
     }
   },
   {
@@ -3432,15 +3432,15 @@
     "longitude": 88.37771,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 2.8,
-      "peak_congestion_pct": 8.3,
-      "avg_speed_kmph": 22.0,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 22.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:48+05:30"
+      "measured_at": "2026-10-19T01:20:13+05:30"
     }
   },
   {
@@ -3453,15 +3453,15 @@
     "longitude": 88.36925,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 7.3,
-      "peak_congestion_pct": 20.0,
-      "avg_speed_kmph": 18.6,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 20.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:49+05:30"
+      "measured_at": "2026-10-19T01:20:15+05:30"
     }
   },
   {
@@ -3474,15 +3474,15 @@
     "longitude": 88.34655,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 12.7,
-      "peak_congestion_pct": 19.0,
-      "avg_speed_kmph": 18.8,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 21.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:51+05:30"
+      "measured_at": "2026-10-19T01:20:16+05:30"
     }
   },
   {
@@ -3495,15 +3495,15 @@
     "longitude": 88.34006,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.0,
-      "peak_congestion_pct": 29.2,
-      "avg_speed_kmph": 18.0,
+      "avg_congestion_pct": 5.2,
+      "peak_congestion_pct": 20.8,
+      "avg_speed_kmph": 19.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:52+05:30"
+      "measured_at": "2026-10-19T01:20:18+05:30"
     }
   },
   {
@@ -3516,15 +3516,15 @@
     "longitude": 88.33366,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.4,
-      "peak_congestion_pct": 36.0,
-      "avg_speed_kmph": 19.4,
+      "avg_congestion_pct": 5.6,
+      "peak_congestion_pct": 28.0,
+      "avg_speed_kmph": 21.2,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:46:54+05:30"
+      "measured_at": "2026-10-19T01:20:19+05:30"
     }
   },
   {
@@ -3537,15 +3537,15 @@
     "longitude": 88.36961,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 5.0,
-      "peak_congestion_pct": 20.0,
-      "avg_speed_kmph": 18.8,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 19.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:55+05:30"
+      "measured_at": "2026-10-19T01:20:21+05:30"
     }
   },
   {
@@ -3558,15 +3558,15 @@
     "longitude": 88.36783,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 7.6,
-      "peak_congestion_pct": 22.7,
-      "avg_speed_kmph": 17.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 19.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:57+05:30"
+      "measured_at": "2026-10-19T01:20:22+05:30"
     }
   },
   {
@@ -3587,7 +3587,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:46:59+05:30"
+      "measured_at": "2026-10-19T01:20:24+05:30"
     }
   },
   {
@@ -3600,15 +3600,15 @@
     "longitude": 88.33842,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 14.9,
-      "peak_congestion_pct": 29.4,
-      "avg_speed_kmph": 16.5,
+      "avg_congestion_pct": 11.2,
+      "peak_congestion_pct": 25.0,
+      "avg_speed_kmph": 17.0,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:00+05:30"
+      "measured_at": "2026-10-19T01:20:25+05:30"
     }
   },
   {
@@ -3621,15 +3621,15 @@
     "longitude": 88.33172,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 7.0,
-      "peak_congestion_pct": 11.1,
-      "avg_speed_kmph": 18.3,
+      "avg_congestion_pct": 3.5,
+      "peak_congestion_pct": 5.6,
+      "avg_speed_kmph": 19.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:02+05:30"
+      "measured_at": "2026-10-19T01:20:27+05:30"
     }
   },
   {
@@ -3640,17 +3640,17 @@
     "zone": "South Kolkata",
     "latitude": 22.47995,
     "longitude": 88.3432,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.0,
-      "peak_congestion_pct": 21.1,
-      "avg_speed_kmph": 18.7,
+      "avg_congestion_pct": 15.3,
+      "peak_congestion_pct": 36.8,
+      "avg_speed_kmph": 17.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:03+05:30"
+      "measured_at": "2026-10-19T01:20:28+05:30"
     }
   },
   {
@@ -3663,15 +3663,15 @@
     "longitude": 88.34219,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 17.4,
-      "peak_congestion_pct": 29.4,
-      "avg_speed_kmph": 16.2,
+      "avg_congestion_pct": 19.0,
+      "peak_congestion_pct": 36.8,
+      "avg_speed_kmph": 15.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:05+05:30"
+      "measured_at": "2026-10-19T01:20:30+05:30"
     }
   },
   {
@@ -3682,17 +3682,17 @@
     "zone": "South Kolkata",
     "latitude": 22.47632,
     "longitude": 88.33859,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.4,
-      "peak_congestion_pct": 21.1,
-      "avg_speed_kmph": 17.7,
+      "avg_congestion_pct": 17.0,
+      "peak_congestion_pct": 36.8,
+      "avg_speed_kmph": 17.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:06+05:30"
+      "measured_at": "2026-10-19T01:20:31+05:30"
     }
   },
   {
@@ -3705,15 +3705,15 @@
     "longitude": 88.33427,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.8,
-      "peak_congestion_pct": 10.0,
-      "avg_speed_kmph": 19.5,
+      "avg_congestion_pct": 3.5,
+      "peak_congestion_pct": 9.1,
+      "avg_speed_kmph": 19.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:08+05:30"
+      "measured_at": "2026-10-19T01:20:33+05:30"
     }
   },
   {
@@ -3724,17 +3724,17 @@
     "zone": "South Kolkata",
     "latitude": 22.47008,
     "longitude": 88.33845,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.4,
-      "peak_congestion_pct": 21.1,
-      "avg_speed_kmph": 17.7,
+      "avg_congestion_pct": 17.0,
+      "peak_congestion_pct": 36.8,
+      "avg_speed_kmph": 17.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:09+05:30"
+      "measured_at": "2026-10-19T01:20:34+05:30"
     }
   },
   {
@@ -3745,17 +3745,17 @@
     "zone": "South Kolkata",
     "latitude": 22.51171,
     "longitude": 88.34306,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.2,
-      "peak_congestion_pct": 42.9,
-      "avg_speed_kmph": 11.8,
+      "avg_congestion_pct": 16.8,
+      "peak_congestion_pct": 40.9,
+      "avg_speed_kmph": 11.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:11+05:30"
+      "measured_at": "2026-10-19T01:20:36+05:30"
     }
   },
   {
@@ -3768,15 +3768,15 @@
     "longitude": 88.34815,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 22.5,
-      "peak_congestion_pct": 42.3,
-      "avg_speed_kmph": 14.6,
+      "avg_congestion_pct": 18.4,
+      "peak_congestion_pct": 29.2,
+      "avg_speed_kmph": 15.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:13+05:30"
+      "measured_at": "2026-10-19T01:20:37+05:30"
     }
   },
   {
@@ -3789,15 +3789,15 @@
     "longitude": 88.37199,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 9.2,
-      "peak_congestion_pct": 20.0,
-      "avg_speed_kmph": 19.8,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 21.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:14+05:30"
+      "measured_at": "2026-10-19T01:20:39+05:30"
     }
   },
   {
@@ -3810,15 +3810,15 @@
     "longitude": 88.36864,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 5.0,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 19.4,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 20.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:16+05:30"
+      "measured_at": "2026-10-19T01:20:40+05:30"
     }
   },
   {
@@ -3831,15 +3831,15 @@
     "longitude": 88.3441,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 21.8,
-      "peak_congestion_pct": 58.3,
-      "avg_speed_kmph": 14.0,
+      "avg_congestion_pct": 15.1,
+      "peak_congestion_pct": 41.7,
+      "avg_speed_kmph": 15.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:17+05:30"
+      "measured_at": "2026-10-19T01:20:42+05:30"
     }
   },
   {
@@ -3850,17 +3850,17 @@
     "zone": "South Kolkata",
     "latitude": 22.50597,
     "longitude": 88.35611,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 18.5,
+      "avg_congestion_pct": 13.5,
       "peak_congestion_pct": 29.2,
-      "avg_speed_kmph": 19.5,
+      "avg_speed_kmph": 20.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:19+05:30"
+      "measured_at": "2026-10-19T01:20:44+05:30"
     }
   },
   {
@@ -3873,15 +3873,15 @@
     "longitude": 88.3656,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 5.0,
-      "peak_congestion_pct": 20.0,
-      "avg_speed_kmph": 21.2,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 22.2,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:20+05:30"
+      "measured_at": "2026-10-19T01:20:45+05:30"
     }
   },
   {
@@ -3894,15 +3894,15 @@
     "longitude": 88.37207,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 8.6,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 16.4,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 18.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:22+05:30"
+      "measured_at": "2026-10-19T01:20:47+05:30"
     }
   },
   {
@@ -3915,15 +3915,15 @@
     "longitude": 88.30808,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.0,
-      "peak_congestion_pct": 39.1,
-      "avg_speed_kmph": 21.7,
+      "avg_congestion_pct": 11.6,
+      "peak_congestion_pct": 34.8,
+      "avg_speed_kmph": 22.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:23+05:30"
+      "measured_at": "2026-10-19T01:20:48+05:30"
     }
   },
   {
@@ -3934,17 +3934,17 @@
     "zone": "South Kolkata",
     "latitude": 22.48253,
     "longitude": 88.38241,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 15.0,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 18.7,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 22.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:25+05:30"
+      "measured_at": "2026-10-19T01:20:50+05:30"
     }
   },
   {
@@ -3957,15 +3957,15 @@
     "longitude": 88.32802,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.3,
-      "peak_congestion_pct": 40.9,
-      "avg_speed_kmph": 18.8,
+      "avg_congestion_pct": 5.2,
+      "peak_congestion_pct": 26.1,
+      "avg_speed_kmph": 20.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:27+05:30"
+      "measured_at": "2026-10-19T01:20:51+05:30"
     }
   },
   {
@@ -3978,15 +3978,15 @@
     "longitude": 88.29914,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.8,
-      "peak_congestion_pct": 12.9,
-      "avg_speed_kmph": 20.2,
+      "avg_congestion_pct": 3.5,
+      "peak_congestion_pct": 11.1,
+      "avg_speed_kmph": 20.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:28+05:30"
+      "measured_at": "2026-10-19T01:20:53+05:30"
     }
   },
   {
@@ -4007,7 +4007,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:30+05:30"
+      "measured_at": "2026-10-19T01:20:54+05:30"
     }
   },
   {
@@ -4018,17 +4018,17 @@
     "zone": "South Kolkata",
     "latitude": 22.50703,
     "longitude": 88.32276,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 16.0,
-      "peak_congestion_pct": 40.9,
-      "avg_speed_kmph": 18.2,
+      "avg_congestion_pct": 10.8,
+      "peak_congestion_pct": 27.8,
+      "avg_speed_kmph": 19.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:31+05:30"
+      "measured_at": "2026-10-19T01:20:56+05:30"
     }
   },
   {
@@ -4041,15 +4041,15 @@
     "longitude": 88.31428,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 3.5,
+      "avg_congestion_pct": 3.4,
       "peak_congestion_pct": 11.1,
-      "avg_speed_kmph": 19.2,
+      "avg_speed_kmph": 19.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:33+05:30"
+      "measured_at": "2026-10-19T01:20:57+05:30"
     }
   },
   {
@@ -4060,17 +4060,17 @@
     "zone": "South Kolkata",
     "latitude": 22.50329,
     "longitude": 88.32636,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 19.9,
-      "peak_congestion_pct": 44.0,
-      "avg_speed_kmph": 11.8,
+      "avg_congestion_pct": 11.5,
+      "peak_congestion_pct": 52.0,
+      "avg_speed_kmph": 13.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:34+05:30"
+      "measured_at": "2026-10-19T01:20:59+05:30"
     }
   },
   {
@@ -4083,15 +4083,15 @@
     "longitude": 88.30748,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 9.8,
-      "peak_congestion_pct": 39.1,
-      "avg_speed_kmph": 24.5,
+      "avg_congestion_pct": 8.7,
+      "peak_congestion_pct": 34.8,
+      "avg_speed_kmph": 24.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:36+05:30"
+      "measured_at": "2026-10-19T01:21:00+05:30"
     }
   },
   {
@@ -4112,7 +4112,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:38+05:30"
+      "measured_at": "2026-10-19T01:21:02+05:30"
     }
   },
   {
@@ -4125,15 +4125,15 @@
     "longitude": 88.3848,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 3.1,
-      "peak_congestion_pct": 12.5,
-      "avg_speed_kmph": 17.0,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 17.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:39+05:30"
+      "measured_at": "2026-10-19T01:21:03+05:30"
     }
   },
   {
@@ -4146,15 +4146,15 @@
     "longitude": 88.38274,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 9.8,
-      "peak_congestion_pct": 23.1,
-      "avg_speed_kmph": 19.5,
+      "avg_congestion_pct": 6.7,
+      "peak_congestion_pct": 26.9,
+      "avg_speed_kmph": 20.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:41+05:30"
+      "measured_at": "2026-10-19T01:21:05+05:30"
     }
   },
   {
@@ -4167,15 +4167,15 @@
     "longitude": 88.38069,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.0,
-      "peak_congestion_pct": 23.1,
-      "avg_speed_kmph": 20.0,
+      "avg_congestion_pct": 9.0,
+      "peak_congestion_pct": 26.9,
+      "avg_speed_kmph": 21.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:42+05:30"
+      "measured_at": "2026-10-19T01:21:07+05:30"
     }
   },
   {
@@ -4188,15 +4188,15 @@
     "longitude": 88.37826,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.0,
-      "peak_congestion_pct": 23.1,
-      "avg_speed_kmph": 20.0,
+      "avg_congestion_pct": 9.0,
+      "peak_congestion_pct": 26.9,
+      "avg_speed_kmph": 21.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:44+05:30"
+      "measured_at": "2026-10-19T01:21:08+05:30"
     }
   },
   {
@@ -4207,17 +4207,17 @@
     "zone": "South Kolkata",
     "latitude": 22.51695,
     "longitude": 88.39143,
-    "area_busyness": "Moderate",
+    "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 20.2,
-      "peak_congestion_pct": 25.9,
-      "avg_speed_kmph": 22.3,
+      "avg_congestion_pct": 9.0,
+      "peak_congestion_pct": 26.9,
+      "avg_speed_kmph": 25.3,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:45+05:30"
+      "measured_at": "2026-10-19T01:21:10+05:30"
     }
   },
   {
@@ -4230,15 +4230,15 @@
     "longitude": 88.37645,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 4.2,
-      "peak_congestion_pct": 16.7,
-      "avg_speed_kmph": 17.5,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 18.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:47+05:30"
+      "measured_at": "2026-10-19T01:21:11+05:30"
     }
   },
   {
@@ -4251,15 +4251,15 @@
     "longitude": 88.3981,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 10.2,
-      "peak_congestion_pct": 26.1,
-      "avg_speed_kmph": 20.6,
+      "avg_congestion_pct": 11.7,
+      "peak_congestion_pct": 34.8,
+      "avg_speed_kmph": 20.4,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:47+05:30"
+      "measured_at": "2026-10-19T01:21:11+05:30"
     }
   },
   {
@@ -4272,15 +4272,15 @@
     "longitude": 88.39621,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 6.2,
-      "peak_congestion_pct": 18.8,
-      "avg_speed_kmph": 24.3,
+      "avg_congestion_pct": 0.0,
+      "peak_congestion_pct": 0.0,
+      "avg_speed_kmph": 26.0,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:48+05:30"
+      "measured_at": "2026-10-19T01:21:13+05:30"
     }
   },
   {
@@ -4293,15 +4293,15 @@
     "longitude": 88.39848,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.7,
-      "peak_congestion_pct": 28.0,
-      "avg_speed_kmph": 23.5,
+      "avg_congestion_pct": 7.7,
+      "peak_congestion_pct": 30.8,
+      "avg_speed_kmph": 24.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:50+05:30"
+      "measured_at": "2026-10-19T01:21:14+05:30"
     }
   },
   {
@@ -4314,15 +4314,15 @@
     "longitude": 88.39154,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 20.1,
-      "peak_congestion_pct": 60.0,
-      "avg_speed_kmph": 21.4,
+      "avg_congestion_pct": 21.8,
+      "peak_congestion_pct": 46.7,
+      "avg_speed_kmph": 20.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:50+05:30"
+      "measured_at": "2026-10-19T01:21:14+05:30"
     }
   },
   {
@@ -4343,7 +4343,7 @@
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:51+05:30"
+      "measured_at": "2026-10-19T01:21:16+05:30"
     }
   },
   {
@@ -4356,15 +4356,15 @@
     "longitude": 88.4026,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 13.8,
-      "peak_congestion_pct": 45.8,
-      "avg_speed_kmph": 18.0,
+      "avg_congestion_pct": 12.1,
+      "peak_congestion_pct": 36.4,
+      "avg_speed_kmph": 18.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:53+05:30"
+      "measured_at": "2026-10-19T01:21:17+05:30"
     }
   },
   {
@@ -4377,15 +4377,15 @@
     "longitude": 88.4129,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 24.7,
+      "avg_congestion_pct": 23.1,
       "peak_congestion_pct": 47.8,
-      "avg_speed_kmph": 13.4,
+      "avg_speed_kmph": 13.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:54+05:30"
+      "measured_at": "2026-10-19T01:21:19+05:30"
     }
   },
   {
@@ -4398,15 +4398,15 @@
     "longitude": 88.42153,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 8.8,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 22.8,
+      "avg_congestion_pct": 3.8,
+      "peak_congestion_pct": 19.0,
+      "avg_speed_kmph": 24.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:56+05:30"
+      "measured_at": "2026-10-19T01:21:20+05:30"
     }
   },
   {
@@ -4419,15 +4419,15 @@
     "longitude": 88.42153,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 8.8,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 22.8,
+      "avg_congestion_pct": 3.8,
+      "peak_congestion_pct": 19.0,
+      "avg_speed_kmph": 24.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:56+05:30"
+      "measured_at": "2026-10-19T01:21:20+05:30"
     }
   },
   {
@@ -4440,15 +4440,15 @@
     "longitude": 88.42976,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.1,
-      "peak_congestion_pct": 17.4,
-      "avg_speed_kmph": 25.0,
+      "avg_congestion_pct": 8.2,
+      "peak_congestion_pct": 16.0,
+      "avg_speed_kmph": 25.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:56+05:30"
+      "measured_at": "2026-10-19T01:21:20+05:30"
     }
   },
   {
@@ -4461,15 +4461,15 @@
     "longitude": 88.42976,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.1,
-      "peak_congestion_pct": 17.4,
-      "avg_speed_kmph": 25.0,
+      "avg_congestion_pct": 8.2,
+      "peak_congestion_pct": 16.0,
+      "avg_speed_kmph": 25.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:56+05:30"
+      "measured_at": "2026-10-19T01:21:20+05:30"
     }
   },
   {
@@ -4482,15 +4482,15 @@
     "longitude": 88.42976,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 11.1,
-      "peak_congestion_pct": 17.4,
-      "avg_speed_kmph": 25.0,
+      "avg_congestion_pct": 8.2,
+      "peak_congestion_pct": 16.0,
+      "avg_speed_kmph": 25.7,
       "road_segments": 3,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:47:56+05:30"
+      "measured_at": "2026-10-19T01:21:20+05:30"
     }
   },
   {
@@ -4503,15 +4503,15 @@
     "longitude": 88.4085,
     "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 25.5,
+      "avg_congestion_pct": 23.9,
       "peak_congestion_pct": 47.1,
-      "avg_speed_kmph": 16.6,
+      "avg_speed_kmph": 17.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:57+05:30"
+      "measured_at": "2026-10-19T01:21:21+05:30"
     }
   },
   {
@@ -4522,17 +4522,17 @@
     "zone": "East Kolkata",
     "latitude": 22.59047,
     "longitude": 88.41562,
-    "area_busyness": "Light",
+    "area_busyness": "Moderate",
     "area_busyness_detail": {
-      "avg_congestion_pct": 9.8,
-      "peak_congestion_pct": 30.0,
-      "avg_speed_kmph": 21.4,
+      "avg_congestion_pct": 15.2,
+      "peak_congestion_pct": 35.0,
+      "avg_speed_kmph": 21.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:58+05:30"
+      "measured_at": "2026-10-19T01:21:22+05:30"
     }
   },
   {
@@ -4545,15 +4545,15 @@
     "longitude": 88.42153,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 8.8,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 22.8,
+      "avg_congestion_pct": 3.8,
+      "peak_congestion_pct": 19.0,
+      "avg_speed_kmph": 24.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:58+05:30"
+      "measured_at": "2026-10-19T01:21:22+05:30"
     }
   },
   {
@@ -4566,15 +4566,15 @@
     "longitude": 88.42153,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 8.8,
-      "peak_congestion_pct": 25.0,
-      "avg_speed_kmph": 22.8,
+      "avg_congestion_pct": 3.8,
+      "peak_congestion_pct": 19.0,
+      "avg_speed_kmph": 24.0,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:47:58+05:30"
+      "measured_at": "2026-10-19T01:21:22+05:30"
     }
   },
   {
@@ -4587,15 +4587,15 @@
     "longitude": 88.42902,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 5.9,
-      "peak_congestion_pct": 29.6,
-      "avg_speed_kmph": 27.8,
+      "avg_congestion_pct": 6.7,
+      "peak_congestion_pct": 33.3,
+      "avg_speed_kmph": 27.6,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:48:00+05:30"
+      "measured_at": "2026-10-19T01:21:24+05:30"
     }
   },
   {
@@ -4608,15 +4608,15 @@
     "longitude": 88.34014,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.0,
-      "peak_congestion_pct": 0.0,
-      "avg_speed_kmph": 22.8,
+      "avg_congestion_pct": 3.1,
+      "peak_congestion_pct": 12.5,
+      "avg_speed_kmph": 21.8,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": false,
-      "measured_at": "2026-10-19T00:48:02+05:30"
+      "measured_at": "2026-10-19T01:21:25+05:30"
     }
   },
   {
@@ -4629,15 +4629,15 @@
     "longitude": 88.334,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.0,
-      "peak_congestion_pct": 0.0,
+      "avg_congestion_pct": 2.5,
+      "peak_congestion_pct": 12.5,
       "avg_speed_kmph": 18.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
-      "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:48:03+05:30"
+      "road_closure_nearby": false,
+      "measured_at": "2026-10-19T01:21:27+05:30"
     }
   },
   {
@@ -4650,15 +4650,15 @@
     "longitude": 88.334,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.0,
-      "peak_congestion_pct": 0.0,
+      "avg_congestion_pct": 2.5,
+      "peak_congestion_pct": 12.5,
       "avg_speed_kmph": 18.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
-      "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:48:03+05:30"
+      "road_closure_nearby": false,
+      "measured_at": "2026-10-19T01:21:27+05:30"
     }
   },
   {
@@ -4671,15 +4671,15 @@
     "longitude": 88.43977,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.8,
-      "peak_congestion_pct": 3.1,
-      "avg_speed_kmph": 28.8,
+      "avg_congestion_pct": 1.6,
+      "peak_congestion_pct": 3.3,
+      "avg_speed_kmph": 28.5,
       "road_segments": 4,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
       "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:48:05+05:30"
+      "measured_at": "2026-10-19T01:21:29+05:30"
     }
   },
   {
@@ -4692,15 +4692,15 @@
     "longitude": 88.334,
     "area_busyness": "Light",
     "area_busyness_detail": {
-      "avg_congestion_pct": 0.0,
-      "peak_congestion_pct": 0.0,
+      "avg_congestion_pct": 2.5,
+      "peak_congestion_pct": 12.5,
       "avg_speed_kmph": 18.8,
       "road_segments": 5,
       "points_requested": 5,
       "points_ok": 5,
       "radius_m": 500,
-      "road_closure_nearby": true,
-      "measured_at": "2026-10-19T00:48:05+05:30"
+      "road_closure_nearby": false,
+      "measured_at": "2026-10-19T01:21:29+05:30"
     }
   }
 ]
