@@ -217,7 +217,3 @@ Those controls are **per process**. They are not shared across multiple workers 
 - Metro special-service notices and local opening-hour data can change; verify current official notices before travel.
 - Road-traffic-derived busyness data should not be presented as a pedestrian crowd or queue measurement.
 - Respect attribution and license requirements for the sources identified in the bundled datasets (including OpenStreetMap data where used).
-
-## License
-
-Add a `LICENSE` file before granting others permission to reuse or redistribute this project. Public visibility on GitHub alone does not grant an open-source license.
