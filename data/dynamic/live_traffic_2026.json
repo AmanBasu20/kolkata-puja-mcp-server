@@ -1,8 +1,8 @@
 {
   "dataset_name": "Kolkata Live Traffic Advisories",
   "provenance": "Official Kolkata Police Facebook Updates (#kolkatatrafficupdate)",
-  "last_collected_at": "2026-10-19T21:18:35.703514+00:00",
-  "historical_events_count": 8,
+  "last_collected_at": "2026-10-19T21:54:09.873916+00:00",
+  "historical_events_count": 9,
   "latest_state_per_location": {},
   "historical_records": [
     {
@@ -53,7 +53,31 @@
       "source_page": "KolkataTrafficPolice",
       "posted_at": "2026-10-15T23:09:10.986540+00:00",
       "timestamp_precision": "relative",
-      "collected_at": "2026-10-18T23:09:10.986540+00:00"
+      "collected_at": "2026-10-19T21:54:09.873916+00:00"
+    },
+    {
+      "id": "KP-LIVE-FB-pfbid0DoHQotStTHYhrQ11FdrXD2phrANGEN4PQADTKaAPx8p2t3km8iWXUqWfjWpaqxNrl",
+      "post_id": "pfbid0DoHQotStTHYhrQ11FdrXD2phrANGEN4PQADTKaAPx8p2t3km8iWXUqWfjWpaqxNrl",
+      "locations": [
+        "Maa Flyover"
+      ],
+      "clause_states": [
+        {
+          "locations": [
+            "Maa Flyover"
+          ],
+          "traffic_status": "unknown",
+          "cause": "breakdown",
+          "directions": {},
+          "raw_clause": "Traffic update:- Broken down vehicle has been removed from Maa Flyover near Boat Club. #Kolkatatrafficupdate"
+        }
+      ],
+      "message": "Traffic update:- Broken down vehicle has been removed from Maa Flyover near Boat Club. #Kolkatatrafficupdate",
+      "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid0DoHQotStTHYhrQ11FdrXD2phrANGEN4PQADTKaAPx8p2t3km8iWXUqWfjWpaqxNrl",
+      "source_page": "KolkataTrafficPolice",
+      "posted_at": "2026-10-15T21:54:09.873916+00:00",
+      "timestamp_precision": "relative",
+      "collected_at": "2026-10-19T21:54:09.873916+00:00"
     },
     {
       "id": "KP-LIVE-FB-pfbid02CxMPVX2giWm1frTPrTiUxZUT9WUEsRmbTwhiKCuDyUQdDDeafBrcvAucsDRUEBpTl",
