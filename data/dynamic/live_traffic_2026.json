@@ -1,7 +1,7 @@
 {
   "dataset_name": "Kolkata Live Traffic Advisories",
   "provenance": "Official Kolkata Police Facebook Updates (#kolkatatrafficupdate)",
-  "last_collected_at": "2026-10-18T23:43:53.603115+00:00",
+  "last_collected_at": "2026-10-19T00:09:37.812561+00:00",
   "historical_events_count": 8,
   "latest_state_per_location": {},
   "historical_records": [
