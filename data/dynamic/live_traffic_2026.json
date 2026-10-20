@@ -1,8 +1,8 @@
 {
   "dataset_name": "Kolkata Live Traffic Advisories",
   "provenance": "Official Kolkata Police Facebook Updates (#kolkatatrafficupdate)",
-  "last_collected_at": "2026-10-20T20:56:02.897026+00:00",
-  "historical_events_count": 11,
+  "last_collected_at": "2026-10-20T22:53:47.406072+00:00",
+  "historical_events_count": 12,
   "latest_state_per_location": {},
   "historical_records": [
     {
@@ -54,6 +54,32 @@
       "posted_at": "2026-10-15T23:09:10.986540+00:00",
       "timestamp_precision": "relative",
       "collected_at": "2026-10-19T21:54:09.873916+00:00"
+    },
+    {
+      "id": "KP-LIVE-FB-pfbid0Q6LTULryXZv4d41zxXLQZatc9TSAau7PnQrpbKmcZErgmNWXLrcPYjWzMUMCFnEVl",
+      "post_id": "pfbid0Q6LTULryXZv4d41zxXLQZatc9TSAau7PnQrpbKmcZErgmNWXLrcPYjWzMUMCFnEVl",
+      "locations": [
+        "7 Point Crossing",
+        "Maa Flyover"
+      ],
+      "clause_states": [
+        {
+          "locations": [
+            "7 Point Crossing",
+            "Maa Flyover"
+          ],
+          "traffic_status": "slow",
+          "cause": "breakdown",
+          "directions": {},
+          "raw_clause": "Traffic update:- Breakdown of a vehicle on Maa Flyover near Boat Club has slowed down the traffic towards Park Circus 7 Point crossing. #Kolkatatrafficupdate"
+        }
+      ],
+      "message": "Traffic update:- Breakdown of a vehicle on Maa Flyover near Boat Club has slowed down the traffic towards Park Circus 7 Point crossing. #Kolkatatrafficupdate",
+      "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid0Q6LTULryXZv4d41zxXLQZatc9TSAau7PnQrpbKmcZErgmNWXLrcPYjWzMUMCFnEVl",
+      "source_page": "KolkataTrafficPolice",
+      "posted_at": "2026-10-15T22:53:47.406072+00:00",
+      "timestamp_precision": "relative",
+      "collected_at": "2026-10-20T22:53:47.406072+00:00"
     },
     {
       "id": "KP-LIVE-FB-pfbid02TdyePWVLNn5CtQtS1gfGkkL7nAsxPVqps1hw6v2FTBdgMxw3t1hiVxZXU2DoGCjYl",
@@ -127,7 +153,7 @@
       "source_page": "KolkataTrafficPolice",
       "posted_at": "2026-10-15T19:06:29.538484+00:00",
       "timestamp_precision": "relative",
-      "collected_at": "2026-10-20T19:06:29.538484+00:00"
+      "collected_at": "2026-10-20T22:53:47.406072+00:00"
     },
     {
       "id": "KP-LIVE-FB-pfbid02CxMPVX2giWm1frTPrTiUxZUT9WUEsRmbTwhiKCuDyUQdDDeafBrcvAucsDRUEBpTl",
