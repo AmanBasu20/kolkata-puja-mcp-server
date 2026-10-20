@@ -1,8 +1,8 @@
 {
   "dataset_name": "Kolkata Live Traffic Advisories",
   "provenance": "Official Kolkata Police Facebook Updates (#kolkatatrafficupdate)",
-  "last_collected_at": "2026-10-20T18:18:34.431169+00:00",
-  "historical_events_count": 10,
+  "last_collected_at": "2026-10-20T19:06:29.538484+00:00",
+  "historical_events_count": 11,
   "latest_state_per_location": {},
   "historical_records": [
     {
@@ -79,7 +79,7 @@
       "source_page": "KolkataTrafficPolice",
       "posted_at": "2026-10-15T22:53:27.919994+00:00",
       "timestamp_precision": "relative",
-      "collected_at": "2026-10-19T22:53:27.919994+00:00"
+      "collected_at": "2026-10-20T19:06:29.538484+00:00"
     },
     {
       "id": "KP-LIVE-FB-pfbid0DoHQotStTHYhrQ11FdrXD2phrANGEN4PQADTKaAPx8p2t3km8iWXUqWfjWpaqxNrl",
@@ -104,6 +104,30 @@
       "posted_at": "2026-10-15T21:54:09.873916+00:00",
       "timestamp_precision": "relative",
       "collected_at": "2026-10-19T22:53:27.919994+00:00"
+    },
+    {
+      "id": "KP-LIVE-FB-pfbid02Hej7zZNiJhGmVwiYNwueX5J1ggQ2wvBC4G6sfKv4kSFiB3ZAKdMY9dyVPVVbxvW1l",
+      "post_id": "pfbid02Hej7zZNiJhGmVwiYNwueX5J1ggQ2wvBC4G6sfKv4kSFiB3ZAKdMY9dyVPVVbxvW1l",
+      "locations": [
+        "Maa Flyover"
+      ],
+      "clause_states": [
+        {
+          "locations": [
+            "Maa Flyover"
+          ],
+          "traffic_status": "unknown",
+          "cause": "breakdown",
+          "directions": {},
+          "raw_clause": "Traffic update:- Broken down vehicle has been removed from Maa Flyover near Boat Club. #Kolkatatrafficupdate"
+        }
+      ],
+      "message": "Traffic update:- Broken down vehicle has been removed from Maa Flyover near Boat Club. #Kolkatatrafficupdate",
+      "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid02Hej7zZNiJhGmVwiYNwueX5J1ggQ2wvBC4G6sfKv4kSFiB3ZAKdMY9dyVPVVbxvW1l",
+      "source_page": "KolkataTrafficPolice",
+      "posted_at": "2026-10-15T19:06:29.538484+00:00",
+      "timestamp_precision": "relative",
+      "collected_at": "2026-10-20T19:06:29.538484+00:00"
     },
     {
       "id": "KP-LIVE-FB-pfbid02CxMPVX2giWm1frTPrTiUxZUT9WUEsRmbTwhiKCuDyUQdDDeafBrcvAucsDRUEBpTl",
