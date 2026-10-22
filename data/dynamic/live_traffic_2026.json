@@ -1,10 +1,36 @@
 {
   "dataset_name": "Kolkata Live Traffic Advisories",
   "provenance": "Official Kolkata Police Facebook Updates (#kolkatatrafficupdate)",
-  "last_collected_at": "2026-10-22T17:33:44.773631+00:00",
-  "historical_events_count": 12,
+  "last_collected_at": "2026-10-22T18:05:22.672206+00:00",
+  "historical_events_count": 13,
   "latest_state_per_location": {},
   "historical_records": [
+    {
+      "id": "KP-LIVE-FB-pfbid02TTpe6NDbZGw3VphzHDWVQPm6FpV5TKRFedCSVa3eFG4cFwN1s92rYCmWuZThfkJBl",
+      "post_id": "pfbid02TTpe6NDbZGw3VphzHDWVQPm6FpV5TKRFedCSVa3eFG4cFwN1s92rYCmWuZThfkJBl",
+      "locations": [
+        "7 Point Crossing",
+        "Maa Flyover"
+      ],
+      "clause_states": [
+        {
+          "locations": [
+            "7 Point Crossing",
+            "Maa Flyover"
+          ],
+          "traffic_status": "slow",
+          "cause": "breakdown",
+          "directions": {},
+          "raw_clause": "Traffic update:- Breakdown of a vehicle on Maa Flyover near Boat Club has slowed down the traffic towards Park Circus 7 Point crossing. #Kolkatatrafficupdate"
+        }
+      ],
+      "message": "Traffic update:- Breakdown of a vehicle on Maa Flyover near Boat Club has slowed down the traffic towards Park Circus 7 Point crossing. #Kolkatatrafficupdate",
+      "post_url": "https://www.facebook.com/KolkataTrafficPolice/posts/pfbid02TTpe6NDbZGw3VphzHDWVQPm6FpV5TKRFedCSVa3eFG4cFwN1s92rYCmWuZThfkJBl",
+      "source_page": "KolkataTrafficPolice",
+      "posted_at": "2026-10-16T18:05:22.672206+00:00",
+      "timestamp_precision": "relative",
+      "collected_at": "2026-10-22T18:05:22.672206+00:00"
+    },
     {
       "id": "KP-LIVE-FB-pfbid02HLvbj45FJXngo4SZ4rHFYPWPvWkz3g6XxMxNWs4ReeiwBxUXF7P9ZGFkHuskEa5Hl",
       "post_id": "pfbid02HLvbj45FJXngo4SZ4rHFYPWPvWkz3g6XxMxNWs4ReeiwBxUXF7P9ZGFkHuskEa5Hl",
