@@ -232,5 +232,50 @@
     "post_datetime": "2026-10-14T19:20:09+00:00",
     "validated_at": "2026-10-14T20:33:09Z",
     "approved_at": null
+  },
+  "11f8274f2e069fec43ab42fd99c3aa6b1c1c1a860820320e5471a920eaf581e5": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image is a promotional flyer that prominently features multiple photographs of Durga idols, mandaps, and pandal architecture, including specific references to the Dumdum Park Tarun Sangha venue.",
+    "post_datetime": "2026-10-23T13:16:05+00:00",
+    "validated_at": "2026-10-23T16:36:36Z",
+    "approved_at": "2026-10-23T16:36:36Z"
+  },
+  "5286e157208ee1da1c561a37eb80ff6fcdf963610d62c6a5d1077379ab8b3863": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a promotional flyer featuring a portrait of a committee member and text announcements, with no visible pandal architecture, idol, or venue.",
+    "post_datetime": "2026-10-23T14:03:24+00:00",
+    "validated_at": "2026-10-23T16:41:36Z",
+    "approved_at": null
+  },
+  "dcf300250267c357e504fc89eb92596a0f667b234ee419a0e536e0ff7983a76f": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image features a clear and prominent view of a Durga idol (specifically a seated, multi-armed representation) amidst a decorative setting with flowers and water, which falls under the criteria of featuring a Durga idol/mandap.",
+    "post_datetime": "2026-10-23T07:59:17+00:00",
+    "validated_at": "2026-10-23T16:41:49Z",
+    "approved_at": "2026-10-23T16:41:49Z"
+  },
+  "61e9f8be64afabe621f3e494587bc58b93509beedd417a4f9f1ea3230956989e": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image clearly features a detailed photograph of a Durga idol with an ornate mandap/architecture in the background, which is a legitimate part of the pandal, despite the overlaid text and portrait.",
+    "post_datetime": "2026-10-23T08:39:03+00:00",
+    "validated_at": "2026-10-23T16:42:50Z",
+    "approved_at": "2026-10-23T16:42:50Z"
+  },
+  "599a89208aba0d9218d28ea92dd564971334077df420ffe7c377102bf50839cc": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a purely text-based graphic or digital flyer featuring a stylized illustration of a toran (entrance decoration) and sweets, not a photograph of an actual pandal, idol, or venue.",
+    "post_datetime": "2026-10-23T11:18:07+00:00",
+    "validated_at": "2026-10-23T16:46:52Z",
+    "approved_at": null
   }
 }
