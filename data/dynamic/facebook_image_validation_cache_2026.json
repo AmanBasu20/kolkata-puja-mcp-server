@@ -239,8 +239,8 @@
     "confidence": 0.95,
     "reason": "The image is a promotional flyer that prominently features multiple photographs of Durga idols, mandaps, and pandal architecture, including specific references to the Dumdum Park Tarun Sangha venue.",
     "post_datetime": "2026-10-23T13:16:05+00:00",
-    "validated_at": "2026-10-23T16:36:36Z",
-    "approved_at": "2026-10-23T16:36:36Z"
+    "validated_at": "2026-10-23T17:00:26Z",
+    "approved_at": "2026-10-23T17:00:26Z"
   },
   "5286e157208ee1da1c561a37eb80ff6fcdf963610d62c6a5d1077379ab8b3863": {
     "decision": "rejected",
@@ -257,8 +257,8 @@
     "confidence": 0.95,
     "reason": "The image features a clear and prominent view of a Durga idol (specifically a seated, multi-armed representation) amidst a decorative setting with flowers and water, which falls under the criteria of featuring a Durga idol/mandap.",
     "post_datetime": "2026-10-23T07:59:17+00:00",
-    "validated_at": "2026-10-23T16:41:49Z",
-    "approved_at": "2026-10-23T16:41:49Z"
+    "validated_at": "2026-10-23T17:06:38Z",
+    "approved_at": "2026-10-23T17:06:38Z"
   },
   "61e9f8be64afabe621f3e494587bc58b93509beedd417a4f9f1ea3230956989e": {
     "decision": "approved",
@@ -266,8 +266,8 @@
     "confidence": 0.95,
     "reason": "The image clearly features a detailed photograph of a Durga idol with an ornate mandap/architecture in the background, which is a legitimate part of the pandal, despite the overlaid text and portrait.",
     "post_datetime": "2026-10-23T08:39:03+00:00",
-    "validated_at": "2026-10-23T16:42:50Z",
-    "approved_at": "2026-10-23T16:42:50Z"
+    "validated_at": "2026-10-23T17:08:05Z",
+    "approved_at": "2026-10-23T17:08:05Z"
   },
   "599a89208aba0d9218d28ea92dd564971334077df420ffe7c377102bf50839cc": {
     "decision": "rejected",
@@ -276,6 +276,69 @@
     "reason": "The image is a purely text-based graphic or digital flyer featuring a stylized illustration of a toran (entrance decoration) and sweets, not a photograph of an actual pandal, idol, or venue.",
     "post_datetime": "2026-10-23T11:18:07+00:00",
     "validated_at": "2026-10-23T16:46:52Z",
+    "approved_at": null
+  },
+  "54b8f787899e4446ea5067db41ebafb10fb4dc5109fa87786c610d859e7070da": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a purely text-based announcement flyer containing the committee logo, theme title, and closing message. It does not show any photograph of the pandal architecture, Durga idol, or venue.",
+    "post_datetime": "2026-10-22T11:46:32+00:00",
+    "validated_at": "2026-10-23T16:59:28Z",
+    "approved_at": null
+  },
+  "5cedfcffd5f17306b9852cd4a5f07f95a2cabacb4dd428fec73450a294667263": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a purely text-based announcement flyer containing the theme name, dates, and committee details, with no visible photograph of a pandal, idol, or venue architecture.",
+    "post_datetime": "2026-10-22T11:46:32+00:00",
+    "validated_at": "2026-10-23T16:59:29Z",
+    "approved_at": null
+  },
+  "1bf8bc899310a7c3f694ef4a91aa4ae302262a20d53bec2d83839d4345035cbc": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 1.0,
+    "reason": "The image is a purely text-based flyer/announcement containing Bengali text and a committee logo, with no visual depiction of a pandal, idol, or venue.",
+    "post_datetime": "2026-10-21T18:07:26+00:00",
+    "validated_at": "2026-10-23T16:59:50Z",
+    "approved_at": null
+  },
+  "39b11176ccb236794f82f866c00841882bed088e705af2ece53668c7a0d3c1fd": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image shows a man performing a ritual (likely Shonchopankhni) with food offerings and fish, but it does not feature a Durga Puja pandal, idol, mandap, or venue architecture.",
+    "post_datetime": "2026-10-22T09:39:22+00:00",
+    "validated_at": "2026-10-23T17:02:49Z",
+    "approved_at": null
+  },
+  "2473ab8e25c2138046c9ff59146bda8cc8eea0eacbed13fb3a31e5aa14cdc89c": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image features a clear, high-quality photograph of the Durga idol (specifically the multi-armed figure and Ganesha) within the pandal setting, accompanied by overlaid text announcing the closing of the pandal.",
+    "post_datetime": "2026-10-22T14:35:03+00:00",
+    "validated_at": "2026-10-23T17:03:36Z",
+    "approved_at": "2026-10-23T17:03:36Z"
+  },
+  "039a7ef54ad236afe2c218524bdbc9436c67f7094d2628b4603dfe66e8004f52": {
+    "decision": "approved",
+    "is_pandal_image": true,
+    "confidence": 0.95,
+    "reason": "The image features a clear, high-quality photograph of a Durga idol (specifically the hands and face) and the lion (Vahana) within the mandap, despite the overlaid text and greeting graphics.",
+    "post_datetime": "2026-10-22T14:35:03+00:00",
+    "validated_at": "2026-10-23T17:03:37Z",
+    "approved_at": "2026-10-23T17:03:37Z"
+  },
+  "1c65e6705c6404033f9ebdf41290163aeb5e0bd764f0d3dd1e641def2eafd95b": {
+    "decision": "rejected",
+    "is_pandal_image": false,
+    "confidence": 0.95,
+    "reason": "The image is a purely text-based flyer and QR code directory for a hospital (J. N. Ray Hospital) listing locations in Kolkata. It contains no photographs of a Durga Puja pandal, idol, or venue architecture.",
+    "post_datetime": "2026-10-19T18:18:43+00:00",
+    "validated_at": "2026-10-23T17:03:58Z",
     "approved_at": null
   }
 }
