@@ -15,7 +15,7 @@
     "image_rule": "images must belong to the selected recent Facebook post",
     "collection_method": "scrapebadger_facebook_page_posts_plus_post_details"
   },
-  "last_run": "2026-10-24T00:58:38Z",
+  "last_run": "2026-10-24T06:49:35Z",
   "records": [
     {
       "pandal_id": "P001",
@@ -29,7 +29,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:34Z",
+      "last_scraped_at": "2026-10-24T06:49:32Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -45,7 +45,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:35Z",
+      "last_scraped_at": "2026-10-24T06:49:32Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -86,7 +86,7 @@
       ],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:35Z",
+      "last_scraped_at": "2026-10-24T06:49:32Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -111,7 +111,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:35Z",
+      "last_scraped_at": "2026-10-24T06:49:32Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -136,7 +136,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:35Z",
+      "last_scraped_at": "2026-10-24T06:49:33Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -161,7 +161,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:35Z",
+      "last_scraped_at": "2026-10-24T06:49:33Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -186,7 +186,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:35Z",
+      "last_scraped_at": "2026-10-24T06:49:33Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -211,7 +211,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:35Z",
+      "last_scraped_at": "2026-10-24T06:49:33Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -227,7 +227,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:35Z",
+      "last_scraped_at": "2026-10-24T06:49:33Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -289,7 +289,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:35Z",
+      "last_scraped_at": "2026-10-24T06:49:33Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -330,7 +330,7 @@
       ],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:36Z",
+      "last_scraped_at": "2026-10-24T06:49:33Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -346,7 +346,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:36Z",
+      "last_scraped_at": "2026-10-24T06:49:33Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -362,7 +362,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:36Z",
+      "last_scraped_at": "2026-10-24T06:49:33Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -387,7 +387,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:36Z",
+      "last_scraped_at": "2026-10-24T06:49:33Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -403,7 +403,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:36Z",
+      "last_scraped_at": "2026-10-24T06:49:34Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -419,7 +419,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:36Z",
+      "last_scraped_at": "2026-10-24T06:49:34Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -435,7 +435,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:36Z",
+      "last_scraped_at": "2026-10-24T06:49:34Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -460,7 +460,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:36Z",
+      "last_scraped_at": "2026-10-24T06:49:34Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -476,7 +476,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:36Z",
+      "last_scraped_at": "2026-10-24T06:49:34Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -517,7 +517,7 @@
       ],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:37Z",
+      "last_scraped_at": "2026-10-24T06:49:34Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -542,7 +542,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:37Z",
+      "last_scraped_at": "2026-10-24T06:49:34Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -567,7 +567,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:37Z",
+      "last_scraped_at": "2026-10-24T06:49:34Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -592,7 +592,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:37Z",
+      "last_scraped_at": "2026-10-24T06:49:34Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -633,7 +633,7 @@
       ],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:37Z",
+      "last_scraped_at": "2026-10-24T06:49:34Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -658,7 +658,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:37Z",
+      "last_scraped_at": "2026-10-24T06:49:35Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 6
     },
@@ -683,7 +683,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:37Z",
+      "last_scraped_at": "2026-10-24T06:49:35Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 1
     },
@@ -699,7 +699,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:37Z",
+      "last_scraped_at": "2026-10-24T06:49:35Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 1
     },
@@ -715,7 +715,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:37Z",
+      "last_scraped_at": "2026-10-24T06:49:35Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 1
     },
@@ -740,7 +740,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:38Z",
+      "last_scraped_at": "2026-10-24T06:49:35Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 1
     },
@@ -756,7 +756,7 @@
       "images": [],
       "pending_images": [],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:38Z",
+      "last_scraped_at": "2026-10-24T06:49:35Z",
       "last_error": "We couldn't add free credits to this account because it looks like another account was already created from this browser. If that's not right, contact support and we'll fix it. Reach support at support@scrapebadger.com or the chat on your dashboard, or purchase credits to use the API now.",
       "freshness_window_days": 1
     },
@@ -781,7 +781,7 @@
         }
       ],
       "scrape_status": "stale",
-      "last_scraped_at": "2026-10-24T00:58:38Z",
+      "last_scraped_at": "2026-10-24T06:49:35Z",
       "last_error": "{'error': 'insufficient_credits', 'message': \"You've run out of API credits and this key keeps retrying. Requests will keep failing until you purchase more credits — please stop or slow down this client.\", 'help': 'Visit your dashboard to purchase additional credits or upgrade your plan.', 'upgrade_url': 'https://scrapebadger.com/dashboard/billing', 'free_credits_url': 'https://scrapebadger.com/dashboard/free-credits', 'pricing_url': 'https://scrapebadger.com/pricing'}",
       "freshness_window_days": 1
     },
